@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: default
 title: Seja bem-vindo ao meu mundo de cuidados com a saúde e beleza!
 description: Seja bem-vindo ao meu mundo de cuidados com a saúde e beleza!
 ---
