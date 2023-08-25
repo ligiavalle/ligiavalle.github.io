@@ -1,7 +1,7 @@
 ---
 layout: about
 title: Seja bem-vindo ao meu mundo de cuidados com a saúde e beleza!
-description: 
+description: Seja bem-vindo ao meu mundo de cuidados com a saúde e beleza!
 ---
 
 Seja bem-vindo ao meu mundo de cuidados com a saúde e beleza!
