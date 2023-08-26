@@ -1,14 +1,25 @@
 <div class="widget widget-recent-posts">
     <h4 class="widget-title">Recomendado</h4>
 
+    {% if page.recommended == "Smart Active Collagen" %}
     <div class="thumbnail">
-        <img src="/assets/img/reskin.jpg"  alt="...">
+        <img src="/assets/img/reskin.jpg"  alt="Smart Active Collagen">
         <div class="caption">
             <h4>Smart Active Collagen<span class="badge pull-right"> 210g </span> </h4>
             <p>Bebida rejuvenescedora com colágeno Verisol®</p>
-
             <p class="text-center"><a href="https://behive.global/produtos/reskin/smart-active-collagen-pink-lemonade-210g?loja=/ligiavalle&" class="btn btn-primary" style="background-color: #2a7ae2" role="button" target="_blank">Descubra mais</a></p>
         </div>
     </div>
+
+    {% elsif page.recommended == "Prebiotic Collagen" %}
+    <div class="thumbnail">
+        <img src="/assets/img/prebiotic.jpg"  alt="Prebiotic Collagen">
+        <div class="caption">
+            <h4>Prebiotic Collage<span class="badge pull-right"> 270g </span> </h4>
+            <p>Bebida rejuvenescedora com colágeno Verisol®</p>
+            <p class="text-center"><a href="https://behive.global/produtos/reskin/prebiotic-collagen-tangerina-270g?loja=/ligiavalle&" class="btn btn-primary" style="background-color: #2a7ae2" role="button" target="_blank">Descubra mais</a></p>
+        </div>
+    </div>
+    {% endif %}
 </div>
 </div>

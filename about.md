@@ -9,7 +9,7 @@ que possam ajudar você a tomar decisões informadas sobre os produtos que utili
 Com uma sólida formação em farmácia hospitalar e uma carreira que abrange desde pesquisa clínica
 até aconselhamento de cuidados pessoais, estou aqui para oferecer informações confiáveis e insights
 sobre os produtos que fazem parte do seu dia a dia.
-### Sobre Mim
+
 Após anos de dedicação ao campo da saúde, minha jornada me levou a explorar diversas áreas
 da farmácia, desde o ambiente hospitalar até os rigores da pesquisa clínica. Minha experiência prática
 e conhecimento aprofundado me permitiram compreender não apenas os ingredientes que compõem os produtos

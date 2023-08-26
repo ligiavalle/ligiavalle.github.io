@@ -4,6 +4,8 @@ title: Bem-vindo
 description: Neste site, você encontrará uma variedade de recursos de saúde e beleza, incluindo análises aprofundadas de
   produtos, informações sobre os principais ingredientes, dicas de aplicação e orientações sobre como prepará-los
   selecione os produtos que melhor atendem às suas necessidades individuais.
+
+recommended: Smart Active Collagen
 ---
 
 Seja bem-vindo ao meu mundo de cuidados com a saúde e beleza!
