@@ -32,7 +32,7 @@
 
                                 <span class="post-date"><a href="#"><time class="entry-date" datetime="{{ page.date }}">{{ page.date  | date_to_long_string }}</time></a></span>
 
-                                <span class="comments-link"><a href="https://plus.google.com/u/0/106503478633817605504?rel=author">{{ page.author }}</a></span>
+<!--                                <span class="comments-link"><a href="https://plus.google.com/u/0/106503478633817605504?rel=author">{{ page.author }}</a></span>-->
                             </div>
                         </header>
 
@@ -46,41 +46,8 @@
                     </article>
                 </main>
                 <aside class="col-md-4">
-                    <div class="widget widget-recent-posts">
-                        <h3 class="widget-title">Recent Posts</h3>
-
-                        <ul>
-                            {% for post in site.posts limit:5 %}
-                            <li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-                            {% endfor %}
-                        </ul>
-                    </div>
-                    <div class="widget widget-archives">
-                        <h3 class="widget-title">Archives</h3>
-                        {% for post in site.posts %}
-                        {% assign currentDate = post.date | date: "%Y" %}
-                        {% if currentDate != myDate %}
-                        {% unless forloop.first %}</ul>{% endunless %}
-                        <h4>{{ currentDate }}</h4>
-                        <ul>
-                            {% assign myDate = currentDate %}
-                            {% endif %}
-                            <li><a href="{{ post.url }}"><span>{{ post.date | date: "%B %-d, %Y" }}</span> - {{ post.title }}</a></li>
-                            {% if forloop.last %}</ul>{% endif %}
-                        {% endfor %}
-
-
-                    </div>
-
-                    <div class="widget widget-category">
-                        <h3 class="widget-title">Category</h3>
-                        <ul>
-                            <li>
-                                <a href="#">Revisão</a>
-                            </li>
-                        </ul>
-                    </div>
-
+                    {% include recent.html %}
+                    {% include archives.html %}
                 </aside>
             </div>
         </div>

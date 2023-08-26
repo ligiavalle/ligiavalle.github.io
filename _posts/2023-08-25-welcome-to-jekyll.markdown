@@ -1,32 +1,18 @@
 ---
 layout: post
-title:  "My very first post"
+title:  "Meu primeiro post sobre colágeno"
 date:   2023-08-25 11:37:32 +0200
-categories: updates
+categories: colágeno
 ---
-
-Another change
-Last Commit
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-Jekyll requires blog post files to be named according to the following format:
-
-`YEAR-MONTH-DAY-title.MARKUP`
-
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+O colágeno é uma proteína fundamental encontrada no corpo humano e em muitos outros animais. 
+É um componente importante da pele, ossos, tendões, ligamentos, cartilagens e outros tecidos conjuntivos.
+O colágeno desempenha um papel crucial na manutenção da integridade estrutural desses tecidos. 
+Ele fornece resistência e elasticidade à pele, ajuda a manter a saúde das articulações e contribui para a 
+força dos ossos. 
+Com o envelhecimento, a produção de colágeno pelo corpo tende a diminuir, o que pode levar a problemas 
+como rugas na pele, perda de elasticidade, enfraquecimento dos ossos e problemas articulares.
+Devido à sua importância, o colágeno também é frequentemente usado em produtos de cuidados com a pele, 
+suplementos alimentares e tratamentos médicos. Suplementos de colágeno são comercializados para promover a 
+saúde da pele, cabelo, unhas, articulações e ossos. No entanto, é importante notar que a eficácia destes 
+suplementos pode variar e é importante combiná-los com uma dieta equilibrada e hábitos de vida saudáveis 
+para obter melhores resultados.

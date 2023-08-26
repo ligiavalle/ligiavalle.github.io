@@ -1,9 +1,10 @@
 ---
 layout: about
-title: Ligia,Conselheira de Saúde e Beleza
-description: 
+title: Sobre Mim
+description: Meu nome é Ligia Lustosa do Valle, e sou uma farmacêutica com uma paixão por compartilhar conhecimentos
+  que possam ajudar você a tomar decisões informadas sobre os produtos que utiliza.
 ---
-Meu nome é **Ligia Valle**, e sou uma farmacêutica com uma paixão por compartilhar conhecimentos
+Meu nome é **Ligia Lustosa do Valle**, e sou uma farmacêutica com uma paixão por compartilhar conhecimentos
 que possam ajudar você a tomar decisões informadas sobre os produtos que utiliza.
 Com uma sólida formação em farmácia hospitalar e uma carreira que abrange desde pesquisa clínica
 até aconselhamento de cuidados pessoais, estou aqui para oferecer informações confiáveis e insights
@@ -36,4 +37,5 @@ aconselhamento médico profissional. Sempre consulte um profissional de saúde a
 significativas em sua rotina de cuidados pessoais.
 Estou ansiosa para embarcar nessa jornada de descoberta e aprendizado com você.
 Vamos explorar o mundo dos produtos de saúde e beleza juntos!
-Atenciosamente, [Seu Nome] Farmacêutica Especializada em Farmácia Hospitalar e Pesquisa Clínica
+
+Atenciosamente, **Ligia Lustosa do Valle** Farmacêutica Especializada em Farmácia Hospitalar e Pesquisa Clínica
