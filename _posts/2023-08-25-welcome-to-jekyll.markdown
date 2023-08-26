@@ -9,6 +9,7 @@ O colágeno é uma proteína fundamental encontrada no corpo humano e em muitos 
 O colágeno desempenha um papel crucial na manutenção da integridade estrutural desses tecidos. 
 Ele fornece resistência e elasticidade à pele, ajuda a manter a saúde das articulações e contribui para a 
 força dos ossos. 
+
 Com o envelhecimento, a produção de colágeno pelo corpo tende a diminuir, o que pode levar a problemas 
 como rugas na pele, perda de elasticidade, enfraquecimento dos ossos e problemas articulares.
 Devido à sua importância, o colágeno também é frequentemente usado em produtos de cuidados com a pele, 
