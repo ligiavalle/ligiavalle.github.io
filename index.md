@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Bem-vindo 
-description: Neste espaço, você encontrará uma variedade de recursos, incluindo análises detalhadas de 
-             produtos, insights sobre os ingredientes-chave, dicas de aplicação e orientações sobre como 
-             selecionar os produtos mais adequados para suas necessidades individuais.
+description: Neste site, você encontrará uma variedade de recursos de saúde e beleza, incluindo análises aprofundadas de
+  produtos, informações sobre os principais ingredientes, dicas de aplicação e orientações sobre como prepará-los
+  selecione os produtos que melhor atendem às suas necessidades individuais.
 ---
 
 Seja bem-vindo ao meu mundo de cuidados com a saúde e beleza!

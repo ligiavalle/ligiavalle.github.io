@@ -1,5 +1,5 @@
 <div class="widget widget-archives">
-    <h3 class="widget-title">Archives</h3>
+    <h4 class="widget-title">Archives</h4>
     {% for post in site.posts %}
     {% assign currentDate = post.date | date: "%Y" %}
     {% if currentDate != myDate %}
