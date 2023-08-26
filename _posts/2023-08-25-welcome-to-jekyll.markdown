@@ -3,7 +3,7 @@ layout: post
 title:  "Meu primeiro post sobre colágeno"
 date:   2023-08-25 11:37:32 +0200
 categories: colágeno
-recommended: Prebiotic Collagen
+
 ---
 O colágeno é uma proteína fundamental encontrada no corpo humano e em muitos outros animais. 
 É um componente importante da pele, ossos, tendões, ligamentos, cartilagens e outros tecidos conjuntivos.
