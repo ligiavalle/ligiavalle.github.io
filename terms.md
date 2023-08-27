@@ -2,6 +2,7 @@
 layout: terms
 title: Termos de Uso
 sitemap: false
+exclude_from_search: true
 ---
 
 ÚLTIMA ATUALIZAÇÃO: 31/agosto/2023

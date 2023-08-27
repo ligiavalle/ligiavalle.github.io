@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    {% include head.html %}
+    <link rel="canonical" href="https://ligiavalle.github.io/">
+    <meta name="Robots" content="index, follow">
+    <script src="/js/search.min.js" type="text/javascript" charset="utf-8"></script>
+</head>
+<body>
+    {% include header.html %}
+    <div class="content-body">
+        <div class="container">
+            <!--            -->
+            <div class="row">
+                <main class="col-md-8 col-sm-8 entry-content ">
+                    <h1 class="">Buscar</h1>
+                    {{ content }}
+
+
+<!--                    <form role="search" method="get" id="searchform" action="#">-->
+<!--                        <input type="search" placeholder="Search" required="">-->
+<!--                        <button type="submit"><span class="ion-ios-search-strong"></span></button>-->
+<!--                    </form>-->
+<!--                    -->
+                    <form role="search" action="/search" id="searchform"  method="get">
+                        <input type="search" id="search-query" name="q" placeholder="Buscar" autocomplete="on">
+                    </form>
+                    <section id="search-results" style="display: none;"> </section>
+                    {% raw %}
+                    <script id="search-results-template" type="text/mustache">
+                        {{#entries}}
+                        <article class="post post-1">
+                            <header class="entry-header">
+                                <h1 class="entry-title">
+                                    <a href="{{url}}">{{title}}</a>
+                               </h1>
+                            </header>
+                            {{#is_post}}
+                             <div class="entry-content clearfix">
+                            <p>{{ excerpt }}</p>
+                            </div>
+                            {{/is_post}}
+                          </article>
+                        {{/entries}}
+
+                    </script>
+                    <script type="text/javascript">
+                        $(function() {
+                            $('#search-query').lunrSearch({
+                                indexUrl  : '/js/index.json',           // url for the .json file containing search index data
+                                results   : '#search-results',          // selector for containing search results element
+                                template  : '#search-results-template', // selector for Mustache.js template
+                                titleMsg  : '<h3>Resultados da Perquisa</h3>',   // message attached in front of results (can be empty)
+                                emptyMsg  : '<p>Nothing found.</p>'     // shown message if search returns no results
+                            });
+                        });
+                    </script>
+                    {% endraw %}
+                </main>
+                <aside class="col-md-4">
+                    {% include recent.html %}
+                    {% include product.html %}
+                    {% include archives.html %}
+
+                </aside>
+            </div>
+
+        </div>
+    </div>
+    {% include footer.html %}
+    {% include menu.html %}
+
+    <script src="/assets/js/script.js"></script>
+
+</body>
+
+</html>
