@@ -31,7 +31,7 @@ var idx = lunr(function () {
 function lunr_search(term) {
     document.getElementById('lunrsearchresults').innerHTML = '<ul style="list-style-type: none;"></ul>';
     if(term) {
-        document.getElementById('lunrsearchresults').innerHTML = "<p>Search results for '" + term + "'</p>" + document.getElementById('lunrsearchresults').innerHTML;
+        document.getElementById('lunrsearchresults').innerHTML = "<h2>Resultados da perquisa: '" + term + "'</h2>" + document.getElementById('lunrsearchresults').innerHTML;
         //put results on the screen.
         var results = idx.search(term);
         if(results.length>0){
@@ -46,11 +46,22 @@ function lunr_search(term) {
                 document.querySelectorAll('#lunrsearchresults ul')[0].innerHTML = document.querySelectorAll('#lunrsearchresults ul')[0].innerHTML + "<li class='lunrsearchresult'><a href='" + url + "'><span><strong>" + title + "</strong></span><br /><span class='body'>"+ body +"</span><br /></li>";
             }
         } else {
-            document.querySelectorAll('#lunrsearchresults ul')[0].innerHTML = "<li class='lunrsearchresult'>No results found...</li>";
+            document.querySelectorAll('#lunrsearchresults ul')[0].innerHTML = "<li class='lunrsearchresult'>Não há resultados para a sua pesquisa...</li>";
         }
     }
     return false;
 }
+document.addEventListener('DOMContentLoaded', function () {
+    const queryString = window.location.search;
+    const urlParams = new URLSearchParams(queryString);
+    const query = urlParams.get('query')
+    if( query != null) {
+        document.getElementById('lunrsearch').value = query;
+        lunr_search(document.getElementById('lunrsearch').value);
+    }
+});
+
+
 </script>
 <style>
     #lunrsearchresults {padding-top: 0.2rem;}
@@ -63,8 +74,8 @@ function lunr_search(term) {
 </style>
 
 
-<form onSubmit="return lunr_search(document.getElementById('lunrsearch').value);">
-    <p><input type="text" class="form-control" id="lunrsearch" name="q" maxlength="255" value="" placeholder="Buscar" /></p>
+<form id="lunrForm" onSubmit="return lunr_search(document.getElementById('lunrsearch').value);">
+    <p><input type="hidden" class="form-control" id="lunrsearch" name="q" maxlength="255" value="" placeholder="Buscar" /></p>
 </form>
 <div id="lunrsearchresults">
     <ul></ul>
