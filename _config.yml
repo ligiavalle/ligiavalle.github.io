@@ -35,7 +35,7 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-random
-  - jekyll-lunr-js-search
+#  - jekyll-lunr-js-search
 
 
 defaults:
