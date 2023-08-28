@@ -3,7 +3,7 @@ layout: post
 title:  "Melatonina"
 date:   2023-08-31 11:37:32 +0200
 description: 
-categories: colágeno
+categories: hormônio
 ---
 No Brasil, mais de 70% da população sofre com alterações no sono, de acordo com estudos da Fundação Oswaldo Cruz (Fiocruz). Esses problemas podem variar desde dificuldades para dormir até distúrbios mais complexos. Para lidar com essas questões, muitas pessoas estão recorrendo ao uso da melatonina. Esse hormônio, que é produzido naturalmente pelo corpo, desempenha um papel crucial na regulação do sono e do ritmo circadiano.
 A melatonina não é apenas responsável por estimular o sono, mas também por sincronizar as funções biológicas do corpo para a hora de dormir. À medida que envelhecemos, a produção natural de melatonina pode diminuir, o que pode contribuir para problemas de sono em adultos mais velhos.
