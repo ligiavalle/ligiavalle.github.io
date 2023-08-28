@@ -10,7 +10,7 @@ recommended: Smart Active Collagen
 
 Seja bem-vindo ao meu mundo de cuidados com a saúde e beleza!
 
-Meu nome é **Ligia Lustosa do Valle**, sou farmacêutica com uma paixão por compartilhar conhecimentos
+Meu nome é **Ligia Lustosa do Valle**, sou farmacêutica com paixão por compartilhar conhecimentos
 que possam ajudar você a tomar decisões informadas sobre os produtos que utiliza.
 Com uma sólida formação em farmácia hospitalar e uma carreira que abrange desde pesquisa clínica
 até aconselhamento de cuidados pessoais, estou aqui para oferecer informações confiáveis e insights
