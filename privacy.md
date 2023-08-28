@@ -8,7 +8,7 @@ A sua privacidade é importante para nós. É política do Brilho Interior respe
 em relação a qualquer informação sua que possamos coletar no site Brilho Interior, e outros sites que possuímos e 
 operamos.
 
-Solicitamos informações pessoais apenas quando realmente precisamos delas para lhe fornecer um serviço. Fazemo-lo 
+Solicitamos informações pessoais apenas quando realmente precisamos delas para lhe fornecer um serviço. Fazêmo-lo 
 por meios justos e legais, com o seu conhecimento e consentimento. Também informamos por que estamos coletando 
 e como será usado.
 
@@ -26,7 +26,7 @@ Você é livre para recusar a nossa solicitação de informações pessoais, ent
 alguns dos serviços desejados.
 O uso continuado de nosso site será considerado como aceitação de nossas práticas em torno de privacidade 
 e informações pessoais. Se você tiver alguma dúvida sobre como lidamos com dados do usuário e informações pessoais, 
-entre em contacto connosco.
+entre em contacto conosco.
 
 ## Segurança do site Brilho Interior
 
