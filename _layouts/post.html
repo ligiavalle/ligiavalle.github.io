@@ -4,7 +4,10 @@
     {% include head.html %}
     </head>
 
-<body id="single">
+
+    {% assign words = post.content | strip_html | strip_newlines | remove: " " | size %}
+    {% assign time = post.content | strip_html | strip_newlines | remove: " " | size | divided_by: 400 | plus: 1 %}
+
     {% include header.html %}
 
     <div class="content-body">
@@ -16,8 +19,8 @@
                             <h1 class="entry-title">{{ page.title }}</h1>
                             <div class="entry-meta">
                                 <span class="post-category"><a href="#">{{ page.category}}</a></span>
-
                                 <span class="post-date"><a href="#"><time class="entry-date" datetime="{{ page.date }}">{{ page.date  | date_to_long_string }}</time></a></span>
+                                <span class="post-category"><a href="#">{{ time }} {%if time > 1 %}mins{% else %}min{% endif %} to read</a></span>
 
 <!--                                <span class="comments-link"><a href="https://plus.google.com/u/0/106503478633817605504?rel=author">{{ page.author }}</a></span>-->
                             </div>
