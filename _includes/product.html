@@ -20,8 +20,35 @@
             <p class="text-center"><a href="https://behive.global/produtos/reskin/prebiotic-collagen-tangerina-270g?loja=/ligiavalle&" class="btn btn-primary" style="background-color: #2a7ae2" role="button" target="_blank">Descubra mais</a></p>
         </div>
     </div>
+    {% elsif page.recommended == "Nimbus" %}
+    <div  id="nimbus" class="carousel slide" data-ride="carousel">
+        <!-- Wrapper for slides -->
+        <div class="carousel-inner" role="listbox">
+            <div class="item active">
+                <div class="thumbnail">
+                    <img src="/assets/img/nimbus-tea.jpg"  alt="Moon Tea">
+                    <div class="caption">
+                        <h4>Moon Tea<span class="badge pull-right"> 300g </span> </h4>
+                        <p>Suplemento de melatonina e triptofano, <strong>sabor maracujá e camomila</strong>.</p>
+                        <p class="text-center"><a href="https://behive.global/produtos/nimbus/moon-tea-maracuja-camomila-300g?loja=/ligiavalle&" class="btn btn-primary" style="background-color: #2a7ae2" role="button" target="_blank">Descubra mais</a></p>
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <div class="thumbnail">
+                    <img src="/assets/img/nimbus-milk.jpg"  alt="Moon Milk">
+                    <div class="caption">
+                        <h4>Moon Milk<span class="badge pull-right"> 300g </span> </h4>
+                        <p>Suplemento de melatonina e triptofano, <strong>sabor chocolate</strong>.</p>
+                        <p class="text-center"><a href="https://behive.global/produtos/nimbus/moon-milk-chocolate-300g?loja=/ligiavalle&" class="btn btn-primary" style="background-color: #2a7ae2" role="button" target="_blank">Descubra mais</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
     {% else %}
-    <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+    <div id="reskin" class="carousel slide" data-ride="carousel">
         <!-- Wrapper for slides -->
         <div class="carousel-inner" role="listbox">
             <div class="item active">
@@ -47,8 +74,5 @@
         </div>
 
     </div>
-
     {% endif %}
-
-
 </div>
