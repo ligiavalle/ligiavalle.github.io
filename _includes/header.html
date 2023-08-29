@@ -8,6 +8,13 @@
 
     gtag('config', 'G-4B702LM8NM');
 </script>
+<script>
+    $(document).ready(function(){
+        $("#contact-me").click(function(){
+            ga ('send', 'event', 'contact_button_click');
+        });
+    });
+</script>
 {% endif %}
 <!-- Cookie Consent by TermsFeed https://www.TermsFeed.com -->
 <script type="text/javascript" src="https://www.termsfeed.com/public/cookie-consent/4.1.0/cookie-consent.js" charset="UTF-8"></script>
@@ -53,7 +60,7 @@
                         <ul class="nav navbar-nav navbar-right">
                             <li class="cl-effect-11"><a href="/index.html" data-hover="Blog">Blog</a></li>
                             <li class="cl-effect-11"><a href="/about.html" data-hover="Sobre&nbsp;Mim">Sobre&nbsp;Mim</a></li>
-                            <li class="cl-effect-11"><a href="https://docs.google.com/forms/d/e/1FAIpQLSfiqIPn5CAowA-mx8QRb9xJj-VQflqBYs1sQFWark_9y92lCQ/viewform?vc=0&c=0&w=1&flr=0" target="_blank">
+                            <li class="cl-effect-11"><a id="contact-me" href="https://docs.google.com/forms/d/e/1FAIpQLSfiqIPn5CAowA-mx8QRb9xJj-VQflqBYs1sQFWark_9y92lCQ/viewform?vc=0&c=0&w=1&flr=0" target="_blank">
                                 Contato
                             </a>
                             </li>
