@@ -15,3 +15,9 @@ que possam ajudar você a tomar decisões informadas sobre os produtos que utili
 Com uma sólida formação em farmácia hospitalar e uma carreira que abrange desde pesquisa clínica
 até aconselhamento de cuidados pessoais, estou aqui para oferecer informações confiáveis e insights
 sobre os produtos que fazem parte do seu dia a dia.
+
+
+> <h3 style="font-size:20px"><span style="color:#3498db" class="ion-information-circled"></span> Importante</h3>
+> As informações que compartilho são apenas para fins informativos e não substituem o
+> aconselhamento médico profissional. Sempre consulte um profissional de saúde antes de fazer mudanças
+> significativas em sua rotina de cuidados pessoais.

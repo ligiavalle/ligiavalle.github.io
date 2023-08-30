@@ -233,7 +233,7 @@ figure {
 }
 
 .entry-meta {
-	text-align: center;
+	/*text-align: center;*/
 	color: #DDDDDD;
 	font-size: 13px;
 	letter-spacing: 1px;

@@ -16,13 +16,13 @@
                 <main class="col-md-8">
                     <article class="post post-1">
                         <header class="entry-header">
-                            <h1 class="entry-title">{{ page.title }}</h1>
+                            <h1>{{ page.title }}</h1>
                             <div class="entry-meta">
-                                <span class="post-category"><a href="#">{{ page.category}}</a></span>
-                                <span class="post-date"><a href="#"><time class="entry-date" datetime="{{ page.date }}">{{ page.date  | date_to_long_string }}</time></a></span>
-                                <span class="post-category"><a href="#">{{ time }} {%if time > 1 %}mins{% else %}min{% endif %} to read</a></span>
+                                <span class=""><a href="#"><time class="entry-date" datetime="{{ page.date }}">{{ page.date  | date_to_long_string }}</time></a></span>
+                                <span class=""><a href="#"><span class="ion-clock readingtime"> {{ time }} {%if time > 1 %}mins{% else %}min{% endif %} to read</span></a></span>
+                                <span class=""><a href="#">{{ page.category}}</a></span>
 
-<!--                                <span class="comments-link"><a href="https://plus.google.com/u/0/106503478633817605504?rel=author">{{ page.author }}</a></span>-->
+                                <!--                                <span class="comments-link"><a href="https://plus.google.com/u/0/106503478633817605504?rel=author">{{ page.author }}</a></span>-->
                             </div>
                         </header>
 
@@ -38,6 +38,7 @@
                 <aside class="col-md-4">
                     {% include recent.html %}
                     {% include product.html %}
+                    {% include social.html %}
 
                 </aside>
             </div>
