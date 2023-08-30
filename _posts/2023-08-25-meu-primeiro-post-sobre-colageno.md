@@ -6,7 +6,7 @@ description: O colágeno é uma proteína fundamental encontrada no corpo humano
   É um componente importante da pele, ossos, tendões, ligamentos, cartilagens e outros tecidos conjuntivos.
 
 categories: colágeno
-
+image: /assets/img/prebiotic.jpg
 ---
 O colágeno é uma proteína fundamental encontrada no corpo humano e em muitos outros animais. 
 É um componente importante da pele, ossos, tendões, ligamentos, cartilagens e outros tecidos conjuntivos.
