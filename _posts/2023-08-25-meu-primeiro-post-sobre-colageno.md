@@ -54,6 +54,6 @@ Então consuma alimentos ricos em vitamina C ou faça a suplementação da vitam
 > do colágeno ocorra.
 
 ## O que é melhor, pó ou comprimido/cápsula?
-O colágeno hidrolisado em pó é **amplamente recomendado** devido à sua maior concentração e à mais rápida absorção, o que
+O **colágeno hidrolisado** em pó **é amplamente recomendado** devido à sua maior concentração e à mais rápida absorção, o que
 acelera a obtenção de resultados. Portanto a apresentação na forma pó se destaca como uma das melhores escolhas, trazendo
 a concentração ideal de proteína para a realização eficaz de objetivos.
