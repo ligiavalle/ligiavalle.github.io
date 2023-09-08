@@ -25,4 +25,21 @@ Para combater os efeitos prejudiciais dos radicais livres, nosso corpo utiliza a
 A inflamação é a resposta natural do nosso corpo a lesões, infecções ou substâncias nocivas. 
 Existem dois tipos principais: inflamação aguda e inflamação crônica.  Quando a inflamação é crônica 
 (de longa duração), pode causar danos às células.
+
+Podemos resumir esses dois tipos de inflamção da seguinte maneira:
+
+## Inflamação Aguda:
+
+Início rápido em resposta a lesões, infecções ou irritações.
+Curta duração, geralmente resolvida em poucos dias a semanas.
+Caracterizada por sinais clássicos como vermelhidão, inchaço, calor e dor.
+Papel importante na defesa do corpo contra invasores patogênicos e no processo de cicatrização.
+
+## Inflamação Crônica:
+
+Desenvolve-se ao longo do tempo e pode persistir por meses ou anos.
+Geralmente menos intensa em termos de sintomas visíveis, mas pode ser mais insidiosa.
+Pode resultar de infecções persistentes, doenças autoimunes, exposição a agentes irritantes crônicos ou outros fatores.
+Associada a várias doenças crônicas, como doenças cardíacas, diabetes tipo 2 e doenças autoimunes.
+
 Pode ser causada por vários fatores, incluindo estilos de vida pouco saudáveis, condições médicas e infecções persistentes.
