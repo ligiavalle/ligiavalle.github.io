@@ -25,7 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   produtos, informações sobre os principais ingredientes, dicas de aplicação e orientações sobre como prepará-los
   selecione os produtos que melhor atendem às suas necessidades individuais.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://ligiavalle.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://brilhointerior.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
