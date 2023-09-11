@@ -4,6 +4,15 @@
     <meta charset="UTF-8">
     <title>Title</title>
     {% if jekyll.environment == "production" %}
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-4B702LM8NM"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-4B702LM8NM');
+    </script>
     <script>function goHome() {
             window.location.href = "https://brilhointerior.com";
     }
