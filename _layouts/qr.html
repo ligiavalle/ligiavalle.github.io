@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    {% if jekyll.environment == "production" %}
+    <script>function goHome() {
+            window.location.href = "https://brilhointerior.com";
+    }
+    </script>
+    {% else %}
+    <script>
+        function goHome() {
+            window.location.href = "http://localhost:4000";
+        }
+    </script>
+
+    {% endif %}
+
+</head>
+<body onload="goHome()">
+
+</body>
+</html>
