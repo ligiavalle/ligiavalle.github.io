@@ -32,17 +32,17 @@ incorporar na sua alimentação.
 
 
 > ### <span class="ion-android-bulb"></span> Dicas
- - Pode ser utilizado para tomar alho para ativar as suas propriedades farmacológicas e sobretudo para evitar o mau hálito.
-   este remédio caseiro.
-   Compre alho orgânico de qualidade, pique e obtenha pedaços comparáveis a tamanho de um tablet.<br/>
-   Deixe repousar 2/3 minutos sobre a tábua de corte, desta forma é ativada a reação de hidrólise enzimática,
+ - O seguinte remédio caseiro pode ser utilizado para tomar alho, ativando suas propriedades farmacológicas e ainda evitando o mau hálito:
+   
+   Compre alho orgânico de qualidade, pique e obtenha pedaços comparáveis a tamanho de um tablete.<br/>
+   Deixe repousar de 2 a 3 minutos, desta forma é ativada a reação de hidrólise enzimática,
    o que permitirá evitar o desagradável efeito colateral do mau hálito.
    Coloque o alho em meio copo de água por mais 5 minutos e depois beba todo o conteúdo do copo
-   sem mastigar, como quando você engole a pílula.
+   sem mastigar, como quando você engole uma pílula.
  - Outra opção mais deliciosa é comer 
    <a href="https://receitas.globo.com/regionais/rpc/estudio-c/tipicamente-curitibano-aprenda-a-fazer-a-tradicional-carne-de-onca-g.ghtml" style="color:#337ab7"><strong>Carne de onça</strong></a>  
    um prato típico curitibano, 
-   você encontra a receita aqui ou se não tiver tempo de cozinhar o restaurante xxx prepara uma receita deliciosa.
+   cuja receita você encontra aqui ou se não tiver tempo de cozinhar, o restaurante xxx prepara uma receita deliciosa.
 
 https://receitas.globo.com/regionais/rpc/estudio-c/tipicamente-curitibano-aprenda-a-fazer-a-tradicional-carne-de-onca-g.ghtml
 https://www.plural.jor.br/gastronomia/mercearia-fantinato-segunda-unidade-em-curitiba/
