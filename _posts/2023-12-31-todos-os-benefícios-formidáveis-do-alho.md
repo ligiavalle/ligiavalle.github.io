@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Alho"
+title:  "Todos os benefícios formidáveis do Alho"
 date:   2023-12-31 11:37:32 +0200
 description: 
 categories: hormônio
@@ -9,6 +9,7 @@ O alho é reconhecido como um poderoso superalimento desde a antiguidade, utiliz
 romanos e egípcios pelas suas muitas propriedades curativas. Apesar de sua rica história, muitas pessoas hoje não colhem 
 todos os benefícios do alho, muitas vezes devido ao uso indevido.
 
+## Benefícios
 O principal componente do alho é a alicina, uma substância que tem demonstrado capacidades notáveis 
 tratamento de vários problemas de saúde. Foi demonstrado que a alicina combate eficazmente as infecções, reduz o risco 
 de doenças cardiovasculares, reduz o colesterol LDL (o chamado "colesterol ruim") e até melhora o desempenho atlético. 
@@ -28,3 +29,20 @@ Outra pequena desvantagem do alho é o mau hálito, mas existem várias maneiras
 à noite ou optar por suplementos de alho para reduzir o odor.
 Em resumo, o alho é uma dádiva da natureza com uma vasta gama de benefícios para a saúde, que todos deveriam considerar 
 incorporar na sua alimentação.
+
+
+> ### <span class="ion-android-bulb"></span> Dicas
+ - Pode ser utilizado para tomar alho para ativar as suas propriedades farmacológicas e sobretudo para evitar o mau hálito.
+   este remédio caseiro.
+   Compre alho orgânico de qualidade, pique e obtenha pedaços comparáveis a tamanho de um tablet.<br/>
+   Deixe repousar 2/3 minutos sobre a tábua de corte, desta forma é ativada a reação de hidrólise enzimática,
+   o que permitirá evitar o desagradável efeito colateral do mau hálito.
+   Coloque o alho em meio copo de água por mais 5 minutos e depois beba todo o conteúdo do copo
+   sem mastigar, como quando você engole a pílula.
+ - Outra opção mais deliciosa é comer 
+   <a href="https://receitas.globo.com/regionais/rpc/estudio-c/tipicamente-curitibano-aprenda-a-fazer-a-tradicional-carne-de-onca-g.ghtml" style="color:#337ab7"><strong>Carne de onça</strong></a>  
+   um prato típico curitibano, 
+   você encontra a receita aqui ou se não tiver tempo de cozinhar o restaurante xxx prepara uma receita deliciosa.
+
+https://receitas.globo.com/regionais/rpc/estudio-c/tipicamente-curitibano-aprenda-a-fazer-a-tradicional-carne-de-onca-g.ghtml
+https://www.plural.jor.br/gastronomia/mercearia-fantinato-segunda-unidade-em-curitiba/
