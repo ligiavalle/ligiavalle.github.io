@@ -18,6 +18,6 @@ sobre os produtos que fazem parte do seu dia a dia.
 
 
 > <h3 style="font-size:20px"><span style="color:#3498db" class="ion-information-circled"></span> Importante</h3>
-> Prezo pela transparência e pelo compromisso com a qualidade dos produtos que indico aos meus leitores. Cada recomendação que compartilho é fruto de experiências pessoais, nas quais testei e comprovei a eficácia e a qualidade dos produtos. Além disso, também busco embasar minhas indicações em pesquisas e estudos científicos, garantindo que as informações compartilhadas sejam respaldadas por evidências sólidas. Assim, meu objetivo é oferecer a vocês uma fonte confiável de orientações para cuidar da saúde e realçar sua beleza, sempre com produtos que podem realmente fazer a diferença em suas vidas. Afinal, acredito que todos merecem o melhor quando se trata de bem-estar e autoestima.
+> Prezo pela transparência e qualidade em minhas recomendações, que são baseadas em experiências pessoais, pesquisa científica e comprovada eficácia. Meu objetivo é fornecer orientações confiáveis para melhorar sua saúde e beleza com produtos que fazem a diferença em sua vida, pois acredito que todos merecem o melhor para o bem-estar e a autoestima.
 >
  
