@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>QR</title>
+    {% if jekyll.environment == "production" %}
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-4B702LM8NM"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-4B702LM8NM');
+    </script>
+    <script>
+        function goHome() {
+            timeout = setTimeout(function () {
+                window.location.href = "https://behive.global/brand/hyper?loja=/ligiavalle&";
+            } , 1000);
+
+        }
+    </script>
+    {% else %}
+    <script>
+        function goHome() {
+            timeout = setTimeout(function () {
+                window.location.href = "https://behive.global/brand/hyper?loja=/ligiavalle&";
+            } , 1000);
+
+        }
+    </script>
+
+    {% endif %}
+
+</head>
+<body onload="goHome()">
+
+</body>
+</html>
