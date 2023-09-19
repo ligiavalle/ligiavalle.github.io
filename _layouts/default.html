@@ -15,6 +15,40 @@
                     <h1 class="">Bem-vindo</h1>
                     {{ content }}
                     {% for post in site.posts %}
+
+                    {% if post.photo %}
+                    <article class="post post-1">
+                        <header class="entry-header">
+                            <h1>
+                                <a href="{{ post.url }}">{{ post.title }}</a>
+                            </h1>
+                            <div class="entry-meta">
+                                <span class=""><a href="#"><time class="entry-date" datetime="{{ post.date }}">{{ post.date  | date_to_long_string }}</time></a></span>
+                                <span class=""><a href="#">{{ post.category }}</a></span>
+                                <span class=""><a href="#">{{ post.author }}</a></span>
+
+                            </div>
+                        </header>
+                        <div class="media">
+                            <div class="entry-content clearfix">
+                                <div class="media-body">
+                                    <p>{{ post.excerpt }}</p>
+                                </div>
+
+                                <div class="media-right media-middle">
+                                    <a href="#">
+                                        <img class="media-object" width="180px" src="{{ post.photo}}" alt="...">
+                                    </a>
+                                </div>
+                        </div>
+
+                            <div class="read-more cl-effect-14">
+                                <a href="{{ post.url }}" class="more-link">Continue lendo <span class="meta-nav">→</span></a>
+                            </div>
+                        </div>
+                    </article>
+
+                    {% else %}
                     <article class="post post-1">
                         <header class="entry-header">
                             <h1>
@@ -34,6 +68,7 @@
                             </div>
                         </div>
                     </article>
+                    {% endif %}
                     <hr style="border-top: 2px solid #eee"/>
 
                     {% if  forloop.index % 2 == 0 %}
