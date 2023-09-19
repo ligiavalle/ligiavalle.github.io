@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "HMB - Saúde e Desempenho Físico"
-date:   2023-09-19 11:14:32 -0300
+date:   2023-09-19 11:00:32 -0300
 description: O HMB, ou Beta-Hidroxi-Beta-Metilbutirato, é um composto que está rapidamente ganhando reconhecimento e 
              popularidade no mundo da nutrição esportiva e da saúde em geral.
 recommended: Spark
