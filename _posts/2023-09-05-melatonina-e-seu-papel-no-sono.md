@@ -18,6 +18,7 @@ No Brasil, mais de 70% da população sofre com alterações no sono, de acordo 
 Esses problemas podem variar desde dificuldades para dormir até distúrbios mais complexos. Para lidar com essas questões, 
 muitas pessoas estão recorrendo ao uso da melatonina. 
 
+## Principais Benefícios
 Esse hormônio, que é produzido naturalmente pelo corpo, desempenha 
 um papel crucial na regulação do sono e do ritmo circadiano.
 A melatonina não é apenas responsável por estimular o sono, mas também por sincronizar as funções biológicas do corpo para 
@@ -36,6 +37,7 @@ a liberação de hormônios adequados e coordenam uma série de processos bioló
 alimentar-se, praticar exercícios e, é claro, dormir. Portanto, a melatonina é uma parte vital dessa complexa rede de 
 regulação do sono e dos ritmos biológicos.
 
+## Como Usar?
 Como suplemento, a melatonina é administrada por via oral, sob a forma de pó para ser diluído em água ou leite, comprimidos, 
 cápsulas ou gotas, aproximadamente de 1 a 2 horas antes de dormir.
 No entanto, é importante destacar que a suplementação de melatonina não é apropriada para todos os casos de problemas de sono. 
