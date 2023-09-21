@@ -28,7 +28,7 @@ A inflamação é a resposta natural do nosso corpo a lesões, infecções ou su
 Existem dois tipos principais: inflamação aguda e inflamação crônica.  Quando a inflamação é crônica 
 (de longa duração), pode causar danos às células.
 
-Podemos resumir esses dois tipos de inflamção da seguinte maneira:
+Podemos resumir esses dois tipos de inflamação da seguinte maneira:
 
 ## Inflamação Aguda
 
