@@ -9,13 +9,17 @@ description: No Brasil, mais de 70% da população sofre com alterações no son
 
 categories: hormônio
 recommended: Nimbus
+#photo: /assets/img/woman-5988509_1280.jpg
+#photo_credits: 20125674
+#photo_credits_link: https://pixabay.com/users/20125674-20125674/
 ---
 No Brasil, mais de 70% da população sofre com alterações no sono, de acordo com estudos da 
 <a href="https://portal.fiocruz.br/" target="_blank"><strong>Fundação Oswaldo Cruz</strong></a> (Fiocruz). 
 Esses problemas podem variar desde dificuldades para dormir até distúrbios mais complexos. Para lidar com essas questões, 
-muitas pessoas estão recorrendo ao uso da melatonina. Esse hormônio, que é produzido naturalmente pelo corpo, desempenha 
-um papel crucial na regulação do sono e do ritmo circadiano.
+muitas pessoas estão recorrendo ao uso da melatonina. 
 
+Esse hormônio, que é produzido naturalmente pelo corpo, desempenha 
+um papel crucial na regulação do sono e do ritmo circadiano.
 A melatonina não é apenas responsável por estimular o sono, mas também por sincronizar as funções biológicas do corpo para 
 a hora de dormir. À medida que envelhecemos, a produção natural de melatonina pode diminuir, o que pode contribuir para 
 problemas de sono em adultos mais velhos.
