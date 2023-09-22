@@ -26,12 +26,7 @@ suplementos pode variar e é importante combiná-los com uma dieta equilibrada e
 para obter melhores resultados.
 
 ## Tipos de colágeno
-O colágeno pode ser obtido de diversas espécies animais (bovinos, suínos, peixes, etc.).
-No Brasil, a maior parte do colágeno é proveniente dos subprodutos da indústria de carne, em função da elevada produção
-brasileira de carne para exportação.
-**Existem mais de 20 tipos de colágeno**, mas em escala industrial, apenas 3 : Tipo I, II e III. A diferença entre eles
-está na fonte de onde foi obtido e não no local onde vai atuar em nosso corpo. Portanto qualquer tipo agirá em todo o corpo,
-dependendo de onde existe maior déficit de colágeno.
+O colágeno pode ser obtido de diversas espécies animais (bovinos, suínos, peixes,etc.). No Brasil, a maior parte do colágeno é proveniente dos subprodutos da indústria de carne, em função da elevada produção brasileira de carne para exportação. Existem mais de 20 tipos de colágeno, mas em escala industrial, apenas três: Tipo I, II e III. A diferença entre eles está na fonte de onde foi obtido e não no local onde vai atuar em nosso corpo. Portanto, segundo estudos, qualquer tipo de colágeno, desde que hidrolisado, agirá em todo o corpo, dependendo de onde existe maior déficit de colágeno.
 
 ## Quem deve usar colágeno?
 Geralmente, a produção de colágeno começa a declinar a partir dos 25 anos de idade, **tanto em homens quanto em mulheres**,
