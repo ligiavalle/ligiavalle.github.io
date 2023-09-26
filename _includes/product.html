@@ -2,59 +2,21 @@
     <h3 class="widget-title">Recomendado</h3>
 
     {% if page.recommended == "Smart Active Collagen" %}
-    <div class="thumbnail">
-        <img src="/assets/img/reskin.jpg"  alt="Smart Active Collagen">
-        <div class="caption">
-            <h3>Smart Active Collagen<span class="badge label-success pull-right"> 210g </span> </h3>
-            <p>Bebida rejuvenescedora com colágeno Verisol®</p>
-            <p class="text-center">
-                <a href="https://behive.global/produtos/reskin/smart-active-collagen-pink-lemonade-210g?loja=/ligiavalle&" class="btn btn-primary btn-lg btn-behive"  role="button" target="_blank">Descubra mais</a>
-            </p>
-        </div>
-    </div>
-
+        {% include products/hive/collagene-smart-active.html %}
     {% elsif page.recommended == "Prebiotic Collagen" %}
-    <div class="thumbnail">
-        <img src="/assets/img/prebiotic.jpg"  alt="Prebiotic Collagen">
-        <div class="caption">
-            <h3>Prebiotic Collage<span class="badge label-success pull-right"> 270g </span> </h3>
-            <p>Bebida rejuvenescedora com colágeno Verisol®</p>
-            <p class="text-center"><a href="https://behive.global/produtos/reskin/prebiotic-collagen-tangerina-270g?loja=/ligiavalle&" class="btn btn-primary btn-lg btn-behive"  role="button" target="_blank">Descubra mais</a></p>
-        </div>
-    </div>
+        {% include products/hive/collagene-prebiotic.html %}
     {% elsif page.recommended == "Nimbus" %}
     <div  id="nimbus" class="carousel slide" data-ride="carousel">
         <!-- Wrapper for slides -->
         <div class="carousel-inner" role="listbox">
             <div class="item active">
-                <div class="thumbnail">
-                    <img src="/assets/img/nimbus-tea.jpg"  alt="Moon Tea">
-                    <div class="caption">
-                        <h3>Moon Tea<span class="badge label-success pull-right"> 300g </span> </h3>
-                        <p>Suplemento de melatonina e triptofano, <strong>sabor maracujá e camomila</strong>.</p>
-                        <p class="text-center"><a href="https://behive.global/produtos/nimbus/moon-tea-maracuja-camomila-300g?loja=/ligiavalle&" class="btn btn-primary btn-lg btn-behive"  role="button" target="_blank">Descubra mais</a></p>
-                    </div>
-                </div>
+                {% include products/hive/nimbus-tea.html %}
             </div>
             <div class="item">
-                <div class="thumbnail">
-                    <img src="/assets/img/nimbus-milk.jpg"  alt="Moon Milk">
-                    <div class="caption">
-                        <h3>Moon Milk<span class="badge label-success pull-right"> 300g </span> </h3>
-                        <p>Suplemento de melatonina e triptofano, <strong>sabor chocolate</strong>.</p>
-                        <p class="text-center"><a href="https://behive.global/produtos/nimbus/moon-milk-chocolate-300g?loja=/ligiavalle&" class="btn btn-primary btn-lg btn-behive"  role="button" target="_blank">Descubra mais</a></p>
-                    </div>
-                </div>
+                {% include products/hive/nimbus-milk.html %}
             </div>
             <div class="item">
-                <div class="thumbnail">
-                    <img src="/assets/img/luciluci-serene-sleep.jpg"  alt="Serene and Sleep">
-                    <div class="caption">
-                        <h3>Serene and Sleep<span class="badge label-success pull-right"> 30 cap </span> </h3>
-                        <p>Suplemento de melatonina.</p>
-                        <p class="text-center"><a href="https://loja.luciluci.com.br/produto/serene-and-sleep-30-capsulas?u=ligiavalle" class="btn btn-primary btn-lg btn-luciluci"  role="button" target="_blank">Descubra mais</a></p>
-                    </div>
-                </div>
+                {% include products/luciluci/serene-sleep.html %}
             </div>
         </div>
 
@@ -64,14 +26,7 @@
         <!-- Wrapper for slides -->
         <div class="carousel-inner" role="listbox">
             <div class="item active">
-                <div class="thumbnail">
-                    <img src="/assets/img/omega3.jpg"  alt="Vitae Ômega 3 1000MG 60 CAP">
-                    <div class="caption">
-                        <h3>Vitae Ômega 3<span class="badge label-success pull-right"> 60 cap </span> </h3>
-                        <p>Suplemento  Ômega 3 1000mg.</p>
-                        <p class="text-center"><a href="https://loja.luciluci.com.br/produto/vitae-omega-3-1000mg-60-cap?u=ligiavalle" class="btn btn-primary btn-lg btn-luciluci"  role="button" target="_blank">Descubra mais</a></p>
-                    </div>
-                </div>
+                {% include products/luciluci/omega3.html %}
             </div>
         </div>
 
@@ -81,54 +36,26 @@
         <!-- Wrapper for slides -->
         <div class="carousel-inner" role="listbox">
             <div class="item active">
-                <div class="thumbnail">
-                    <img src="/assets/img/still_spark.jpg"  alt="Vitae Omega 3 1000MG 60 CAP">
-                    <div class="caption">
-                        <h3>Spark<span class="badge label-success pull-right"> 525g </span> </h3>
-                        <p>Suplemento Pré Treino.</p>
-                        <p class="text-center"><a href="https://behive.global/produtos/hyper/spark-pre-treino-frutas-citricas-525g?loja=/ligiavalle&" class="btn btn-primary btn-lg btn-behive"  role="button" target="_blank">Descubra mais</a></p>
-                    </div>
-                </div>
+                {% include products/hive/still-spark.html %}
             </div>
         </div>
 
     </div>
     {% else %}
+    <!--  carousel -->
     <div id="reskin" class="carousel slide" data-ride="carousel">
         <!-- Wrapper for slides -->
         <div class="carousel-inner" role="listbox">
             <div class="item active">
-                <div class="thumbnail">
-                    <img src="/assets/img/prebiotic.jpg"  alt="Prebiotic Collagen">
-                    <div class="caption">
-                        <h3>Prebiotic Collagem<span class="badge label-success pull-right"> 270g </span> </h3>
-                        <p>Bebida rejuvenescedora com colágeno Verisol®</p>
-                        <p class="text-center"><a href="https://behive.global/produtos/reskin/prebiotic-collagen-tangerina-270g?loja=/ligiavalle&" class="btn btn-primary btn-lg btn-behive"  role="button" target="_blank">Descubra mais</a></p>
-                    </div>
-                </div>
+                {% include products/hive/collagene-prebiotic.html %}
             </div>
             <div class="item">
-                <div class="thumbnail">
-                    <img src="/assets/img/reskin.jpg"  alt="Smart Active Collagen">
-                    <div class="caption">
-                        <h3>Smart Active Collagen<span class="badge label-success pull-right"> 210g </span> </h3>
-                        <p>Bebida rejuvenescedora com colágeno Verisol®</p>
-                        <p class="text-center"><a href="https://behive.global/produtos/reskin/smart-active-collagen-pink-lemonade-210g?loja=/ligiavalle&" class="btn btn-primary btn-lg btn-behive"  role="button" target="_blank">Descubra mais</a></p>
-                    </div>
-                </div>
+                {% include products/hive/collagene-smart-active.html %}
             </div>
             <div class="item">
-                <div class="thumbnail">
-                    <img src="/assets/img/vitae.jpg"  alt="Vitae">
-                    <div class="caption">
-                        <h3>Vitae<span class="badge label-success pull-right"> 270g </span> </h3>
-                        <p>Beauty Drink Colágeno Verisol® (Sabor frutas vermelhas)</p>
-                        <p class="text-center"><a href="https://loja.luciluci.com.br/produto/beauty-drink-colageno-verisol-270g-sabor-frutas-vermelhas?u=ligiavalle" class="btn btn-primary btn-lg btn-luciluci"  role="button" target="_blank">Descubra mais</a></p>
-                    </div>
-                </div>
+                {% include products/luciluci/collagene-viate.html %}
             </div>
         </div>
-
     </div>
     {% endif %}
 </div>
