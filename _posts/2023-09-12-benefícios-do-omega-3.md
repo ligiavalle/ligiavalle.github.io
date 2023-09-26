@@ -19,7 +19,7 @@ Essa flexibilidade na forma de consumo torna mais acessível a obtenção dos be
 
 ## Principais Benefícios  
 De forma resumida, apresento aqui os principais benefícios do Ômega 3:
-1. Combate inflamações, útil em doenças como a inflamação intestinal e artrite reumatoide, além de prevenir danos celulares.
+1. Combate **[inflamações](http://localhost:4000/general/2023/08/26/oxida%C3%A7%C3%A3o-e-Inflama%C3%A7%C3%A3o.html)**, útil em doenças como a inflamação intestinal e artrite reumatoide, além de prevenir danos celulares.
 2. Reduz o colesterol ruim e triglicerídeos, melhorando a saúde cardiovascular.
 3. Ajuda a combater a depressão, melhorando a atividade cerebral e os neurotransmissores relacionados ao bem-estar.
 4. Evita a formação de coágulos sanguíneos, reduzindo o risco de complicações graves.
@@ -27,7 +27,7 @@ De forma resumida, apresento aqui os principais benefícios do Ômega 3:
 6. Reduz sintomas de transtorno de déficit de atenção e hiperatividade (TDAH) em crianças.
 7. Pode reduzir o risco de doenças autoimunes como a esclerose múltipla.
 8. Ajuda a regular os níveis de açúcar no sangue, sendo útil no tratamento do diabetes tipo 2.
-9. Reduz a inflamação muscular, acelerando a recuperação e melhorando o desempenho nos treinos.
+9. Reduz a **[inflamação](http://localhost:4000/general/2023/08/26/oxida%C3%A7%C3%A3o-e-Inflama%C3%A7%C3%A3o.html)** muscular, acelerando a recuperação e melhorando o desempenho nos treinos.
 10. Mantém a pele saudável, hidratada e protegida contra danos do sol.
 
 
