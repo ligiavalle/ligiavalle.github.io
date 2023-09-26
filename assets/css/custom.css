@@ -991,3 +991,8 @@ figure {
 .widget-random {
 	display: none;
 }
+
+.pixabay-link {
+	color: #FFFFFF;
+	font-weight: bold;
+}
