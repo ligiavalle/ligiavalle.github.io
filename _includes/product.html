@@ -1,8 +1,11 @@
+{% if page.recommended != "None" %}
+
 <div class="widget widget-recent-posts">
     <h3 class="widget-title">Recomendado</h3>
 
     {% if page.recommended == "Smart Active Collagen" %}
         {% include products/hive/collagene-smart-active.html %}
+    {% elsif page.recommended == "Prebiotic Collagen" %}
     {% elsif page.recommended == "Prebiotic Collagen" %}
         {% include products/hive/collagene-prebiotic.html %}
     {% elsif page.recommended == "Nimbus" %}
@@ -59,3 +62,4 @@
     </div>
     {% endif %}
 </div>
+{% endif %}

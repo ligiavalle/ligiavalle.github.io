@@ -6,6 +6,7 @@ description: A oxidação e a inflamação são consideradas dois dos principais
              muitas doenças relacionadas com a idade. Neste artigo quero explicar, em termos simples e sem muitas complicações,
              estes mecanismos biológicos fundamentais.
 categories: general
+recommended: None
 ---
 A oxidação e a inflamação são consideradas dois dos principais processos biológicos subjacentes ao envelhecimento e a 
 muitas doenças relacionadas com a idade. Neste artigo quero explicar, em termos simples e sem muitas complicações, 
