@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Oxidação e Inflamação"
-date:   2023-08-26 11:37:32 +0200
+date:   2023-09-26 11:37:32 +0200
 description: A oxidação e a inflamação são consideradas dois dos principais processos biológicos subjacentes ao envelhecimento e a
              muitas doenças relacionadas com a idade. Neste artigo quero explicar, em termos simples e sem muitas complicações,
              estes mecanismos biológicos fundamentais.
