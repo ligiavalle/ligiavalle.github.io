@@ -4,8 +4,32 @@
     {% include head.html %}
 
     <meta name="Robots" content="index, follow">
+<script>
+    function random() {
+        $(document).ready(function() {
+            var all = $(".widget-random").map(function() {
+                return this;
+            }).get();
+            console.log(all);
+            var rnd = Math.floor(Math.random() * all.length);// Math.floor(Math.random() * (all.length));
+            $(".widget-random").removeClass(function(n) {
+                if (n == rnd) {
+                    console.log("n = " + n);
+                    return "widget-random";
+                }
+                return "";
+            });
+
+        });
+
+//
+//        $(".widget-random").get(rnd).style.display=''
+//        //all[rnd].show();
+//        console.log(all);
+    }
+</script>
 </head>
-<body>
+<body onload="random()">
     {% include header.html %}
     <div class="content-body">
         <div class="container">
@@ -36,7 +60,7 @@
                                 </div>
 
                                 <div class="media-right media-middle">
-                                    <a href="#">
+                                    <a href="{{ post.url }}">
                                         <img class="media-object" width="180px" src="{{ post.photo}}" alt="...">
                                     </a>
                                 </div>
@@ -89,7 +113,7 @@
 <!--                    <div class="media">-->
 <!--                        <div class="media-left">-->
 <!--                            <a href="#">-->
-<!--                                <img class="media-object" src="/assets/img/reskin.jpg" width="128" alt="">-->
+<!--                                <img class="media-object" src="/assets/img/collagene-smart-active.jpg" width="128" alt="">-->
 <!--                            </a>-->
 <!--                        </div>-->
 <!--                        <div class="media-body">-->
@@ -105,7 +129,7 @@
                 </main>
                 <aside class="col-md-4">
                     {% include recent.html %}
-                    {% include product.html %}
+                    {% include things-i-love.html %}
                     {% include social.html %}
 
                 </aside>
