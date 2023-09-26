@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A magia branca do Cominho Preto"
-date:   2023-12-31 11:37:32 +0200
+date:   2023-10-17 11:37:32 +0200
 description: 
 categories: superfood
 ---
@@ -18,7 +18,7 @@ Porém, o componente que mais se destaca nesta especiaria é a timoquinona.
 
 ## Benefícios
 Os benefícios da Nigella sativa são numerosos e variados. Além de suas propriedades antioxidantes, foi demonstrado que 
-possui efeitos antiinflamatórios. Essa combinação torna o tempero especialmente eficaz para quem sofre de inflamação 
+possui efeitos antiinflamatórios. Essa combinação torna o tempero especialmente eficaz para quem sofre de **[inflamação](http://localhost:4000/general/2023/08/31/oxida%C3%A7%C3%A3o-e-Inflama%C3%A7%C3%A3o.html)** 
 crônica ou trauma recente e deseja se recuperar com eficiência. A inflamação crônica está frequentemente associada a
 doenças como diabetes tipo 2, problemas cardiovasculares e até câncer. 
 
@@ -31,10 +31,16 @@ O seu efeito positivo no controle do açúcar no sangue também é interessante,
 No entanto, é importante salientar que apesar de todos estes benefícios promissores, os riscos potenciais associados a 
 uma sobredosagem com Nigella sativa ainda não são claramente compreendidos. A pesquisa sobre esse aspecto ainda está em andamento.
 Para quem tem interesse em incorporar esse tempero à alimentação, ele está disponível em diversas formas, como pó ou óleo. 
+uma sobredosagem com Nigella Sativa ainda não são claramente compreendidos. A pesquisa sobre esse aspecto ainda está em andamento.
+Para quem tem interesse em incorporar esse tempero à alimentação, ele está disponível em diversas formas: sementes, pó ou óleo. 
 Ambas as variantes têm usos e benefícios específicos, sendo o óleo também aplicado externamente para aproveitar suas 
 propriedades antiinflamatórias e antifúngicas.
 
 
+> ### <span class="ion-android-bulb"></span> Dicas
+>
+> -  As sementes são difíceis de mastigar, então amasse-as em um pilão antes de adicioná-las à receita.
+> -  Muitos dos benefícios da Nigella Sativa perdem-se se for cozinhada. Adicione no final do cozimento.
 
 ## Considerações Finais
 Concluindo, Nigella sativa é uma especiaria que, se utilizada corretamente, pode trazer inúmeros benefícios à nossa saúde, 

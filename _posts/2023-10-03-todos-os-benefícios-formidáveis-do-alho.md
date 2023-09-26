@@ -1,9 +1,12 @@
 ---
 layout: post
-title:  "Todos os benefícios formidáveis do Alho"
-date:   2023-12-31 11:37:32 +0200
+title:  "Os Surpreendentes Benefícios do Alho"
+date:   2023-10-03 11:37:32 +0200
 description: 
-categories: hormônio
+categories: superfood
+photo: /assets/img/garlic-2984093_1280.jpg
+photo_credits: AdaoDG
+photo_credits_link: https://pixabay.com/photos/garlic-condiment-seasoning-food-2984093/
 ---
 O alho é reconhecido como um poderoso superalimento desde a antiguidade, utilizado por civilizações como os gregos, 
 romanos e egípcios pelas suas muitas propriedades curativas. Apesar de sua rica história, muitas pessoas hoje não colhem 
@@ -33,16 +36,15 @@ incorporar na sua alimentação.
 
 > ### <span class="ion-android-bulb"></span> Dicas
  - O seguinte remédio caseiro pode ser utilizado para tomar alho, ativando suas propriedades farmacológicas e ainda evitando o mau hálito:
-   
    Compre alho orgânico de qualidade, pique e obtenha pedaços comparáveis a tamanho de um tablete.<br/>
    Deixe repousar de 2 a 3 minutos, desta forma é ativada a reação de hidrólise enzimática,
    o que permitirá evitar o desagradável efeito colateral do mau hálito.
    Coloque o alho em meio copo de água por mais 5 minutos e depois beba todo o conteúdo do copo
    sem mastigar, como quando você engole uma pílula.
  - Outra opção mais deliciosa é comer 
-   <a href="https://receitas.globo.com/regionais/rpc/estudio-c/tipicamente-curitibano-aprenda-a-fazer-a-tradicional-carne-de-onca-g.ghtml" style="color:#337ab7"><strong>Carne de onça</strong></a>  
+   <a href="https://receitas.globo.com/regionais/rpc/estudio-c/tipicamente-curitibano-aprenda-a-fazer-a-tradicional-carne-de-onca-g.ghtml" style="color:#337ab7" target="_blank"><strong>Carne de onça</strong></a>  
    um prato típico curitibano, 
-   cuja receita você encontra aqui ou se não tiver tempo de cozinhar, o restaurante xxx prepara uma receita deliciosa.
+   cuja receita você encontra aqui ou se não tiver tempo de cozinhar, o
+   <a href="https://www.plural.jor.br/gastronomia/mercearia-fantinato-segunda-unidade-em-curitiba/" style="color:#337ab7" target="_blank"><strong> Mercearia Fantinato</strong></a> 
+   prepara uma receita deliciosa.
 
-https://receitas.globo.com/regionais/rpc/estudio-c/tipicamente-curitibano-aprenda-a-fazer-a-tradicional-carne-de-onca-g.ghtml
-https://www.plural.jor.br/gastronomia/mercearia-fantinato-segunda-unidade-em-curitiba/
