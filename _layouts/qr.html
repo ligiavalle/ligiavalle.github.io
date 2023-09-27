@@ -11,9 +11,14 @@
         gtag('js', new Date());
 
         gtag('config', 'G-4B702LM8NM');
+
+
     </script>
     <script>
         function goHome() {
+            dataLayer.push({
+                event: 'qr'
+            });
             timeout = setTimeout(function () {
                 window.location.href = "https://brilhointerior.com";
             } , 3000);
