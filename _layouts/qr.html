@@ -16,10 +16,11 @@
     </script>
     <script>
         function goHome() {
-            dataLayer.push({
-                event: 'qr'
-            });
+
             timeout = setTimeout(function () {
+                dataLayer.push({
+                    event: 'qr'
+                });
                 window.location.href = "https://brilhointerior.com";
             } , 3000);
 
