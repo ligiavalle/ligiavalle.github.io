@@ -1,9 +1,11 @@
 ---
 layout: post
 title:  "Os Surpreendentes Benefícios do Alho"
-date:   2023-10-03 11:37:32 +0200
-description: 
-categories: superfood
+date:   2023-10-03 10:37:32 +0200
+description: O alho é reconhecido como um poderoso superalimento desde a antiguidade, utilizado por civilizações como os gregos,
+   romanos e egípcios pelas suas muitas propriedades curativas. Apesar de sua rica história, muitas pessoas hoje não colhem
+   todos os benefícios do alho, muitas vezes devido ao uso indevido.
+categories: alimentos
 photo: /assets/img/garlic-2984093_1280.jpg
 photo_credits: AdaoDG
 photo_credits_link: https://pixabay.com/photos/garlic-condiment-seasoning-food-2984093/

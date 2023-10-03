@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    {% include head.html %}
+</head>
+<body>
+    {% include header.html %}
+    <div class="content-body">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 col-sm-6 entry-content ">
+                    <h1 class="">{{ page.title }}</h1>
+                    {% include products/hive/collagene-prebiotic.html %}
+                </div>
+                <aside class="col-md-4">
+<!--                    <div class="thumbnail">-->
+<!--                        <img src="/assets/img/LigiaValle3.jpg"  alt="Ligia Valle">-->
+<!--                    </div>-->
+
+                    {% include contact.html %}
+                    {% include social.html %}
+
+                </aside>
+            </div>
+
+        </div>
+    </div>
+    {% include footer.html %}
+    {% include menu.html %}
+
+
+    <script src="/assets/js/script.js"></script>
+
+</body>
+
+</html>

@@ -6,7 +6,6 @@
     {% if page.recommended == "Smart Active Collagen" %}
         {% include products/hive/collagene-smart-active.html %}
     {% elsif page.recommended == "Prebiotic Collagen" %}
-    {% elsif page.recommended == "Prebiotic Collagen" %}
         {% include products/hive/collagene-prebiotic.html %}
     {% elsif page.recommended == "Nimbus" %}
     <div  id="nimbus" class="carousel slide" data-ride="carousel">
@@ -35,15 +34,11 @@
 
     </div>
     {% elsif page.recommended == "Spark" %}
-    <div  id="spark" class="carousel slide" data-ride="carousel">
-        <!-- Wrapper for slides -->
-        <div class="carousel-inner" role="listbox">
-            <div class="item active">
-                {% include products/hive/still-spark.html %}
-            </div>
-        </div>
-
-    </div>
+        {% include products/hive/hyper-spark.html %}
+    {% elsif page.recommended == "Creatina" %}
+        {% include products/hive/hyper-creatina.html %}
+    {% elsif page.recommended == "Antiox" %}
+        {% include products/hive/morning-antiox-shot.html %}
     {% else %}
     <!--  carousel -->
     <div id="reskin" class="carousel slide" data-ride="carousel">
