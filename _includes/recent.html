@@ -2,7 +2,7 @@
     <h4 class="widget-title">Recentes</h4>
 
     <ul>
-        {% for post in site.posts limit:5 %}
+        {% for post in site.posts limit:15 %}
         <li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
         {% endfor %}
     </ul>
