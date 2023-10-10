@@ -1,11 +1,13 @@
 ---
 layout: post
 title:  "Creatina: Desempenho e Força"
-date:   2023-12-31 11:37:32 +0200
+date:   2023-10-10 10:37:32 +0200
 description: A creatina é  composto orgânico, naturalmente encontrado no corpo humano e em alimentos como carne e peixe, desempenha um papel
   fundamental no fornecimento de energia durante atividades de alta intensidade e curta duração, como levantamento de peso e sprint.
 
 recommended: Creatina
+categories: sport
+
 ---
 A creatina é um dos suplementos mais populares e amplamente estudados no mundo do fitness e do esporte. 
 Este composto orgânico, naturalmente encontrado no corpo humano e em alimentos como carne e peixe, desempenha um papel 
