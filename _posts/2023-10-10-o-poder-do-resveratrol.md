@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "O Poder do Resveratrol"
-date:   2023-10-10 11:02:32 +0200
+date:   2023-12-31 11:02:32 +0200
 description:  Neste artigo, exploraremos o que é o resveratrol, seus potenciais benefícios e as fontes naturais em que pode ser encontrado.
 categories: general
 ---
