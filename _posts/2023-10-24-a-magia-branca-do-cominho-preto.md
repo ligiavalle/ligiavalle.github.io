@@ -1,9 +1,11 @@
 ---
 layout: post
 title:  "A magia branca do Cominho Preto"
-date:   2023-10-17 11:37:32 +0200
-description: 
-categories: superfood
+date:   2023-10-24 11:37:32 +0200
+description: A pesquisa científica sobre Nigella sativa tem sido completa e promissora. Contém compostos benéficos, como terpenóides,
+  terpenos e polifenóis, que são poderosos antioxidantes, combatendo os radicais livres prejudiciais.
+categories: alimentos
+recommended: None
 ---
 
 Nigella sativa, comumente confundida com cominho preto devido à semelhança entre suas sementes, é na verdade uma 
