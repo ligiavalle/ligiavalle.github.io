@@ -4,6 +4,7 @@ title:  "O Poder do Resveratrol"
 date:   2023-10-17 11:02:32 +0200
 description:  Neste artigo, exploraremos o que é o resveratrol, seus potenciais benefícios e as fontes naturais em que pode ser encontrado.
 categories: general
+
 ---
 
 O resveratrol é um composto fenólico natural encontrado em certas plantas, especialmente uvas, 
