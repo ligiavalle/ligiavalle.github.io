@@ -1,14 +1,16 @@
 ---
 layout: post
 title:  "A magia branca do Cominho Preto"
-date:   2023-10-24 11:37:32 +0200
+date:   2023-10-14 11:37:32 +0200
 description: A pesquisa científica sobre Nigella sativa tem sido completa e promissora. Contém compostos benéficos, como terpenóides,
   terpenos e polifenóis, que são poderosos antioxidantes, combatendo os radicais livres prejudiciais.
 categories: alimentos
+photo: /assets/img/black-cumin-1280.webp
 recommended: None
+image: /assets/img/fb/cumino.png
 ---
 
-_Nigella sativa_ ou cominho preto, comumente confundida com cominho comum devido à semelhança entre suas sementes, é na verdade uma 
+Nigella sativa, comumente confundida com cominho preto devido à semelhança entre suas sementes, é na verdade uma 
 especiaria completamente diferente.
 _Nigella sativa_ tem origens antigas e provém de regiões como o Mediterrâneo Oriental, Índia, Bangladesh e vários 
 países árabes. Esta especiaria tem sido utilizada não só na preparação culinária, mas também como ingrediente medicinal.
