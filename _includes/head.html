@@ -1,10 +1,38 @@
     <title>{{ page.title }}</title>
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "BlogPosting",
+            "headline": "{{ page.title }}",
+            "description": "{{ page.description }}",
+
+            "publisher": {
+                "@type": "Person",
+                "name": "Ligia Valle",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": "{{site.url}}/assets/img/logo-round.png"
+                }
+            },
+
+            "datePublished": "{{page.date}}",
+            "dateModified": "{{page.date}}",
+            "author": [{
+                "@type": "Person",
+                "name": "Ligia Valle",
+                "url": "https://www.facebook.com/ligia.valle.925"
+            }],
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "{{ site.url }}{{ page.url }}"
+            }
+        }
+    </script>
+
     <meta name="description" content="{{ page.description }}">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html',''}}">
-    <meta name="keywords"  content="Ligia Lustosa, Ligia Valle, Ligia Lustosa do Valle, Saúde , Beleza,  Curitiba">
-
 
     {% if jekyll.environment == "production" %}
     <!-- Google tag (gtag.js) -->
@@ -65,7 +93,7 @@
     <meta property="og:url" content="{{ site.url }}{{ page.url }}"/>
     <meta property="og:image" content="{{ site.url }}{{ page.image }}"/>
     <meta property="og:site_name" content="{{ site.title }}"/>
-    <meta property="og:description" content="{% if pagecontent_description.size > 10 %}{{ pagecontent_description }}{% else %}{{ site.description }}{% endif %}"/>
+    <meta property="og:description" content="{% if page.description.size > 10 %}{{ page.description }}{% else %}{{ site.description }}{% endif %}"/>
     <meta property="og:type" content="article">
     <meta property='article:author' content='https://www.facebook.com/ligia.valle.925' />
     <meta property='article:publisher' content='https://www.facebook.com/ligia.valle.925' />
@@ -76,7 +104,7 @@
     <meta name="twitter:title" content="{{ page.title }}" />
     {% if page.image %}<meta name="twitter:image" content="{{ site.url }}{{ page.image }}" />{% endif %}
     <meta name="twitter:url" content="{{ site.url }}{{ page.url }}" />
-    <meta name="twitter:description" content="{% if pagecontent_description.size > 10 %}{{ pagecontent_description }}{% else %}{{ site.description }}{% endif %}" />
+    <meta name="twitter:description" content="{% if page.description.size > 10 %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
 
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
