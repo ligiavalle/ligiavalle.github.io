@@ -10,7 +10,7 @@ categories: alimentos
 # photo_credits: AdaoDG
 # photo_credits_link: https://pixabay.com/photos/garlic-condiment-seasoning-food-2984093/
 recommended: None
-image: /assets/img/fb/alho.png
+image: /assets/img/fb/alho.jpg
 ---
 O alho é reconhecido como um poderoso superalimento desde a antiguidade, utilizado por civilizações como os gregos, 
 romanos e egípcios pelas suas muitas propriedades curativas. Apesar de sua rica história, muitas pessoas hoje não colhem 
