@@ -6,9 +6,9 @@ description: O alho é reconhecido como um poderoso superalimento desde a antigu
    romanos e egípcios pelas suas muitas propriedades curativas. Apesar de sua rica história, muitas pessoas hoje não colhem
    todos os benefícios do alho, muitas vezes devido ao uso indevido.
 categories: alimentos
-photo: /assets/img/garlic-2984093_1280.jpg
-photo_credits: AdaoDG
-photo_credits_link: https://pixabay.com/photos/garlic-condiment-seasoning-food-2984093/
+# photo: /assets/img/garlic-2984093_1280.jpg
+# photo_credits: AdaoDG
+# photo_credits_link: https://pixabay.com/photos/garlic-condiment-seasoning-food-2984093/
 recommended: None
 image: /assets/img/fb/alho.jpg
 ---
