@@ -10,7 +10,7 @@ recommended: None
 #image: /assets/img/fb/cumino.png
 ---
 
-Nigella sativa, comumente confundida com cominho preto devido à semelhança entre suas sementes, é na verdade uma 
+_Nigella sativa_, comumente confundida com cominho comum devido à semelhança entre suas sementes, é na verdade uma 
 especiaria completamente diferente.
 _Nigella sativa_ tem origens antigas e provém de regiões como o Mediterrâneo Oriental, Índia, Bangladesh e vários 
 países árabes. Esta especiaria tem sido utilizada não só na preparação culinária, mas também como ingrediente medicinal.
