@@ -7,7 +7,7 @@ description: A pesquisa científica sobre Nigella sativa tem sido completa e pro
 categories: alimentos
 photo: /assets/img/black-cumin-1280.webp
 recommended: None
-#image: /assets/img/fb/cumino.png
+image: /assets/img/fb/cumino.png
 ---
 
 _Nigella sativa_, comumente confundida com cominho comum devido à semelhança entre suas sementes, é na verdade uma 
