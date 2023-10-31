@@ -1,24 +1,26 @@
 ---
 layout: post
 title:  "Revisão Reskin Morning Antiox Shot"
-date:   2023-12-31 11:37:32 +0200
+date:   2023-10-31 9:37:32 +0200
 description: Considerando o modo de vida atual, onde constantemente se exige nossa atenção e melhor desempenho, achei importante
   falar sobre esse produto, devido à sua interessante fórmula antioxidante.
 review: true
-categories: review
+categories: reviews
 photo: /assets/img/products/hive/morning-antiox-shot.jpg
 recommended: Antiox
 ---
-O **Morning Antiox Shot** é um suplemento da linha RESKIN, da Hive.  
+O **Morning Antiox Shot** é um suplemento da linha **RESKIN**, da Hive.  
 Considerando o modo de vida atual, onde constantemente se exige nossa atenção e melhor desempenho, achei importante falar 
 sobre esse produto, devido à sua interessante fórmula antioxidante.
+
+
 
 ## Descrição do Produto
 - **Embalagem**. Pote em papelão reforçado, onde está acondicionado o pó, em saco plástico. A embalagem oferece 
   30 porções, o que garante 1 mês de uso e vem com medida dosadora de 5g.
 
 
-- **Ingredientes**. Como ingredientes principais, o produto traz resveratrol, astaxantina e licopeno , notando-se aí a excelente 
+- **Ingredientes**. Como ingredientes principais, o produto traz <a href="http://127.0.0.1:4000/general/2023/10/17/o-poder-do-resveratrol.html" style="color:#337ab7" target="_blank"><strong>resveratrol</strong></a>, astaxantina e licopeno , notando-se aí a excelente 
   combinação de antioxidantes.
 
 
@@ -26,6 +28,8 @@ sobre esse produto, devido à sua interessante fórmula antioxidante.
 
 
 - **Sem corante**, sem conservante, sem lactose
+
+
 
 ## Uso do Produto
 - **Instruções de Uso**.  o pó deve ser dissolvido em 150ml de água fria ou gelada, para tomar uma vez ao dia, pela manhã.
