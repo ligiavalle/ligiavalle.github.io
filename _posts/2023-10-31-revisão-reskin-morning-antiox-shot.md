@@ -22,7 +22,7 @@ sobre esse produto, devido à sua interessante fórmula antioxidante.
   30 porções, o que garante 1 mês de uso e vem com medida dosadora de 5g.
 
 
-- **Ingredientes**. Como ingredientes principais, o produto traz <a href="http://127.0.0.1:4000/general/2023/10/17/o-poder-do-resveratrol.html" style="color:#337ab7" target="_blank"><strong>resveratrol</strong></a>, astaxantina e licopeno , notando-se aí a excelente 
+- **Ingredientes**. Como ingredientes principais, o produto traz <a href="https://brilhointerior.com/general/2023/10/17/o-poder-do-resveratrol.html" style="color:#337ab7" target="_blank"><strong>resveratrol</strong></a>, astaxantina e licopeno , notando-se aí a excelente 
   combinação de antioxidantes.
 
 
