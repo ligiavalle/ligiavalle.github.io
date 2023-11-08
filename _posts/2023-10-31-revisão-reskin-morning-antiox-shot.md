@@ -7,7 +7,7 @@ description: Considerando o modo de vida atual, onde constantemente se exige nos
 review: true
 categories: reviews
 #photo: /assets/img/products/hive/morning-antiox-shot.jpg
-photo: /assets/img/products/hive/antiox-shot-review.webp
+#photo: /assets/img/products/hive/antiox-shot-review.webp
 image: /assets/img/fb/revisão-reskin-morning-antiox-shot.jpg
 recommended: Antiox
 ---
