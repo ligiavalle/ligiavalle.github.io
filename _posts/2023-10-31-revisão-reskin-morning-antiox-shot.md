@@ -9,7 +9,7 @@ categories: reviews
 #photo: /assets/img/products/hive/morning-antiox-shot.jpg
 #photo: /assets/img/products/hive/antiox-shot-review.webp
 image: /assets/img/fb/revisão-reskin-morning-antiox-shot.jpg
-recommended: Antiox
+recommended: None
 ---
 O **Morning Antiox Shot** é um suplemento da linha **RESKIN**, da Hive.  
 Considerando o modo de vida atual, onde constantemente se exige nossa atenção e melhor desempenho, achei importante falar 
