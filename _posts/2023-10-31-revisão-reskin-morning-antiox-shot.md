@@ -8,6 +8,7 @@ review: true
 categories: reviews
 #photo: /assets/img/products/hive/morning-antiox-shot.jpg
 #photo: /assets/img/products/hive/antiox-shot-review.webp
+photo: /assets/img/fb/revisão-reskin-morning-antiox-shot.jpg
 image: /assets/img/fb/revisão-reskin-morning-antiox-shot.jpg
 recommended: None
 ---
