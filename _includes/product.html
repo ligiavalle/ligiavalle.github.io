@@ -43,6 +43,21 @@
         {% include products/hive/hyper-fluid.html %}
     {% elsif page.recommended == "Q10" %}
         {% include products/luciluci/q10.html %}
+    {% elsif page.recommended == "Matcha" %}
+    <!--  carousel -->
+    <div id="matcha" class="carousel slide" data-ride="carousel">
+        <!-- Wrapper for slides -->
+        <div class="carousel-inner" role="listbox">
+            <div class="item active">
+                {% include products/hive/looseit-slim-tea.html   %}
+            </div>
+            <div class="item">
+                {% include products/luciluci/cha-matcha-limao.html   %}
+            </div>
+
+        </div>
+    </div>
+
     {% else %}
     <!--  carousel -->
     <div id="reskin" class="carousel slide" data-ride="carousel">
