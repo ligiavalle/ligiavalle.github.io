@@ -3,7 +3,7 @@ layout: about
 title: Sobre Mim
 description: Meu nome é Ligia Lustosa do Valle,sou farmacêutica e quero compartilhar conhecimentos
   que possam ajudar você a tomar decisões informadas sobre os produtos que utiliza.
-  Com uma sólida formação em farmácia hospitalar e uma carreira que abrange desde pesquisa clínica
+  Com uma [sólida formação](https://www.escavador.com/sobre/1574656/ligia-regina-lustosa-do-valle) em farmácia hospitalar e uma carreira que abrange desde pesquisa clínica
   até aconselhamento de cuidados pessoais, estou aqui para oferecer informações confiáveis e insights
   sobre os produtos que fazem parte do seu dia a dia.
 ---
@@ -22,6 +22,7 @@ Acredito na importância de tomar decisões informadas quando se trata de escolh
 produtos para cuidados pessoais. Meu objetivo é traduzir a linguagem científica complexa em
 informações acessíveis para que você possa entender não apenas o que está usando, mas porque está usando.
 Quero ajudá-lo a descobrir a ciência por trás da beleza e dos produtos de cuidados pessoais.
+
 ### O que Você Encontrará Aqui
 Neste espaço, você encontrará uma variedade de recursos,
 incluindo análises detalhadas de produtos, insights sobre os ingredientes-chave,
