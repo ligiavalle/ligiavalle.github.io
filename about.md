@@ -3,13 +3,13 @@ layout: about
 title: Sobre Mim
 description: Meu nome é Ligia Lustosa do Valle,sou farmacêutica e quero compartilhar conhecimentos
   que possam ajudar você a tomar decisões informadas sobre os produtos que utiliza.
-  Com uma [sólida formação](https://www.escavador.com/sobre/1574656/ligia-regina-lustosa-do-valle) em farmácia hospitalar e uma carreira que abrange desde pesquisa clínica
+  Com uma sólida formação em farmácia hospitalar e uma carreira que abrange desde pesquisa clínica
   até aconselhamento de cuidados pessoais, estou aqui para oferecer informações confiáveis e insights
   sobre os produtos que fazem parte do seu dia a dia.
 ---
 Meu nome é **Ligia Lustosa do Valle**, sou farmacêutica e quero compartilhar conhecimentos
 que possam ajudar você a tomar decisões informadas sobre os produtos que utiliza.
-Com uma sólida formação em farmácia hospitalar e uma carreira que abrange desde pesquisa clínica
+Com uma [sólida formação](https://www.escavador.com/sobre/1574656/ligia-regina-lustosa-do-valle) em farmácia hospitalar e uma carreira que abrange desde pesquisa clínica
 até aconselhamento de cuidados pessoais, estou aqui para oferecer informações confiáveis e insights
 sobre os produtos que fazem parte do seu dia a dia.
 
