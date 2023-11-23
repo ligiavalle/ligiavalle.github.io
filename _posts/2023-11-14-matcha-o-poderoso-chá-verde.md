@@ -20,17 +20,17 @@ Após a colheita, as folhas são vaporizadas, secas e moídas em um pó fino, qu
 
 ## Benefícios à Saúde
 O Matcha é conhecido por seus inúmeros benefícios à saúde, que contribuem para a crescente popularidade do chá. Alguns dos benefícios incluem:
-Antioxidante: O Matcha é rico em catequinas, antioxidantes que combatem os radicais livres e protegem as células do corpo contra danos.
-Energia: O Matcha contém cafeína, mas também é rico em L-teanina, um aminoácido que promove a concentração e a clareza mental, sem os picos e quedas de energia associados ao café.
-Acelera o Metabolismo: Estudos mostram que o Matcha pode ajudar a aumentar a taxa metabólica, auxiliando na queima de calorias.
-Desintoxicação: A clorofila presente no Matcha ajuda na desintoxicação do corpo e na eliminação de substâncias indesejadas
+1. **Antioxidante**: O Matcha é rico em catequinas, antioxidantes que combatem os radicais livres e protegem as células do corpo contra danos.
+2. **Energia**: O Matcha contém cafeína, mas também é rico em L-teanina, um aminoácido que promove a concentração e a clareza mental, sem os picos e quedas de energia associados ao café.
+3. **Acelera o Metabolismo**: Estudos mostram que o Matcha pode ajudar a aumentar a taxa metabólica, auxiliando na queima de calorias.
+4. **Desintoxicação**: A clorofila presente no Matcha ajuda na desintoxicação do corpo e na eliminação de substâncias indesejadas
 
 ## Aplicações Culinárias
 Além de ser consumido como chá, o Matcha é um ingrediente versátil na culinária. Aqui estão algumas maneiras de incorporá-lo em suas receitas:
-Sobremesas: O Matcha pode ser usado para fazer bolos, biscoitos, sorvetes e pudins, adicionando uma rica cor verde e um sabor terroso.
-Molhos e Temperos: O Matcha pode ser usado para dar cor e sabor a molhos, marinadas e temperos para pratos salgados.
-Sopas e Guisados: Adicionar uma pitada de Matcha a sopas e guisados pode realçar o sabor e adicionar benefícios à saúde.
-Sobremesas Japonesas: O Matcha é um ingrediente chave em muitas sobremesas tradicionais japonesas, como o mochi e o dorayaki.
+1. **Sobremesas**: O Matcha pode ser usado para fazer bolos, biscoitos, sorvetes e pudins, adicionando uma rica cor verde e um sabor terroso.
+2. **Molhos** e Temperos: O Matcha pode ser usado para dar cor e sabor a molhos, marinadas e temperos para pratos salgados.
+3. **Sopas e Guisados**: Adicionar uma pitada de Matcha a sopas e guisados pode realçar o sabor e adicionar benefícios à saúde.
+4. **Sobremesas Japonesas**: O Matcha é um ingrediente chave em muitas sobremesas tradicionais japonesas, como o mochi e o dorayaki.
 
 ## Conclusão: O Matcha é mais do que um chá, é uma experiência!
 O Matcha é um tesouro da cultura japonesa que se espalhou pelo mundo devido aos seus benefícios à saúde e versatilidade culinária. 
