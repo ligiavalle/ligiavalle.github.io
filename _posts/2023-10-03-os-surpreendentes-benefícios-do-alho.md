@@ -9,7 +9,7 @@ categories: alimentos
 photo: /assets/img/garlic-2984093_1280.jpg
 photo_credits: AdaoDG
 photo_credits_link: https://pixabay.com/photos/garlic-condiment-seasoning-food-2984093/
-recommended: None
+recommended: alho-amazon
 image: /assets/img/fb/alho.jpg
 ---
 O alho é reconhecido como um poderoso superalimento desde a antiguidade, utilizado por civilizações como os gregos, 
@@ -17,7 +17,7 @@ romanos e egípcios pelas suas muitas propriedades curativas. Apesar de sua rica
 todos os benefícios do alho, muitas vezes devido ao uso indevido.
 
 ## Benefícios
-O principal componente do alho é a alicina, uma substância que tem demonstrado capacidades notáveis 
+O principal componente do alho é a **alicina**, uma substância que tem demonstrado capacidades notáveis 
 tratamento de vários problemas de saúde. Foi demonstrado que a alicina combate eficazmente as infecções, reduz o risco 
 de doenças cardiovasculares, reduz o colesterol LDL (o chamado "colesterol ruim") e até melhora o desempenho atlético. 
 No entanto, para aproveitar ao máximo estes benefícios, a ativação da alicina é crucial. 
@@ -33,7 +33,7 @@ Para aproveitar ao máximo os benefícios do alho, a quantidade sugerida varia e
 Porém, como pode causar efeitos colaterais como flatulência ou indigestão em algumas pessoas, é aconselhável começar 
 com doses menores e aumentar gradativamente. 
 Outra pequena desvantagem do alho é o mau hálito, mas existem várias maneiras de lidar com isso, como consumir alho 
-à noite ou optar por suplementos de alho para reduzir o odor.
+à noite ou optar por **suplementos** de alho para reduzir o odor.
 Em resumo, o alho é uma dádiva da natureza com uma vasta gama de benefícios para a saúde, que todos deveriam considerar 
 incorporar na sua alimentação.
 
