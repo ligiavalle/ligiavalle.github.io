@@ -11,7 +11,7 @@ photo_alt: Benefícios do Alho para a saúde infografic
 # photo_credits: AdaoDG
 # photo_credits_link: https://pixabay.com/photos/garlic-condiment-seasoning-food-2984093/
 recommended: alho-amazon
-image: /assets/img/fb/alho.jpg
+image: /assets/img/fb/alho-info-fb.png
 ---
 O alho é reconhecido como um poderoso superalimento desde a antiguidade, utilizado por civilizações como os gregos, 
 romanos e egípcios pelas suas muitas propriedades curativas. Apesar de sua rica história, muitas pessoas hoje não colhem 
