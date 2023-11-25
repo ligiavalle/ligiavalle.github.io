@@ -9,19 +9,32 @@ photo: /assets/img/matcha-info.webp
 photo_alt: Benefícios do Matcha para a saúde infografic
 ---
 
-O Matcha, um chá verde em pó de origem japonesa, tem conquistado cada vez mais espaço no cenário internacional devido aos seus diversos benefícios para a saúde e sua versatilidade na culinária. O Matcha não é apenas uma bebida revigorante, mas também um símbolo da tradição japonesa e uma fonte de inspiração para inovações culinárias. Quero comentar neste artigo um pouco sobre a história, a produção, os benefícios à saúde e as aplicações culinárias do Matcha.
-
+O Matcha, um chá verde em pó de origem japonesa, tem conquistado cada vez mais espaço no cenário internacional devido aos 
+seus diversos benefícios para a saúde e sua versatilidade na culinária. O Matcha não é apenas uma bebida revigorante, 
+mas também um símbolo da tradição japonesa e uma fonte de inspiração para inovações culinárias. Quero comentar neste 
+artigo um pouco sobre a história, a produção, os benefícios à saúde e as aplicações culinárias do Matcha.
 
 ## A História do Matcha
-O Matcha tem uma história rica que remonta a mais de mil anos atrás, quando foi introduzido no Japão a partir da China. Originalmente, o chá verde era usado em cerimônias religiosas e eventos especiais, ganhando destaque como parte integrante da cultura japonesa. Com o tempo, o Matcha evoluiu para um chá apreciado não apenas por sua importância ritualística, mas também por seus benefícios à saúde e sabor únicos.
+O Matcha tem uma história rica que remonta a mais de mil anos atrás, quando foi introduzido no Japão a partir da China. 
+Originalmente, o chá verde era usado em cerimônias religiosas e eventos especiais, ganhando destaque como parte integrante 
+da cultura japonesa. Com o tempo, o Matcha evoluiu para um chá apreciado não apenas por sua importância ritualística, 
+mas também por seus benefícios à saúde e sabor únicos.
 
 
 ## Produção: Uma Arte Cuidadosa
-O Matcha é produzido a partir das folhas da planta Camellia sinensis, a mesma planta da qual o chá verde tradicional é feito. No entanto, o processo de cultivo e produção do Matcha é diferente. Cerca de três semanas antes da colheita, as plantas de chá são cobertas com telas, o que reduz a quantidade de luz solar que chega às folhas. Esse processo estimula a produção de clorofila e outros compostos saudáveis, além de dar ao Matcha sua cor verde vibrante.
-Após a colheita, as folhas são vaporizadas, secas e moídas em um pó fino, que é o Matcha propriamente dito. O processo é delicado e requer mão de obra especializada para garantir a qualidade e a textura desejadas.
+O Matcha é produzido a partir das folhas da planta Camellia sinensis, a mesma planta da qual o chá verde tradicional 
+é feito. No entanto, o processo de cultivo e produção do Matcha é diferente. Cerca de três semanas antes da colheita, 
+as plantas de chá são cobertas com telas, o que reduz a quantidade de luz solar que chega às folhas. Esse processo estimula 
+a produção de clorofila e outros compostos saudáveis, além de dar ao Matcha sua cor verde vibrante.
+Após a colheita, as folhas são vaporizadas, secas e moídas em um pó fino, que é o Matcha propriamente dito. 
+O processo é delicado e requer mão de obra especializada para garantir a qualidade e a textura desejadas.
 
 ## Benefícios à Saúde
-O Matcha é conhecido por seus inúmeros benefícios à saúde, que contribuem para a crescente popularidade do chá. Alguns dos benefícios incluem:
+O Matcha é conhecido por seus inúmeros benefícios à saúde, que contribuem para a crescente popularidade do chá.
+A clorofila, presente no Matcha devido ao processo de cultivo especial, é reconhecida por suas propriedades benéficas. 
+Ela possui propriedades antioxidantes, auxilia na desintoxicação do corpo e pode ter efeitos anti-inflamatórios, promovendo 
+a saúde digestiva.
+Alguns dos benefícios incluem:
 1. **Antioxidante**: O Matcha é rico em catequinas, antioxidantes que combatem os radicais livres e protegem as células do corpo contra danos.
 2. **Energia**: O Matcha contém cafeína, mas também é rico em L-teanina, um aminoácido que promove a concentração e a clareza mental, sem os picos e quedas de energia associados ao café.
 3. **Acelera o Metabolismo**: Estudos mostram que o Matcha pode ajudar a aumentar a taxa metabólica, auxiliando na queima de calorias.
