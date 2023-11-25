@@ -31,7 +31,7 @@
                             {% if page.photo %}
 
                             <figure class="img-responsive-center">
-                                <img class="img-responsive" src="{{ page.photo }}" alt="briliointerior.com">
+                                <img class="img-responsive" src="{{ page.photo }}" alt="{{ page.photo_alt }}">
                                 {% if page.photo_credits %}
                                 <p  style="text-align: right">Image by <a href="{{ page.photo_credits_link }}" target="_blank"><strong>{{ page.photo_credits }}</strong></a> from Pixabay</p>
                                 {% endif %}
