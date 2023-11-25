@@ -6,7 +6,7 @@ description: Benefícios do Alho para a saúde. O alho não é apenas um ingredi
    Com suas propriedades antibacterianas, capacidade de melhorar a saúde cardiovascular e até mesmo auxiliar no
    desempenho atlético, o alho se destaca como um superalimento.
 categories: alimentos
-photo: /assets/img/alho-info.png
+photo: /assets/img/alho-info.webp
 photo_alt: Benefícios do Alho para a saúde infografic
 # photo_credits: AdaoDG
 # photo_credits_link: https://pixabay.com/photos/garlic-condiment-seasoning-food-2984093/
