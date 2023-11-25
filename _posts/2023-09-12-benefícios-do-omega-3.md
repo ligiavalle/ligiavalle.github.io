@@ -6,8 +6,9 @@ description: O ômega-3 é uma gordura benéfica que oferece propriedades anti-i
   a regulação dos níveis de colesterol e glicose, bem como para a prevenção de doenças cardiovasculares e cerebrais.
   Além disso, é conhecido por aprimorar a capacidade de memória e promover uma sensação geral de bem-estar.
 recommended: Omega3
-photo: /assets/img/omega-pills.jpg
+photo: /assets/img/omega-pills.webp
 photo_alt: Benefícios do Ômega 3
+image: /assets/img/omega-pills.webp
 ---
 
 O **ômega 3** é uma gordura benéfica que oferece propriedades anti-inflamatórias notáveis. Seu consumo pode ser vantajoso para
