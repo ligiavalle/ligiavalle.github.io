@@ -5,6 +5,8 @@ date:   2023-11-14 11:01:32 +0200
 description: O Matcha, um chá verde em pó de origem japonesa, tem conquistado cada vez mais espaço no cenário internacional devido aos seus diversos benefícios para a saúde e sua versatilidade na culinária.
 categories: general
 recommended: Matcha
+photo: /assets/img/matcha-info.webp
+photo_alt: Benefícios do Matcha para a saúde infografic
 ---
 
 O Matcha, um chá verde em pó de origem japonesa, tem conquistado cada vez mais espaço no cenário internacional devido aos seus diversos benefícios para a saúde e sua versatilidade na culinária. O Matcha não é apenas uma bebida revigorante, mas também um símbolo da tradição japonesa e uma fonte de inspiração para inovações culinárias. Quero comentar neste artigo um pouco sobre a história, a produção, os benefícios à saúde e as aplicações culinárias do Matcha.
@@ -28,7 +30,7 @@ O Matcha é conhecido por seus inúmeros benefícios à saúde, que contribuem p
 ## Aplicações Culinárias
 Além de ser consumido como chá, o Matcha é um ingrediente versátil na culinária. Aqui estão algumas maneiras de incorporá-lo em suas receitas:
 1. **Sobremesas**: O Matcha pode ser usado para fazer bolos, biscoitos, sorvetes e pudins, adicionando uma rica cor verde e um sabor terroso.
-2. **Molhos** e Temperos: O Matcha pode ser usado para dar cor e sabor a molhos, marinadas e temperos para pratos salgados.
+2. **Molhos e Temperos**: O Matcha pode ser usado para dar cor e sabor a molhos, marinadas e temperos para pratos salgados.
 3. **Sopas e Guisados**: Adicionar uma pitada de Matcha a sopas e guisados pode realçar o sabor e adicionar benefícios à saúde.
 4. **Sobremesas Japonesas**: O Matcha é um ingrediente chave em muitas sobremesas tradicionais japonesas, como o mochi e o dorayaki.
 
