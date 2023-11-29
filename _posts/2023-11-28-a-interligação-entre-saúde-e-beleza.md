@@ -13,7 +13,7 @@ A busca por saúde e beleza tem sido uma constante na história da humanidade. D
 enquanto reconhecem a importância da saúde para uma vida plena. No entanto, muitas vezes, esses dois conceitos são abordados de forma separada. 
 Neste artigo, exploraremos a interligação entre saúde e beleza, demonstrando como a promoção de ambas pode levar a um bem-estar integral.
 
-## Saúde e Beleza: Conceitos Intertwined
+## Saúde e Beleza: Conceitos Interligados
 A saúde e a beleza não são conceitos independentes. Na verdade, estão intrinsecamente ligados, e um tem um impacto direto sobre o outro. 
 Quando estamos saudáveis, nosso corpo funciona melhor, o que se reflete na nossa aparência. Aqui estão algumas maneiras pelas quais saúde e 
 beleza estão conectadas:
