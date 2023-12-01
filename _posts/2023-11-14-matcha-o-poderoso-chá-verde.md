@@ -29,7 +29,7 @@ a produção de clorofila e outros compostos saudáveis, além de dar ao Matcha 
 Após a colheita, as folhas são vaporizadas, secas e moídas em um pó fino, que é o Matcha propriamente dito. 
 O processo é delicado e requer mão de obra especializada para garantir a qualidade e a textura desejadas.
 
-## Benefícios à Saúde
+## Benefícios do Cha Verde para Saúde
 O Matcha é conhecido por seus inúmeros benefícios à saúde, que contribuem para a crescente popularidade do chá.
 A clorofila, presente no Matcha devido ao processo de cultivo especial, é reconhecida por suas propriedades benéficas. 
 Ela possui propriedades antioxidantes, auxilia na desintoxicação do corpo e pode ter efeitos anti-inflamatórios, promovendo 
