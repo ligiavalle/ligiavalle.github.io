@@ -52,3 +52,10 @@ mais adequada para cada situação individual.
 >  sonolência excessiva durante o dia e insônia à noite.
 >- É também indicado para tratar enxaqueca.
 
+## Conclusão
+Em resumo, a melatonina desempenha um papel fundamental na regulação do sono e na manutenção do nosso ritmo circadiano. 
+Compreender como esse hormônio age no organismo é essencial para quem busca melhorar a qualidade do sono, 
+especialmente considerando as variações naturais em sua produção com o avançar da idade. 
+Embora os suplementos de melatonina possam ser uma opção para alguns, é sempre recomendável procurar orientação médica 
+antes de iniciar qualquer forma de suplementação. Além disso, adotar hábitos de vida saudáveis e uma dieta equilibrada 
+pode auxiliar na otimização natural dos níveis de melatonina, promovendo um sono reparador e benéfico para a saúde geral.
