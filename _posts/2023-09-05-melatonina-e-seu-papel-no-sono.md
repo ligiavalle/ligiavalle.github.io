@@ -46,7 +46,7 @@ mais adequada para cada situação individual.
 
 > ### <span class="ion-android-bulb"></span> Dicas
 >- Uma alternativa natural para aumentar os níveis de melatonina no organismo é incorporar alimentos que favoreçam sua 
->  produção, como arroz integral, bananas, nozes, laranjas e espinafres, na dieta diária. Esses alimentos podem contribuir 
+>  produção, como arroz integral, bananas, nozes, laranjas e espinafre, na dieta diária. Esses alimentos podem contribuir 
 >  para melhorar a qualidade do sono e regular o ritmo circadiano de forma mais natural.
 >- O uso diurno da melatonina geralmente não é aconselhado, pois pode desregular o ciclo circadiano, resultando em 
 >  sonolência excessiva durante o dia e insônia à noite.
