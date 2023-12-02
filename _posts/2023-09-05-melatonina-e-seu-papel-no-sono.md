@@ -18,7 +18,7 @@ No Brasil, mais de 70% da população sofre com alterações no sono, de acordo 
 Esses problemas podem variar desde dificuldades para dormir até distúrbios mais complexos. Para lidar com essas questões, 
 muitas pessoas estão recorrendo ao uso da melatonina. 
 
-## Principais Benefícios
+## Benefícios da Melatonina
 Esse hormônio, que é produzido naturalmente pelo corpo, desempenha 
 um papel crucial na regulação do sono e do ritmo circadiano.
 A melatonina não é apenas responsável por estimular o sono, mas também por sincronizar as funções biológicas do corpo para 
