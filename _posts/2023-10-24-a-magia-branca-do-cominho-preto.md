@@ -6,8 +6,10 @@ description: A pesquisa científica sobre Nigella sativa tem sido completa e pro
   terpenos e polifenóis, que são poderosos antioxidantes, combatendo os radicais livres prejudiciais.
 categories: alimentos
 photo: /assets/img/black-cumin-1280.webp
+photo_alt: Nigella sativa, comumente confundida com cominho preto
 recommended: None
 image: /assets/img/fb/cumino.png
+
 ---
 
 _Nigella sativa_, comumente confundida com cominho comum devido à semelhança entre suas sementes, é na verdade uma 
