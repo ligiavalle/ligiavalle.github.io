@@ -9,6 +9,7 @@ description: No Brasil, mais de 70% da população sofre com alterações no son
 
 categories: hormônio
 recommended: Nimbus
+image: /assets/img/melatonina-info.webp
 photo: /assets/img/melatonina-info.webp
 photo_alt: Benefícios da Melatonina para a saúde infografic
 #photo: /assets/img/woman-5988509_1280.jpg
