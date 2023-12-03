@@ -39,7 +39,7 @@ regulação do sono e dos ritmos biológicos.
 
 ## Como Usar?
 Como suplemento, a melatonina é administrada por via oral, sob a forma de pó para ser diluído em água ou leite, comprimidos, 
-cápsulas ou gotas, aproximadamente de 1 a 2 horas antes de dormir.
+cápsulas ou gotas, aproximadamente de 30 minutos a 1 hora antes de dormir.
 No entanto, é importante destacar que a suplementação de melatonina não é apropriada para todos os casos de problemas de sono. 
 Antes de começar a usar a melatonina como suplemento, é aconselhável buscar orientação médica para determinar a abordagem 
 mais adequada para cada situação individual.
