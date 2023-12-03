@@ -9,6 +9,8 @@ description: No Brasil, mais de 70% da população sofre com alterações no son
 
 categories: hormônio
 recommended: Nimbus
+photo: /assets/img/melatonina-info.webp
+photo_alt: Benefícios da Melatonina para a saúde infografic
 #photo: /assets/img/woman-5988509_1280.jpg
 #photo_credits: 20125674
 #photo_credits_link: https://pixabay.com/users/20125674-20125674/
@@ -37,7 +39,7 @@ a liberação de hormônios adequados e coordenam uma série de processos bioló
 alimentar-se, praticar exercícios e, é claro, dormir. Portanto, a melatonina é uma parte vital dessa complexa rede de 
 regulação do sono e dos ritmos biológicos.
 
-## Como Usar?
+## Como Usar a Melatonina?
 Como suplemento, a melatonina é administrada por via oral, sob a forma de pó para ser diluído em água ou leite, comprimidos, 
 cápsulas ou gotas, aproximadamente de 30 minutos a 1 hora antes de dormir.
 No entanto, é importante destacar que a suplementação de melatonina não é apropriada para todos os casos de problemas de sono. 
