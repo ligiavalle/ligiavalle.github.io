@@ -38,8 +38,8 @@
             <div class="col-md-7 col-sm-7 col-xs-4">
                 <nav class="main-nav" role="navigation">
                     <div class="navbar-header">
-                        <button type="button" id="trigger-overlay" class="navbar-toggle">
-                            <span class="ion-navicon"></span>
+                        <button type="button" id="trigger-overlay" aria-label="Blog"  class="navbar-toggle">
+                            <span  class="ion-navicon"></span>
                         </button>
                     </div>
 
@@ -56,13 +56,13 @@
                         </ul>
                     </div><!-- /.navbar-collapse -->
                 </nav>
-                <div id="header-search-box">
+                <div id="header-search-box" class="hidden-xs">
                     <a id="search-menu" href="#" aria-label="Search"><span id="search-icon" class="ion-ios-search-strong"></span></a>
                     <div id="search-form" class="search-form">
 
                         <form role="search" method="get" id="searchform" action="/search.html">
                             <input type="search" placeholder="Buscar" id="search-box" name="query" required>
-                            <button type="submit" value="search"><span class="ion-ios-search-strong"></span></button>
+                            <button type="submit" aria-label="Buscar" value="search"><span class="ion-ios-search-strong"></span></button>
                         </form>
                     </div>
                 </div>
