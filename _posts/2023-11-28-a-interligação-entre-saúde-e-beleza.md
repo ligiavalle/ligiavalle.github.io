@@ -2,7 +2,7 @@
 layout: post
 title:  "A Interligação entre Saúde e Beleza"
 date:   2023-11-28 10:02:32 +0200
-description: Descubra a conexão entre saúde e beleza: um artigo explorando como a harmonia desses aspectos promove um bem-estar integral.
+description: Descubra a conexão entre saúde e beleza, um artigo explorando como a harmonia desses aspectos promove um bem-estar integral.
 categories: general
 recommended: none
 #photo: /assets/img/beleza.webp

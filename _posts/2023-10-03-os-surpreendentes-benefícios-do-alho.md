@@ -2,7 +2,7 @@
 layout: post
 title:  "Os Surpreendentes Benefícios do Alho"
 date:   2023-10-03 10:37:32 +0200
-description: Descubra os benefícios do alho: um superalimento com propriedades antibacterianas, melhorias na saúde 
+description: Descubra os benefícios do alho, um superalimento com propriedades antibacterianas, melhorias na saúde 
    cardiovascular e impulso no desempenho atlético
 categories: alimentos
 photo: /assets/img/alho-info.webp
