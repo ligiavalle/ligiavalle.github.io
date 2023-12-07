@@ -2,7 +2,7 @@
 layout: post
 title:  "Beta-Alanina: O que é e Como Pode Beneficiar seu Desempenho Atlético"
 date:   2023-12-05 11:35:32 +0200
-description: A beta-alanina é um aminoácido não essencial que tem ganhado destaque no mundo do esporte e do fitness devido aos seus potenciais benefícios para o desempenho atlético.
+description: "Descubra os benefícios da beta-alanina, um aminoácido não essencial popular no esporte e fitness, conhecido por melhorar o desempenho atlético."
 
 categories: general
 recommended: Beta

@@ -2,7 +2,7 @@
 layout: post
 title:  "Matcha: O Poderoso Chá Verde"
 date:   2023-11-14 11:01:32 +0200
-description: O Matcha, um chá verde em pó de origem japonesa, tem conquistado cada vez mais espaço no cenário internacional devido aos seus diversos benefícios para a saúde e sua versatilidade na culinária.
+description: "Conheça o Matcha, o chá verde japonês ganhando popularidade internacional por seus benefícios à saúde e versatilidade culinária."
 categories: general
 recommended: Matcha
 photo: /assets/img/matcha-info.webp
