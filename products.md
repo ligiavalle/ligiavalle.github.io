@@ -1,5 +1,6 @@
 ---
 layout: products
 title: Products
-description: 
+description:
+sitemap: false
 ---
