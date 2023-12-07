@@ -2,9 +2,7 @@
 layout: post
 title:  "Eletrólitos e Sais Minerais no Esporte e na Saúde"
 date:   2023-11-21 11:01:32 +0200
-description: A prática regular de atividade física e esportes desempenha um papel crucial na promoção da saúde e do bem-estar. No entanto, muitas vezes, os atletas
-  e entusiastas do fitness não prestam atenção adequada aos eletrólitos e sais minerais, que são componentes vitais para o funcionamento do corpo humano,
-  especialmente durante a atividade física intensa.  
+description: A importância de eletrólitos e sais minerais para atletas e entusiastas do fitness, essenciais na manutenção da saúde durante atividades físicas intensas. 
 categories: general
 recommended: Fluid
 ---
