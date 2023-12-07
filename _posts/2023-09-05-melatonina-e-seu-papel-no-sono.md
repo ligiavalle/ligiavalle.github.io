@@ -2,11 +2,7 @@
 layout: post
 title:  "Melatonina e seu Papel no Sono"
 date:   2023-09-05 11:37:32 -0300
-description: No Brasil, mais de 70% da população sofre com alterações no sono, de acordo com estudos da
-  Fundação Oswaldo Cruz (Fiocruz).
-  Esses problemas podem variar desde dificuldades para dormir até distúrbios mais complexos. Para lidar 
-  com essas questões, muitas pessoas estão recorrendo ao uso da melatonina.
-
+description: No Brasil, mais de 70% sofrem com problemas de sono, segundo a Fiocruz. Este artigo aborda como a melatonina está sendo usada para essas questões.
 categories: hormônio
 recommended: Nimbus
 image: /assets/img/melatonina-info.webp
