@@ -2,11 +2,7 @@
 layout: post
 title:  "A Importância do Colágeno"
 date:   2023-08-25 11:37:32 +0200
-description: O colágeno é uma proteína fundamental encontrada no corpo humano e em muitos outros animais.
-             É um componente importante da pele, ossos, tendões, ligamentos, cartilagens e outros tecidos conjuntivos.
-             O colágeno desempenha um papel crucial na manutenção da integridade estrutural desses tecidos.
-             Ele fornece resistência e elasticidade à pele, ajuda a manter a saúde das articulações e contribui para a
-             força dos ossos.
+description: Explore o papel do colágeno, uma proteína chave para a saúde da pele, ossos e tecidos conjuntivos, essencial para a elasticidade e resistência.
 
 categories: colágeno
 image: /assets/img/fb/colageno.jpg
