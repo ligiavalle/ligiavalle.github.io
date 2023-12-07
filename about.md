@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Sobre Mim
+title: "Meu Perfil Profissional: Farmácia e Saúde"
 description: Ligia Lustosa do Valle, farmacêutica experiente, compartilha conhecimentos para escolhas informadas sobre produtos de saúde e cuidados pessoais
 ---
 Meu nome é **Ligia Lustosa do Valle**, sou farmacêutica e quero compartilhar conhecimentos
