@@ -17,10 +17,10 @@
                     <article class="post post-1">
                         <header class="entry-header">
                             <h1>{{ page.title }}</h1>
-                            <div class="entry-meta">
-                                <span class=""><a href="#"><time class="entry-date" datetime="{{ page.date }}">{{ page.date  | date_to_long_string }}</time></a></span>
-                                <span class=""><a href="#"><span class="ion-clock readingtime"> {{ time }} {%if time > 1 %}mins{% else %}min{% endif %} to read</span></a></span>
-                                <span class=""><a href="#">{{ page.category}}</a></span>
+                            <div class="">
+                                <span class="comments-link"><time class="entry-date" datetime="{{ page.date }}">{{ page.date  | date_to_long_string }}</time></span>
+                                <span class="comments-link"><span class="ion-clock readingtime"> {{ time }} {%if time > 1 %}mins{% else %}min{% endif %} to read</span></span>
+                                <span class="comments-link">{{ page.category}}</span>
 
                                 <!--                                <span class="comments-link"><a href="https://plus.google.com/u/0/106503478633817605504?rel=author">{{ page.author }}</a></span>-->
                             </div>
