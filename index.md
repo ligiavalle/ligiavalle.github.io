@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Brilho Interior - Seja bem-vindo ao meu mundo de cuidados com a saúde e beleza! 
-description: Explore saúde e beleza: análises detalhadas, dicas de uso, informações de ingredientes e guia para escolher produtos ideais para você.
+description: Explore saúde e beleza; análises detalhadas, dicas de uso, informações de ingredientes e guia para escolher produtos ideais para você.
 
 recommended: Smart Active Collagen
 ---
