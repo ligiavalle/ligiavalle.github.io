@@ -2,9 +2,7 @@
 layout: post
 title:  "Benefícios do Ômega 3"
 date:   2023-09-12 10:14:32 -0300
-description: O ômega-3 é uma gordura benéfica que oferece propriedades anti-inflamatórias notáveis. Seu consumo pode ser vantajoso para
-  a regulação dos níveis de colesterol e glicose, bem como para a prevenção de doenças cardiovasculares e cerebrais.
-  Além disso, é conhecido por aprimorar a capacidade de memória e promover uma sensação geral de bem-estar.
+description: Descubra os benefícios do ômega-3: propriedades anti-inflamatórias, controle de colesterol e glicose, prevenção de doenças cardíacas e melhora da memória.
 recommended: Omega3
 photo: /assets/img/omega-pills.webp
 photo_alt: Benefícios do Ômega 3
