@@ -7,7 +7,7 @@ description: A sensação de alegria, satisfação e bem-estar é algo que todos
   está intrinsecamente ligada à saúde e ao bem-estar e por que investir em nossa própria felicidade é uma escolha inteligente. 
 
 categories: general
-recommended: none
+recommended: None
 ---
 A busca pela felicidade é uma aspiração universal que transcende fronteiras culturais, econômicas e sociais. 
 A sensação de alegria, satisfação e bem-estar é algo que todos almejam, e não é por acaso. Além de melhorar a qualidade de vida, 
