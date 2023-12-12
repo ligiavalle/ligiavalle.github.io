@@ -43,10 +43,10 @@ Aqui estão algumas maneiras de cultivar a felicidade e, consequentemente, melho
 
 > ### <span class="ion-android-bulb"></span> Dicas
  - Transforme o preparo do seu chá, suplemento ou shake em um ritual pessoal. Aproveite esses momentos como um ato de autocuidado, desde a meticulosidade na 
-   preparação até o prazer de consumí-los
- - Faça atividade física regularmente
+   preparação até o prazer de consumí-los.
+ - Faça atividade física regularmente.
  - Priorize um sono adequado e reparador, o que vai reduzir o estresse e melhorar sua capacidade de enfrentar os desafios diários.
- - Incorpore técnicas de _mindfulness_ e gratidão na sua rotina, promovendo um foco positivo  
+ - Incorpore técnicas de _mindfulness_ e gratidão na sua rotina, promovendo um foco positivo.
 
 
 ## Conclusão
