@@ -37,12 +37,14 @@ Aqui estão algumas maneiras de cultivar a felicidade e, consequentemente, melho
   melhora a saúde cardiovascular, reduzindo o risco de doenças cardíacas.
 - Relacionamentos saudáveis e apoio social são fundamentais para a felicidade. Investir tempo em conexões significativas 
   com amigos e familiares pode proporcionar uma sensação duradoura de bem-estar.
+- Um relacionamento amoroso, em qualquer fase da vida, pode ser uma fonte significativa de felicidade ao proporcionar apoio emocional, compreensão mútua e estimulação do crescimento pessoal. Além disso, o suporte emocional proporcionado por um relacionamento saudável contribui para a resiliência e a satisfação geral com a vida.
 - Ter um senso de propósito na vida está ligado à felicidade. Isso pode ser alcançado através do voluntariado, 
   estabelecimento de metas pessoais e busca por atividades que tragam significado.
 
 > ### <span class="ion-android-bulb"></span> Dicas
- - Transforme o preparo do seu chá, suplemento ou shake em um ritual pessoal.
- - Aproveite esses momentos como um ato de autocuidado, desde a meticulosidade na preparação até o prazer de consumi-los.
+ - Transforme o preparo do seu chá, suplemento ou shake em um ritual pessoal. Aproveite esses momentos como um ato de autocuidado, desde a meticulosidade na 
+   preparação até o prazer de consumí-los
+ - Faça atividade física regularmente
  - Priorize um sono adequado e reparador, o que vai reduzir o estresse e melhorar sua capacidade de enfrentar os desafios diários.
  - Incorpore técnicas de _mindfulness_ e gratidão na sua rotina, promovendo um foco positivo  
 
