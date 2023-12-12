@@ -47,8 +47,8 @@ A dose típica de suplementação com beta-alanina varia, mas geralmente é reco
 divididos em doses menores ao longo do dia para evitar o efeito colateral comum conhecido como "formigamento" (parestesia).
 
 ## Conclusão
-A beta-alanina é um suplemento popular entre atletas e indivíduos que buscam melhorar seu desempenho atlético. S
-eu papel na síntese de carnosina pode ajudar a retardar a fadiga muscular, aumentando a resistência durante exercícios 
+A beta-alanina é um suplemento popular entre atletas e indivíduos que buscam melhorar seu desempenho atlético. Seu papel na síntese 
+de carnosina pode ajudar a retardar a fadiga muscular, aumentando a resistência durante exercícios 
 de alta intensidade. No entanto, como acontece com qualquer suplemento, é importante consultar um profissional de saúde
 antes de iniciar a suplementação com beta-alanina, especialmente se você tiver alguma condição médica ou estiver tomando 
 medicamentos.
