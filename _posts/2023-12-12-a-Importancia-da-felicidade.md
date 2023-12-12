@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A Importância da Felicidade na Saúde e Bem-Estar"
-date:   2023-12-12 11:37:32 +0200
+date:   2023-12-12 08:27:32 +0200
 description: A sensação de alegria, satisfação e bem-estar é algo que todos almejam, e não é por acaso. Além de melhorar a qualidade de vida,
   a felicidade tem um impacto significativo na saúde física e mental das pessoas. Neste artigo, exploraremos como a felicidade
   está intrinsecamente ligada à saúde e ao bem-estar e por que investir em nossa própria felicidade é uma escolha inteligente. 
@@ -43,7 +43,10 @@ Aqui estão algumas maneiras de cultivar a felicidade e, consequentemente, melho
 > ### <span class="ion-android-bulb"></span> Dicas
  - Transforme o preparo do seu chá, suplemento ou shake em um ritual pessoal.
  - Aproveite esses momentos como um ato de autocuidado, desde a meticulosidade na preparação até o prazer de consumi-los.
-  
+ - Priorize um sono adequado e reparador, o que vai reduzir o estresse e melhorar sua capacidade de enfrentar os desafios diários.
+ - Incorpore técnicas de _mindfulness_ e gratidão na sua rotina, promovendo um foco positivo  
+
+
 ## Conclusão
 A felicidade não é apenas uma emoção fugaz, mas um estado de espírito que afeta diretamente nossa saúde e bem-estar. 
 Ao compreender a profunda conexão entre felicidade e saúde, podemos tomar medidas para melhorar nossa qualidade de vida e longevidade. 
