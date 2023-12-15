@@ -30,7 +30,7 @@ a produção de clorofila e outros compostos saudáveis, além de dar ao chá  s
 Após a colheita, as folhas são vaporizadas, secas e moídas em um pó fino, que é o Matcha propriamente dito. 
 O processo é delicado e requer mão de obra especializada para garantir a qualidade e a textura desejadas.
 
-## Benefícios do Cha Verde para Saúde
+## Benefícios do Chá Verde para a Saúde
 O Matcha é conhecido por seus inúmeros **benefícios à saúde**, que contribuem para a crescente popularidade do chá.
 A clorofila, presente no Matcha devido ao processo de cultivo especial, é reconhecida por suas propriedades benéficas. 
 Ela possui propriedades antioxidantes, auxilia na desintoxicação do corpo e pode ter efeitos anti-inflamatórios, promovendo 
@@ -57,7 +57,7 @@ bebida à base de Matcha com sabor natural de limão e pode ser preparado de for
 Basta adicionar duas colheres de medida (cerca de 10g) do produto em 250ml de água fria ou gelada e agitar em uma 
 coqueteleira ou mesmo mexer com colher, pois dissolve facilmente. 
 O Hive SlimTea combina os benefícios do chá verde mencionados acima com outros ingredientes naturais como Hibisco,
-(chá de hibisco é famoso por seus benefícios) Laranja Moro, Erva Mate, Gengibre, Canela, Hortelã e Cúrcuma.
+(chá de hibisco é famoso por seus benefícios), Laranja Moro, Erva Mate, Gengibre, Canela, Hortelã e Cúrcuma.
 
 ## Entenda a escolha dos ingredientes do LooseIt
 Sua fórmula foi cuidadosamente elaborada devido a estudos que demonstraram seus efeitos benéficos, que cito a seguir:
