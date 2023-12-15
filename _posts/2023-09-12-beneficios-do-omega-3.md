@@ -7,9 +7,6 @@ recommended: Omega3
 photo: /assets/img/omega-pills.webp
 photo_alt: Benefícios do Ômega 3
 image: /assets/img/omega-pills.webp
-categories: 
-  - saude 
-  - bem-estar
 ---
 
 O **ômega 3** é uma gordura benéfica que oferece propriedades anti-inflamatórias notáveis. Seu consumo pode ser vantajoso para
