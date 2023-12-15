@@ -23,7 +23,7 @@ mas também por seus benefícios à saúde e sabor únicos.
 
 
 ## Produção: Uma Arte Cuidadosa
-O Matcha é produzido a partir das folhas da planta Camellia sinensis, a mesma planta da qual o chá verde tradicional 
+O Matcha é produzido a partir das folhas da planta _Camellia sinensis_, a mesma planta da qual o chá verde tradicional 
 é feito. No entanto, o processo de cultivo e produção é diferente. Cerca de três semanas antes da colheita, 
 as plantas de chá são cobertas com telas, o que reduz a quantidade de luz solar que chega às folhas. Esse processo estimula 
 a produção de clorofila e outros compostos saudáveis, além de dar ao chá  sua cor verde vibrante.
