@@ -2,7 +2,7 @@
 layout: post
 title:  "App Nimbus: novo aliado para melhorar seu sono"
 date:   2023-12-19 08:37:32 +0200
-description:
+description: Descubra o App Nimbus para uma vida equilibrada. Oferece práticas de meditação, yoga e relaxamento para reduzir estresse, ansiedade e melhorar o sono. Transforme seu bem-estar hoje
 
 categories: general
 recommended: NimbusApp
