@@ -48,14 +48,9 @@ Além de ser consumido como chá, o Matcha é um ingrediente versátil na culin�
 3. **Sopas e Guisados**: Adicionar uma pitada deste pó de chá verde a sopas e guisados pode realçar o sabor e adicionar benefícios à saúde.
 4. **Sobremesas Japonesas**: É um ingrediente chave em muitas sobremesas tradicionais japonesas, como o mochi e o dorayaki.
 
-## Por que eu recomendo estes produtos?
-Os produtos que recomendo e que contêm Matcha são o **[LuciLuci Matcha Chá](https://loja.luciluci.com.br/produto/cha-matcha-limao?u=ligiavalle)** e 
-o **[Hive SlimTea](https://behive.global/produtos/looseit/slim-tea-150g?loja=/ligiavalle&)** (LooseIt), que eu pessoalmente 
-testei e avaliei sob uma visão **[farmacêutica](https://brilhointerior.com/about.html)**. O LuciLuci Matcha Chá é um pó para preparar uma 
-bebida à base de Matcha com sabor natural de limão e pode ser preparado de forma fácil e prática. 
-É livre de glúten, portanto adequado para indivíduos com doença celíaca. 
-Basta adicionar duas colheres de medida (cerca de 10g) do produto em 250ml de água fria ou gelada e agitar em uma 
-coqueteleira ou mesmo mexer com colher, pois dissolve facilmente. 
+## O que e por que eu recomendo ?
+O produto que recomendo com Matcha na composição, é o **[Hive SlimTea](https://behive.global/produtos/looseit/slim-tea-150g?loja=/ligiavalle&)** 
+(LooseIt), que eu pessoalmente testei e avaliei sob uma visão **[farmacêutica](https://brilhointerior.com/about.html)**.
 O Hive SlimTea combina os benefícios do chá verde mencionados acima com outros ingredientes naturais como Hibisco,
 (chá de hibisco é famoso por seus benefícios), Laranja Moro, Erva Mate, Gengibre, Canela, Hortelã e Cúrcuma.
 
