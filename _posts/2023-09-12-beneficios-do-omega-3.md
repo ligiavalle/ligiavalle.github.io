@@ -3,7 +3,7 @@ layout: post
 title:  "Benefícios do Ômega 3"
 date:   2023-09-12 10:14:32 -0300
 description: Descubra os benefícios do ômega-3, propriedades anti-inflamatórias, controle de colesterol e glicose, prevenção de doenças cardíacas e melhora da memória.
-recommended: Omega3
+recommended: None
 photo: /assets/img/omega-pills.webp
 photo_alt: Benefícios do Ômega 3
 image: /assets/img/omega-pills.webp
