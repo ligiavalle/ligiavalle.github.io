@@ -2,7 +2,7 @@
 layout: post
 title:  "Revisão Hive Looseit Refresh Slim Tea"
 date:   2024-01-02 08:37:32 +0200
-description: 
+description: Descubra o Hive Slim Tea, um blend natural de Matcha, Hibisco, Laranja Moro e mais, para um emagrecimento saudável e sustentável. Experimente a maneira saborosa de manter a saúde!
 categories:  reviews
 image: /assets/img/fb/hive-looseit-slim-tea.webp
 photo: /assets/img/fb/hive-looseit-slim-tea.webp
