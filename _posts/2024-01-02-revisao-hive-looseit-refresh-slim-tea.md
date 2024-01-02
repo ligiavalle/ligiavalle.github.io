@@ -4,8 +4,8 @@ title:  "Revisão Hive Looseit Refresh Slim Tea"
 date:   2024-01-02 08:37:32 +0200
 description: 
 categories:  reviews
-image: /assets/img/fb/hive-looseit-slim-tea.png
-photo: /assets/img/fb/hive-looseit-slim-tea.png
+image: /assets/img/fb/hive-looseit-slim-tea.webp
+photo: /assets/img/fb/hive-looseit-slim-tea.webp
 photo_alt: Hive Looseit Refresh Slim Tea
 recommended: Matcha
 ---
