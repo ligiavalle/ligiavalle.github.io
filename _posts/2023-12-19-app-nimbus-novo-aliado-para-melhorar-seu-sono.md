@@ -6,6 +6,9 @@ description: Descubra o App Nimbus para uma vida equilibrada. Oferece práticas 
 
 categories: general
 recommended: NimbusApp
+image: /assets/img/app-nimbus-info.webp
+photo: /assets/img/app-nimbus-info.webp
+photo_alt: Hive Aplicativo Nimbus
 ---
 
 No mundo agitado de hoje, onde as demandas da vida cotidiana podem se tornar avassaladoras, encontrar maneiras eficazes
