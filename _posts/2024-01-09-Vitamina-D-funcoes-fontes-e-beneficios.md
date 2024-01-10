@@ -5,8 +5,8 @@ date:   2024-01-09 08:37:32 +0200
 description: Saiba mais sobre a importância da Vitamina D para a Saúde Óssea, o Suporte Imunológico e o Bem-estar Mental. Conheça as fontes naturais de obtenção, a importância dos suplementos e os riscos da deficiência no nosso artigo detalhado.
 categories:  general
 #image: /assets/img/fb/hive-looseit-slim-tea.webp
-#photo: /assets/img/fb/hive-looseit-slim-tea.webp
-#photo_alt: Hive Looseit Refresh Slim Tea
+photo: /assets/img/vit-d-info.webp
+photo_alt: Vitamina D  Funções, Fontes e Benefícios
 recommended: None
 ---
 A vitamina D é um nutriente essencial para o corpo humano, desempenhando um papel fundamental em uma 
