@@ -30,6 +30,23 @@
         </div>
 
     </div>
+    {% elsif page.recommended == "Skin" %}
+    <div  id="skin" class="carousel slide" data-ride="carousel">
+        <!-- Wrapper for slides -->
+        <div class="carousel-inner" role="listbox">
+            <div class="item active">
+                {% include products/hive/skn_cleanser.html %}
+            </div>
+            <div class="item">
+                {% include products/hive/skn_antiaging_serum.html %}
+            </div>
+            <div class="item">
+                {% include products/hive/nimbus-milk.html %}
+            </div>
+
+        </div>
+
+    </div>
     {% elsif page.recommended == "Spark" %}
         {% include products/hive/hyper-spark.html %}
     {% elsif page.recommended == "Beta" %}
