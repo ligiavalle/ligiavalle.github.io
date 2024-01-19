@@ -3,7 +3,9 @@ layout: post
 title:  "Eletrólitos e Sais Minerais no Esporte e na Saúde"
 date:   2023-11-21 11:01:32 +0200
 description: A importância de eletrólitos e sais minerais para atletas e entusiastas do fitness, essenciais na manutenção da saúde durante atividades físicas intensas. 
-categories: general
+categories: genera
+photo: /assets/img/eletrolites-sais-minerais-info.webp
+photo_alt: Eletrólitos e Sais Minerais no Esporte e na Saúde - Enfermagem Ilustrada
 recommended: Fluid
 ---
 
@@ -50,4 +52,8 @@ Manter um equilíbrio adequado dessas substâncias é crucial para otimizar o de
 A hidratação adequada, uma dieta balanceada e a atenção aos sinais de desequilíbrios são medidas importantes para garantir que os eletrólitos e sais minerais 
 desempenhem seu papel vital no esporte e na saúde. Consultar um profissional de saúde ou nutricionista pode ajudar a desenvolver estratégias personalizadas 
 para atender às necessidades individuais de cada pessoa.
+
+### Referências
+
+- [Perda de eletrólitos durante uma competição de duatlo terrestre no calor](https://www.scielo.br/j/rbefe/a/pRfkPPWFwHynrTyFZZBhmPF/?lang=pt)
 
