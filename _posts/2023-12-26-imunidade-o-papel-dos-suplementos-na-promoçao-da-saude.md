@@ -35,8 +35,10 @@ ferramenta valiosa para fortalecer a imunidade.
 ## Suplementos e Imunidade
 Embora uma dieta balanceada seja a base para a saúde imunológica, a suplementação pode ser benéfica em certas situações, 
 como deficiências nutricionais, condições médicas específicas ou períodos de alta demanda, como o inverno.
+
 Multivitaminas: Oferecem uma combinação equilibrada de vitaminas e minerais, sendo uma opção conveniente para garantir 
 a ingestão adequada de nutrientes essenciais.
+
 Suplementos Específicos: Em casos de deficiências específicas, a suplementação direcionada pode ser recomendada. 
 Consultar um profissional de saúde é essencial para determinar as necessidades individuais.
 
