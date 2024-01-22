@@ -15,7 +15,7 @@ ser obtida tanto por meio da exposição à luz solar quanto através de certos 
 Neste artigo, exploraremos as várias facetas dessa vitamina essencial, incluindo suas funções no
 organismo, fontes alimentares, importância para a saúde e as consequências de sua deficiência.
 
-## Funções Biológicas da Vitamina D
+## Para que Serve a Vitamina D
 - **Saúde Óssea** A vitamina D desempenha um papel crucial na regulação do cálcio e do fósforo no corpo, 
    fundamentais para a formação e manutenção da saúde óssea. 
    Ela facilita a absorção desses minerais no intestino delgado, promovendo a mineralização adequada dos ossos.
