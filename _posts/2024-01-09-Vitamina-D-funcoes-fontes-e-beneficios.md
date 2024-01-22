@@ -45,7 +45,7 @@ organismo, fontes alimentares, importância para a saúde e as consequências de
 - **Suplementos** Em casos em que a exposição ao sol e a ingestão alimentar não são suficientes, os suplementos de 
   vitamina D podem ser recomendados, especialmente em populações com maior risco de deficiência.
 
-## Consequências da Deficiência de Vitamina D
+## Consequências da Falta de Vitamina D
 A deficiência de vitamina D pode levar a uma série de problemas de saúde, incluindo:
 - **Raquitismo em Crianças** A falta de vitamina D pode resultar em raquitismo, uma condição que afeta o desenvolvimento 
   ósseo em crianças, levando a deformidades e fraqueza óssea.
