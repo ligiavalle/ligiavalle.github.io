@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Serum facial benefícios e uso"
+title:  "Serum facial: benefícios e uso"
 date:   2024-01-23 08:37:32 +0200
 description: 
 categories:  general
