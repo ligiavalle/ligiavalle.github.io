@@ -38,6 +38,7 @@ plugins:
 #  - jekyll-lunr-js-search
 
 
+
 defaults:
   -
     scope:

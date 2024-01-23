@@ -4,7 +4,9 @@ title:  "A Importância do Colágeno"
 date:   2023-08-25 11:37:32 +0200
 description: Explore o papel do colágeno, uma proteína chave para a saúde da pele, ossos e tecidos conjuntivos, essencial para a elasticidade e resistência.
 
-categories: colágeno
+categories:  
+  - Saude
+  - colageno
 image: /assets/img/fb/colageno.jpg
 ---
 O colágeno é uma proteína fundamental encontrada no corpo humano e em muitos outros animais. 

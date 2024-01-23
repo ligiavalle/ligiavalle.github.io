@@ -7,6 +7,7 @@ categories: general
 recommended: none
 #photo: /assets/img/beleza.webp
 #photo_alt: A Interligação entre Saúde e Beleza
+#permalink: /:slugified_categories/:title:output_ext
 ---
 
 A busca por saúde e beleza tem sido uma constante na história da humanidade. Desde os tempos antigos, as sociedades têm valorizado a aparência física, 
