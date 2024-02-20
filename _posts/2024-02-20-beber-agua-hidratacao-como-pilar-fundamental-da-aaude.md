@@ -90,8 +90,8 @@ Aqui estão algumas ideias para fazer água saborizada:
  de laranja para um sabor agridoce.
 8. **Melancia e Manjericão** Cubra pedaços de melancia com folhas de manjericão fresco para uma água saborizada doce e herbácea.
 9. **Côco e Abacaxi Piña Colada** Misture pedaços de abacaxi com água de coco para criar uma versão sem álcool da famosa piña colada.
-
-Manga e Pimenta para uma Explosão Tropical: Combine pedaços de manga madura com uma pitada leve de pimenta para uma água saborizada que equilibra o doce e o picante.
+10. **Manga e Pimenta para uma Explosão Tropical** Combine pedaços de manga madura com uma pitada leve de pimenta para uma água saborizada que equilibra o doce e o picante.
+    
 Experimente diferentes combinações para encontrar sua mistura preferida e desfrute de uma alternativa saudável e saborosa à água comum. Lembre-se de ajustar as quantidades de ingredientes conforme seu gosto pessoal!
 Conclusão:
 Em resumo, a água é um elemento vital para a manutenção da saúde humana. A hidratação adequada é essencial para garantir o funcionamento eficiente de processos biológicos fundamentais. Incorporar hábitos saudáveis de consumo de água ao longo do dia não apenas beneficia o corpo fisicamente, mas também contribui para o bem-estar emocional e mental. Em um mundo onde muitas vezes nos esquecemos do básico, lembrar-se de beber água regularmente é um passo simples, mas poderoso, em direção à promoção da saúde a longo prazo.
