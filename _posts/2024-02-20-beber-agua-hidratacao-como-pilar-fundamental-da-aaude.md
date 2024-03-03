@@ -17,7 +17,7 @@ destacaremos os benefícios associados à hidratação adequada.
 ## 1. Regulação da Temperatura Corporal:
    A regulação da temperatura é essencial para o funcionamento adequado do organismo. A água desempenha um papel central no 
    processo de termorregulação, permitindo que o corpo dissipe o calor através da transpiração. Quando suamos, perdemos água 
-   e eletrólitos, e a reposição adequada é vital para evitar a desidratação e manter o equilíbrio térmico.
+   e **[eletrólitos](https://brilhointerior.com/general/2023/11/21/eletr%C3%B3litos-e-sais-minerais-no-esporte-e-na-sa%C3%BAde.html)**, e a reposição adequada é vital para evitar a desidratação e manter o equilíbrio térmico.
 ## 2. Funções Metabólicas e Energéticas:
    A água está envolvida em diversas reações metabólicas, incluindo a quebra de nutrientes para a produção de energia. 
    A hidratação adequada otimiza esses processos, garantindo a eficiência na transformação de alimentos em energia utilizável 
