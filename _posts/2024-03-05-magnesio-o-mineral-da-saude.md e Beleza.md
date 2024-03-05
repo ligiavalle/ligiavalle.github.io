@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Magnésio: O Mineral da Saúde e Beleza"
-date:   2024-03-06 11:37:32 +0200
+date:   2024-03-05 11:37:32 +0200
 description: Embora muitas vezes o Magnésio seja subestimado, sua importância para a saúde e beleza é inegável. Neste artigo, exploraremos os benefícios do magnésio, suas fontes alimentares, e como sua inclusão na rotina diária pode contribuir para uma vida mais saudável e para realçar a beleza natural.
 categories: general 
 recommended: None
