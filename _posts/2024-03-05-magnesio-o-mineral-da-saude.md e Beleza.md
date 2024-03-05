@@ -6,7 +6,7 @@ description: Embora muitas vezes o Magnésio seja subestimado, sua importância 
 categories: general 
 recommended: None
 ---
-## Introdução
+
 Embora muitas vezes o Magnésio seja subestimado, sua importância para a saúde e beleza é inegável. Neste artigo, exploraremos os 
 benefícios do magnésio, suas fontes alimentares, e como sua inclusão na rotina diária pode contribuir 
 para uma vida mais saudável e para realçar a beleza natural.
