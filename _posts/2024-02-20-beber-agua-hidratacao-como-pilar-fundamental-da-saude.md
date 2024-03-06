@@ -98,3 +98,4 @@ Experimente diferentes combinações para encontrar sua mistura preferida e desf
 Em resumo, a água é um elemento vital para a manutenção da saúde humana. A hidratação adequada é essencial para garantir o funcionamento eficiente de processos biológicos fundamentais. Incorporar hábitos saudáveis de consumo de água ao longo do dia não apenas beneficia o corpo fisicamente, mas também contribui para o bem-estar emocional e mental. Em um mundo onde muitas vezes nos esquecemos do básico, lembrar-se de beber água regularmente é um passo simples, mas poderoso, em direção à promoção da saúde a longo prazo.
 
 
+ - [Eletrólitos e Sais Minerais no Esporte e na Saúde](https://brilhointerior.com/general/2023/11/21/eletr%C3%B3litos-e-sais-minerais-no-esporte-e-na-sa%C3%BAde.html)
