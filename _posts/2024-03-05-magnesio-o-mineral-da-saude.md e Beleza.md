@@ -2,20 +2,25 @@
 layout: post
 title:  "Magnésio: O Mineral da Saúde e Beleza"
 date:   2024-03-05 11:37:32 +0200
-description: Embora muitas vezes o Magnésio seja subestimado, sua importância para a saúde e beleza é inegável. Neste artigo, exploraremos os benefícios do magnésio, suas fontes alimentares, e como sua inclusão na rotina diária pode contribuir para uma vida mais saudável e para realçar a beleza natural.
+description: Você sabia que a deficiência de magnésio está associada a uma série de sintomas, incluindo fadiga, fraqueza muscular, 
+cãibras, irritabilidade e até mesmo arritmias cardíacas? Embora muitas vezes o Magnésio seja subestimado, sua importância para a 
+saúde e beleza é inegável. Neste artigo, exploraremos os benefícios do magnésio, suas fontes alimentares, e como sua inclusão na 
+rotina diária pode contribuir para uma vida mais saudável e para realçar a beleza natural.
 categories: general 
 recommended: None
 ---
 
-Embora muitas vezes o Magnésio seja subestimado, sua importância para a saúde e beleza é inegável. Neste artigo, exploraremos os 
-benefícios do magnésio, suas fontes alimentares, e como sua inclusão na rotina diária pode contribuir 
+Você sabia que a deficiência de magnésio está associada a uma série de sintomas, incluindo fadiga, fraqueza muscular, cãibras, 
+irritabilidade e até mesmo arritmias cardíacas? Embora muitas vezes o Magnésio seja subestimado, sua importância para a saúde 
+e beleza é inegável. Neste artigo, exploraremos os benefícios do magnésio, suas fontes alimentares, e como sua inclusão na 
+rotina diária pode contribuir 
 para uma vida mais saudável e para realçar a beleza natural.
 
 ## O que é o Magnésio e por que é importante?
 O magnésio é um mineral essencial presente em quantidades significativas no corpo humano, desempenhando um papel 
 relevante em mais de 300 processos bioquímicos. Ele está envolvido na produção de energia, na síntese de 
 proteínas, na regulação do sistema nervoso, na função muscular e na manutenção óssea.
-O solo brasileiro não é abundante em Magnésio, como resultado as plantas nos oferecem pouco deste mineral. 
+O solo brasileiro não é abundante em Magnésio[1], como resultado as plantas nos oferecem pouco deste mineral. 
 É interessante notar que num exame de sangue convencional dificilmente se notará baixos níveis de Magnésio, 
 uma vez que o organismo, na falta do mineral, pode mobilizar Magnésio dos ossos para manter os níveis sanguíneos. 
 Esse mecanismo não é sustentável a longo prazo, podendo levar a sérios problemas ósseos. 
@@ -81,4 +86,6 @@ Integrar alimentos ricos em magnésio na dieta diária e, se necessário, consid
 com a orientação de um profissional de saúde, pode trazer benefícios significativos. 
 Ao reconhecer a importância do magnésio, podemos potencializar nosso bem-estar e realçar 
 nossa beleza natural de dentro para fora.
+
+[1] 
 
