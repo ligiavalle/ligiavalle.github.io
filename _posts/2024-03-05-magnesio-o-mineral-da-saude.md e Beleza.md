@@ -112,6 +112,5 @@ nossa beleza natural de dentro para fora.
 
 [1] [Magnésio - Manejo para o equilíbrio nutricional da soja](https://ainfo.cnptia.embrapa.br/digital/bitstream/item/224430/1/DOCUMENTO-430-online.pdf)
 
-[2] [Regulamento técnico sobre a ingestão diária recomendada de proteína, vitaminas e minerais]
-(https://bvsms.saude.gov.br/bvs/saudelegis/anvisa/2005/rdc0269_22_09_2005.html)
+[2] [Regulamento técnico sobre a ingestão diária recomendada de proteínas, vitaminas e minerais](https://bvsms.saude.gov.br/bvs/saudelegis/anvisa/2005/rdc0269_22_09_2005.html)
 
