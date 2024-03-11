@@ -7,6 +7,8 @@ description: |
  cãibras, irritabilidade e até mesmo arritmias cardíacas? Embora muitas vezes o Magnésio seja subestimado, sua importância para a 
  saúde e beleza é inegável. Neste artigo, exploraremos os benefícios do magnésio, suas fontes alimentares, e como sua inclusão na 
  rotina diária pode contribuir para uma vida mais saudável e para realçar a beleza natural.
+photo: /assets/img/magnesio-info.webp
+photo_alt: Magnésio, o Mineral da Saúde e Beleza,  Funções, Fontes e Benefícios
 categories: general 
 recommended: None
 ---
