@@ -62,6 +62,19 @@ Algumas fontes alimentares incluem:
 5. **Chocolate Amargo** consumido de forma moderada, o chocolate amargo pode contribuir para a ingestão
 de magnésio.
 
+**Veja aqui, alguns exemplos de alimentos ricos em magnésio**
+•	28 g de amêndoas = 80 mg de magnésio
+•	Meio copo de espinafre cozido = 78 mg de magnésio
+•	28 g de castanha-de-caju = 74 mg de magnésio
+•	Meio copo de feijão cozido = 60 mg de magnésio
+•	2 fatias de pão integral = 46 mg de magnésio
+•	Meio copo de arroz integral = 42 mg de magnésio
+•	1 banana de tamanho médio = 32 mg de magnésio
+•	100 g de peito de frango = 22 mg de magnésio
+•	Meio copo de brócolis cozidos = 12 mg de magnésio
+•	1 maçã de tamanho médio = 9 mg de magnésio
+
+
 ## Suplementação de Magnésio
 Para aqueles que têm dificuldade em obter magnésio suficiente através da dieta, principalmente no Brasil, 
 considerando-se o solo pobre neste mineral. a suplementação pode ser considerada. No entanto, é importante 
@@ -78,6 +91,11 @@ A seguir algumas opções para suplementar Magnésio:
 - **Treonato de Mg**: atua no cérebro, melhorando o raciocínio, memória e sono.
 - **Taurato d Mg**: também boa opção para o cérebro, gerando energia e também relaxamento.
 
+- **IDR (Ingestão Diária Recomendada)**
+Para adultos, a IDR  de Magnésio é de 265mg/dia para mulheres e 350mg/dia para homens. [2}
+Garanta uma saúde ótima e um brilho interior, incluindo o magnésio em sua rotina diária!
+
+
 > ### <span class="ion-android-bulb"></span> Dicas
 - Usar blends, assim pode-se obter diversos benefícios
 - Evitar usar Magnésio com café, pois este impede a absorção
@@ -93,4 +111,5 @@ nossa beleza natural de dentro para fora.
 
 
 [1] [Magnésio - Manejo para o equilíbrio nutricional da soja](https://ainfo.cnptia.embrapa.br/digital/bitstream/item/224430/1/DOCUMENTO-430-online.pdf)
+[2] [REGULAMENTO TÉCNICO SOBRE A INGESTÃO DIÁRIA RECOMENDADA (IDR) DE PROTEÍNA, VITAMINAS E MINERAIS](https://bvsms.saude.gov.br/bvs/saudelegis/anvisa/2005/rdc0269_22_09_2005.html)
 
