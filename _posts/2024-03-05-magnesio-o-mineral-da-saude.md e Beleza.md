@@ -91,8 +91,8 @@ A seguir algumas opções para suplementar Magnésio:
 - **Treonato de Mg**: atua no cérebro, melhorando o raciocínio, memória e sono.
 - **Taurato d Mg**: também boa opção para o cérebro, gerando energia e também relaxamento.
 
-- **IDR (Ingestão Diária Recomendada)**
-Para adultos, a IDR  de Magnésio é de 265mg/dia para mulheres e 350mg/dia para homens. [2}
+  ## IDR (Ingestão Diária Recomendada)
+Para adultos, a IDR  de Magnésio é de 265mg/dia para mulheres e 350mg/dia para homens. [2]
 Garanta uma saúde ótima e um brilho interior, incluindo o magnésio em sua rotina diária!
 
 
@@ -111,5 +111,5 @@ nossa beleza natural de dentro para fora.
 
 
 [1] [Magnésio - Manejo para o equilíbrio nutricional da soja](https://ainfo.cnptia.embrapa.br/digital/bitstream/item/224430/1/DOCUMENTO-430-online.pdf)
-[2] [REGULAMENTO TÉCNICO SOBRE A INGESTÃO DIÁRIA RECOMENDADA (IDR) DE PROTEÍNA, VITAMINAS E MINERAIS](https://bvsms.saude.gov.br/bvs/saudelegis/anvisa/2005/rdc0269_22_09_2005.html)
+[2] [REGULAMENTO TÉCNICO SOBRE A INGESTÃO DIÁRIA RECOMENDADA DE PROTEÍNA, VITAMINAS E MINERAIS (https://bvsms.saude.gov.br/bvs/saudelegis/anvisa/2005/rdc0269_22_09_2005.html)
 
