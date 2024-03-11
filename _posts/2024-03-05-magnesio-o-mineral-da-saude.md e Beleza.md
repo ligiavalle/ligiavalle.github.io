@@ -3,10 +3,10 @@ layout: post
 title:  "Magnésio: O Mineral da Saúde e Beleza"
 date:   2024-03-05 11:37:32 +0200
 description: |
-Você sabia que a deficiência de magnésio está associada a uma série de sintomas, incluindo fadiga, fraqueza muscular, 
-cãibras, irritabilidade e até mesmo arritmias cardíacas? Embora muitas vezes o Magnésio seja subestimado, sua importância para a 
-saúde e beleza é inegável. Neste artigo, exploraremos os benefícios do magnésio, suas fontes alimentares, e como sua inclusão na 
-rotina diária pode contribuir para uma vida mais saudável e para realçar a beleza natural.
+ Você sabia que a deficiência de magnésio está associada a uma série de sintomas, incluindo fadiga, fraqueza muscular, 
+ cãibras, irritabilidade e até mesmo arritmias cardíacas? Embora muitas vezes o Magnésio seja subestimado, sua importância para a 
+ saúde e beleza é inegável. Neste artigo, exploraremos os benefícios do magnésio, suas fontes alimentares, e como sua inclusão na 
+ rotina diária pode contribuir para uma vida mais saudável e para realçar a beleza natural.
 categories: general 
 recommended: None
 ---
