@@ -88,5 +88,5 @@ com a orientação de um profissional de saúde, pode trazer benefícios signifi
 Ao reconhecer a importância do magnésio, podemos potencializar nosso bem-estar e realçar 
 nossa beleza natural de dentro para fora.
 
-[1] 
+[1] [Magnésio - Manejo para o equilíbrio nutricional da soja](https://ainfo.cnptia.embrapa.br/digital/bitstream/item/224430/1/DOCUMENTO-430-online.pdf)
 
