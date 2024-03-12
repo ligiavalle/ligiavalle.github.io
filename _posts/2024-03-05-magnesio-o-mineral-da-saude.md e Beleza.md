@@ -10,7 +10,7 @@ description: |
 photo: /assets/img/magnesio-info.webp
 photo_alt: Magnésio, o Mineral da Saúde e Beleza,  Funções, Fontes e Benefícios
 categories: general 
-recommended: None
+recommended: Magnesio
 ---
 
 Você sabia que a deficiência de magnésio está associada a uma série de sintomas, incluindo fadiga, fraqueza muscular, cãibras, 
