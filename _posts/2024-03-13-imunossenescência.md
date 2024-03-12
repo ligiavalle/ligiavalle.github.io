@@ -45,4 +45,7 @@ a citotoxicidade das células NK (células assassinas naturais) e a produção d
 
 Essas descobertas ressaltam a importância de escolhas de estilo de vida saudáveis na promoção da saúde imunológica em idades avançadas. 
 A atividade física regular, uma dieta balanceada e a suplementação podem representar ferramentas eficazes para mitigar os efeitos 
-do envelhecimento no sistema imunológico. 
+do envelhecimento no sistema imunológico.
+
+
+[1] [Imunossenescência](https://ggaging.com/details/240/pt-BR/immunosenescence)
