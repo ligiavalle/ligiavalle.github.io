@@ -6,7 +6,7 @@ description: |
  O sistema imunológico também envelhece à medida que uma pessoa envelhece. Este processo é conhecido como imunossenescência
  e refere-se às mudanças no sistema imunológico que ocorrem com o envelhecimento, resultando em uma resposta imunológica menos eficaz.
 categories: general
-recommended: None
+recommended: Antiox
 
 ---
 
