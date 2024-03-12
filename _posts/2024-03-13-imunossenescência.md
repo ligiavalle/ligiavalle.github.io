@@ -40,7 +40,7 @@ inflamatórias. Além disso, a prática regular de atividade física demonstrou 
 de gordura na medula óssea e aprimorar a resposta às vacinas em indivíduos idosos.
 Outro fator determinante na busca por retardar o envelhecimento do sistema imunológico é a dieta. Estudos realizados em animais 
 indicam que a restrição calórica pode impedir a involução do timo, uma glândula crucial na maturação de células T. Além disso, a 
-suplementação alimentar com certos nutrientes e compostos, como o zinco e o **resveratrol**, tem demonstrado a capacidade de aumentar 
+suplementação alimentar com certos nutrientes e compostos, como o zinco e o [**resveratrol**](https://brilhointerior.com/general/2023/10/17/o-poder-do-resveratrol.html), tem demonstrado a capacidade de aumentar 
 a citotoxicidade das células NK (células assassinas naturais) e a produção de anticorpos após a imunização.
 
 Essas descobertas ressaltam a importância de escolhas de estilo de vida saudáveis na promoção da saúde imunológica em idades avançadas. 
