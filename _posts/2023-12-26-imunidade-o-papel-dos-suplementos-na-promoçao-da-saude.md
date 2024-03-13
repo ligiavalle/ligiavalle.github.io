@@ -43,7 +43,7 @@ Suplementos Específicos: Em casos de deficiências específicas, a suplementaç
 Consultar um profissional de saúde é essencial para determinar as necessidades individuais.
 
 É importante lembrar que o sistema imunológico envelhece à medida que uma pessoa envelhece. Este processo é conhecido 
-como imunossenescência, que se refere às mudanças no sistema imunológico que ocorrem com o envelhecimento, resultando em 
+como [**imunossenescência**](https://brilhointerior.com/general/2024/03/12/imunossenesc%C3%AAncia.html), que se refere às mudanças no sistema imunológico que ocorrem com o envelhecimento, resultando em 
 uma resposta imunológica menos eficaz.
 
 ## Conclusão
