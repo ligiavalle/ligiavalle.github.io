@@ -5,8 +5,8 @@ date:   2024-02-19 08:37:32 +0200
 description: 
 categories:  general
 #image: /assets/img/fb/hive-looseit-slim-tea.webp
-#photo: /assets/img/cuidados-pele-info.webp
-#photo_alt: Cuidados Essenciais com a Pele
+photo: /assets/img/agua-info.webp
+photo_alt: Benefícios de beber Água 
 recommended: Agua
 ---
 A água é um componente essencial para a vida, desempenhando um papel fundamental em inúmeras funções do corpo humano. 
