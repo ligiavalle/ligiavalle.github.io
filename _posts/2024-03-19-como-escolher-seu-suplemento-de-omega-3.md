@@ -110,6 +110,16 @@ Além disso, pesquisas em andamento sugerem que os ácidos graxos ômega-3 ofere
 saúde cerebral, saúde cardiovascular e massa muscular. Essas descobertas destacam o tremendo potencial da suplementação 
 de ômega-3 na melhoria da saúde geral e do bem-estar.
 
+## E como fica a Suplementação para Veganos?
+Em um estudo de março de 2017 [1], foi investigado o status dos ácidos graxos ômega-3 em veganos, com foco especial nos importantes 
+DHA e EPA. Embora os veganos obtenham a maioria de seus ômega-3 a partir de fontes vegetais como soja, linhaça e nozes, a conversão 
+desses ácidos graxos em DHA e EPA é limitada. Isso resulta em níveis mais baixos de DHA e EPA no plasma sanguíneo dos veganos em 
+comparação com aqueles que consomem peixe.
+A suplementação com ALA, embora aumente levemente o EPA, tem pouco impacto no DHA. Em resumo, os veganos geralmente apresentam 
+níveis mais baixos de ômega-3, especialmente DHA e EPA, em comparação com os consumidores de peixe. No entanto, a boa notícia 
+é que a suplementação com DHA + EPA vegano pode ser uma maneira eficaz de melhorar o status de ômega-3 nessa população. 
+Essas descobertas destacam a importância de considerar suplementos para garantir uma saúde ótima em dietas veganas.
+
 ## Incorporando Ácidos Graxos Ômega-3 em Sua Dieta
 Se você deseja aumentar sua ingestão de ômega-3, consumir peixes gordurosos como salmão, cavala e sardinha é uma excelente
 opção dietética. Esses peixes não são apenas ricos em ácidos graxos ômega-3, mas também têm baixo teor de contaminantes 
@@ -122,3 +132,6 @@ Eles oferecem inúmeros benefícios para a saúde cardiovascular, cerebral, redu
 Ao incorporar alimentos ricos em ômega-3 ou suplementos em sua rotina diária, você pode melhorar sua saúde a longo prazo 
 e potencialmente aumentar sua expectativa de vida.
 
+
+
+[1] Sarter, B et al.<https://www.clinicalnutritionjournal.com/article/S0261-5614(14)00076-4/fulltext>
