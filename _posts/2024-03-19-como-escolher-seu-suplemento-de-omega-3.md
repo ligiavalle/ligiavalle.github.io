@@ -102,7 +102,7 @@ retardar o processo de envelhecimento e prevenir doenças relacionadas à idade,
 demência e câncer.
 
 ## Novas Pesquisas sobre Ácidos Graxos Ômega-3
-Novas pesquisas empolgantes estão surgindo no campo dos ácidos graxos ômega-3. Estudos conduzidos por Chris McGlory indicaram
+Novas pesquisas empolgantes estão surgindo no campo dos ácidos graxos ômega-3. Estudos conduzidos por Chris McGlory [2] indicaram
 que o ômega-3 desempenha um papel na prevenção da perda muscular e na sensibilização dos aminoácidos no músculo esquelético. 
 Isso significa que a suplementação de ômega-3 pode ajudar a combater a atrofia muscular e melhorar a síntese de proteínas 
 musculares, especialmente em indivíduos que sofrem de atrofia por desuso.
@@ -134,4 +134,6 @@ e potencialmente aumentar sua expectativa de vida.
 
 
 
-[1] Sarter, B et al.<https://www.clinicalnutritionjournal.com/article/S0261-5614(14)00076-4/fulltext>
+[1] SARTER,B et al.<https://www.clinicalnutritionjournal.com/article/S0261-5614(14)00076-4/fulltext>
+
+[2] MCGLORY,C; CALDER,P; NUNES,E. <https://pubmed.ncbi.nlm.nih.gov/31555658/>
