@@ -84,7 +84,7 @@ Medir os níveis de ácidos graxos ômega-3 no corpo é a melhor forma para aval
 mede os níveis de EPA, DHA e outros ácidos graxos nas membranas de células vermelhas do sangue. Ao contrário das medições 
 de fosfolipídios plasmáticos, que refletem a ingestão dietética recente, o Índice de Ômega-3 fornece um status de longo 
 prazo dos níveis de ômega-3, semelhante ao teste de HbA1c para níveis de glicose no sangue.
-Estudos conduzidos por Bill Harris, um renomado especialista em pesquisa de ômega-3, mostraram que a maioria das pessoas 
+Estudos conduzidos por Bill Harris [1], um renomado especialista em pesquisa de ômega-3, mostraram que a maioria das pessoas 
 nos Estados Unidos tem um Índice de Ômega-3 inferior a 5%. No entanto, indivíduos com um Índice de Ômega-3 de 8% foram 
 encontrados para ter um aumento de cinco anos na expectativa de vida em comparação com aqueles com um Índice de 4%. 
 Além disso, um Índice de Ômega-3 mais alto também foi associado a um risco reduzido de mortalidade relacionada a doenças 
@@ -111,7 +111,7 @@ saúde cerebral, saúde cardiovascular e massa muscular. Essas descobertas desta
 de ômega-3 na melhoria da saúde geral e do bem-estar.
 
 ## E como fica a Suplementação para Veganos?
-Em um estudo de março de 2017 [1], foi investigado o status dos ácidos graxos ômega-3 em veganos, com foco especial nos importantes 
+Em um estudo de março de 2017 [3], foi investigado o status dos ácidos graxos ômega-3 em veganos, com foco especial nos importantes 
 DHA e EPA. Embora os veganos obtenham a maioria de seus ômega-3 a partir de fontes vegetais como soja, linhaça e nozes, a conversão 
 desses ácidos graxos em DHA e EPA é limitada. Isso resulta em níveis mais baixos de DHA e EPA no plasma sanguíneo dos veganos em 
 comparação com aqueles que consomem peixe.
@@ -134,8 +134,10 @@ e potencialmente aumentar sua expectativa de vida.
 
 
 
-[1] [Barbara Sarter,Kristine S. Kelsey, Todd A. Schwartz, William S. Harris - Blood docosahexaenoic acid and eicosapentaenoic acid in vegans](https://www.clinicalnutritionjournal.com/article/S0261-5614(14)00076-4/fulltext)
+[1] [William S Harris, Clemens von Schacky - The Omega-3 Index: a new risk factor for death from coronary heart disease?](https://www.sciencedirect.com/science/article/abs/pii/S0091743504000878?via%3Dihub)
+
 
 [2] [McGlory C, Calder PC, Nunes EA. - The Influence of Omega-3 Fatty Acids on Skeletal Muscle Protein Turnover in Health, Disuse, and Disease](https://pubmed.ncbi.nlm.nih.gov/31555658/)
 
-[3] [William S Harris, Clemens von Schacky - The Omega-3 Index: a new risk factor for death from coronary heart disease?]()
+
+[3] [Barbara Sarter,Kristine S. Kelsey, Todd A. Schwartz, William S. Harris - Blood docosahexaenoic acid and eicosapentaenoic acid in vegans](https://www.clinicalnutritionjournal.com/article/S0261-5614(14)00076-4/fulltext)
