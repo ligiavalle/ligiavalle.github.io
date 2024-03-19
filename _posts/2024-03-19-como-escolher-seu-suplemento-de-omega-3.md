@@ -9,8 +9,11 @@ recommended: None
 ---
 
 Nos últimos tempos, os suplementos de ômega-3 têm sido tema de debate, especialmente em relação à sua potencial contaminação 
-com substâncias como PCBs e preocupações com toxicidade ambiental. Neste artigo, vamos explorar os principais fatores a 
-serem considerados ao escolher um suplemento de ômega-3 de qualidade.
+com substâncias como PCBs e preocupações com toxicidade ambiental.
+Os PCBs são considerados poluentes orgânicos persistentes devido à sua resistência à decomposição. O perigo dos PCBs no 
+ômega-3 vem do fato de que peixes que vivem em águas contaminadas podem acumular essas substâncias em seus corpos. 
+Se consumirmos peixes contaminados por PCBs, podemos ingerir essas substâncias tóxicas juntamente com o ômega-3.
+Neste artigo, vamos explorar os principais fatores a serem considerados ao escolher um suplemento de ômega-3 de qualidade.
 
 ## Escolhendo a Forma Certa de Ômega-3
 Ao selecionar um suplemento de ômega-3, é importante considerar a forma em que está disponível. Existem duas formas 
