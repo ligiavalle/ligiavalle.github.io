@@ -25,7 +25,7 @@ Uma vez que o óleo de peixe é um ácido graxo poli-insaturado, está mais prop
 de isolamento, como conduzir o processo de produção sob nitrogênio líquido, que podem minimizar essa oxidação. 
 Também é crucial procurar sites de testes de terceiros que avaliem o status de oxidação dos suplementos de ômega-3, bem
 como seus níveis de PCBs, mercúrio e outros contaminantes. Um recurso confiável para essas informações é o site dos 
-Padrões Internacionais de Óleo de Peixe (IFOS).
+Padrões Internacionais de Óleo de Peixe [IFOS](https://certifications.nutrasource.ca/about/how-certifications-work/ifos).
 
 ## Não Deixe as Toxinas Ofuscarem os Benefícios
 Embora seja importante estar ciente de toxinas potenciais como PCBs e mercúrio, também é crucial não permitir que essas 
