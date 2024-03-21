@@ -51,3 +51,5 @@ estratégia eficaz para promover o bem-estar geral e prevenir diversas condiçõ
 é importante considerar a qualidade dos suplementos e buscar a orientação de profissionais de 
 saúde antes de iniciar qualquer regime de suplementação, para assegurar que se adeque às suas 
 necessidades individuais de saúde.
+
+Leia mais sobre Ômega 3 clicando [**aqui**](https://brilhointerior.com/general/2024/03/19/como-escolher-seu-suplemento-de-omega-3.html)
