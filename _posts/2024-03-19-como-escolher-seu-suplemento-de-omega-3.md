@@ -139,5 +139,4 @@ e potencialmente aumentar sua expectativa de vida.
 
 [2] [McGlory C, Calder PC, Nunes EA. - The Influence of Omega-3 Fatty Acids on Skeletal Muscle Protein Turnover in Health, Disuse, and Disease](https://pubmed.ncbi.nlm.nih.gov/31555658/)
 
-
-[3] [Barbara Sarter,Kristine S. Kelsey, Todd A. Schwartz, William S. Harris - Blood docosahexaenoic acid and eicosapentaenoic acid in vegans](https://www.clinicalnutritionjournal.com/article/S0261-5614(14)00076-4/fulltext)
+[3] [William S Harris, Clemens von Schacky - The Omega-3 Index: a new risk factor for death from coronary heart disease?]()

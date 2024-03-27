@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Como Emagrecer com Saúde"
-date:   2024-03-28 18:02:32 +0200
+date:   2024-03-26 18:02:32 +0200
 description: |
   A busca por um corpo saudável e esteticamente agradável é uma preocupação crescente na sociedade contemporânea. 
   O emagrecimento saudável não se trata apenas de atingir um peso desejado, mas também de adotar hábitos de vida que 
