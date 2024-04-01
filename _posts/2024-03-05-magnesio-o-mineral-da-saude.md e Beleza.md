@@ -63,16 +63,16 @@ Algumas fontes alimentares incluem:
 de magnésio.
 
 **Veja aqui, alguns exemplos de alimentos ricos em magnésio**
-•	28 g de amêndoas = 80 mg de magnésio
-•	Meio copo de espinafre cozido = 78 mg de magnésio
-•	28 g de castanha-de-caju = 74 mg de magnésio
-•	Meio copo de feijão cozido = 60 mg de magnésio
-•	2 fatias de pão integral = 46 mg de magnésio
-•	Meio copo de arroz integral = 42 mg de magnésio
-•	1 banana de tamanho médio = 32 mg de magnésio
-•	100 g de peito de frango = 22 mg de magnésio
-•	Meio copo de brócolis cozidos = 12 mg de magnésio
-•	1 maçã de tamanho médio = 9 mg de magnésio
+-	28 g de amêndoas = 80 mg de magnésio
+-	Meio copo de espinafre cozido = 78 mg de magnésio
+-	28 g de castanha-de-caju = 74 mg de magnésio
+-	Meio copo de feijão cozido = 60 mg de magnésio
+-	2 fatias de pão integral = 46 mg de magnésio
+-	Meio copo de arroz integral = 42 mg de magnésio
+-	1 banana de tamanho médio = 32 mg de magnésio
+-	100 g de peito de frango = 22 mg de magnésio
+-	Meio copo de brócolis cozidos = 12 mg de magnésio
+-	1 maçã de tamanho médio = 9 mg de magnésio
 
 
 ## Suplementação de Magnésio
