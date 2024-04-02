@@ -87,9 +87,11 @@ A seguir algumas opções para suplementar Magnésio:
 - **Cloreto de Mg**: mais barato, porém pode causar problemas gastrointestinais, como diarreias.
 - **Citrato de Mg**: uma boa opção, principalmente para evitar formação de pedras nos rins.
 - **Dimalato de Mg**: ajuda a gerar energia, favorece relaxamento muscular ( indicado para fibromialgia).
-- **Bisglicinato de Mg**: maior absorção, reduz pressão arterial, indicado para tratamento de osteoporose, quando associado a Vitamina D e Vitamina K2.
+- **Bisglicinato de Mg**: maior absorção, reduz pressão arterial, indicado para tratamento de osteoporose, quando 
+associado a Vitamina D e Vitamina K2.
 - **Treonato de Mg**: atua no cérebro, melhorando o raciocínio, memória e sono.
 - **Taurato d Mg**: também boa opção para o cérebro, gerando energia e também relaxamento.
+
 
   ## IDR (Ingestão Diária Recomendada)
 Para adultos, a IDR  de Magnésio é de 265mg/dia para mulheres e 350mg/dia para homens. [2]
