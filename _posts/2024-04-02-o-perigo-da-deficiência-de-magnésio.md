@@ -1,12 +1,11 @@
 ---
 layout: post
 title:  "O Perigo da Deficiência de Magnésio"
-date:   2024-04-05 18:02:32 +0200
+date:   2024-04-02 12:02:32 +0200
 description: |
-  O magnésio é um mineral essencial para o nosso corpo, mas muitas pessoas não consomem a quantidade necessária para uma saúde ideal. 
-  Este mineral desempenha um papel crucial no funcionamento de mais de 300 processos bioquímicos em nosso corpo. 
+  Explore a importância do magnésio para a saúde e aprenda como suplementar corretamente para manter uma boa saúde.
 categories: general
-recommended: None
+recommended: Magnesio
 ---
 
 O magnésio é um mineral essencial para o nosso corpo, mas muitas pessoas não consomem a quantidade necessária para uma saúde ideal. 
