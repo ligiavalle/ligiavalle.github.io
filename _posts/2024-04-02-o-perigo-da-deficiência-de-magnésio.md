@@ -159,3 +159,11 @@ opções para lanches rápidos e saudáveis.
 
 Seguir essas estratégias simples pode fazer uma grande diferença na sua ingestão de magnésio, contribuindo para melhorar sua saúde e 
 bem-estar geral.
+
+Leia aqui alguns estudos clínicos interessantes sobre o assunto. Veja também o outro artigo de Brilho Interior sobre o [**Magnésio**](https://brilhointerior.com/general/2024/03/05/magnesio-o-mineral-da-saude.md-e-Beleza.html)
+
+
+https://pubmed.ncbi.nlm.nih.gov/16570028/
+
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4705892/
