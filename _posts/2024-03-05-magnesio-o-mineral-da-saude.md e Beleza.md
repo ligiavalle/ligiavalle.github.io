@@ -110,6 +110,11 @@ com a orientação de um profissional de saúde, pode trazer benefícios signifi
 Ao reconhecer a importância do magnésio, podemos potencializar nosso bem-estar e realçar 
 nossa beleza natural de dentro para fora.
 
+## IMPORTANTE
+Se você decidir pela suplementação de Magnésio, o produto que indico na janela ao lado é uma excelente opção, pois contém Magnésio na forma Glicina + Dimalato + Citrato + Taurato.
+Clicando em **Compre agora em Amazon**, vc será direcionado para o site, que todos conhecem. A entrega é rápida e garantida. E se vc tiver dúvidas durante a compra, ou durante o uso do produto, pode entrar em contato comigo! Ficarei feliz em ajudar!
+
+
 
 
 [1] [Magnésio - Manejo para o equilíbrio nutricional da soja](https://ainfo.cnptia.embrapa.br/digital/bitstream/item/224430/1/DOCUMENTO-430-online.pdf)
