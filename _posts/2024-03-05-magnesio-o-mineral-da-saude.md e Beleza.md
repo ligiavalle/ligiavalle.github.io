@@ -113,7 +113,7 @@ nossa beleza natural de dentro para fora.
 ## IMPORTANTE
 Se você decidir pela suplementação de Magnésio, o produto que indico na imagem **Recomendado**, no início do artigo, 
 é uma excelente opção, pois contém Magnésio na forma Glicina + Dimalato + Citrato + Taurato.
-Clicando em **Compre agora em Amazon**,abaixo da imagem, você será direcionado para o site, que todos conhecem. A entrega 
+Clicando em **Compre agora em Amazon**, abaixo da imagem, você será direcionado para o site, que todos conhecem. A entrega 
 é rápida e garantida. E se vc tiver dúvidas durante a compra, ou durante o uso do produto, pode entrar em contato comigo! 
 Ficarei feliz em ajudar!
 
