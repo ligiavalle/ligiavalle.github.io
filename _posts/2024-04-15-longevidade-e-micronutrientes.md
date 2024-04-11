@@ -38,7 +38,7 @@ pessoas com mais de 50 anos apresentam deficiência de vitamina D.  Estima-se, a
 principalmente devido à exposição limitada ao sol, pois muitas pessoas passam a maior parte do tempo em ambientes fechados. 
 Além disso, fatores como idade e cor da pele podem impactar ainda mais a produção de vitamina D no corpo. Indivíduos mais velhos 
 produzem significativamente menos vitamina D em comparação com seus homólogos mais jovens, e indivíduos com mais melanina na pele 
-têm um efeito protetor natural contra o sol, reduzindo a capacidade de sintetizar vitamina D pela exposição solar.
+têm um efeito protetor natural contra o sol, reduzindo a capacidade de sintetizar vitamina D pela exposição solar [1].
 
 ## O Papel da Suplementação
 
@@ -71,3 +71,5 @@ Ao suplementar com vitamina D, os indivíduos podem melhorar sua saúde geral, r
 Lembre-se, é essencial consultar um profissional de saúde antes de iniciar qualquer regime de suplementação para determinar a dosagem 
 apropriada para suas necessidades específicas. Ao incorporar essas dicas de longevidade baseadas no estilo de vida, você pode dar 
 passos proativos para melhorar sua saúde e bem-estar.
+
+[1] Wacker, M., Holick,M.<a href="https://www.tandfonline.com/doi/full/10.4161/derm.24494?src=recsys)" target="_blank"><strong>Sunlight and Vitamin D</strong></a>
