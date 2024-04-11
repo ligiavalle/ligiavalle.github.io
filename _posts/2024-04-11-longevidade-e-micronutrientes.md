@@ -6,7 +6,7 @@ description: |
   Essas dicas são frutos de baixo alcance, o que significa que são simples e acessíveis para todos aplicarem. 
   Uma das maneiras mais fáceis de melhorar sua saúde geral e longevidade é abordar as deficiências de micronutrientes.
 categories: general
-recommended: Vitamina D
+recommended: None
 ---
 ## Introdução
 
