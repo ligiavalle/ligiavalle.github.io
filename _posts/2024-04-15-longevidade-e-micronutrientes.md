@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "ATENÇÃO MUDAR TÍTULO"
+title:  "Longevidade e Micronutrientes"
 date:   2024-04-15 12:02:32 +0200
 description: |
   Essas dicas são frutos de baixo alcance, o que significa que são simples e acessíveis para todos aplicarem. 
@@ -10,11 +10,12 @@ recommended: Vitamina D
 ---
 ## Introdução
 
-Dando continuidade ao nosso artigo sobre Vitamina D (colocar link para o artigo) quero dar algumas dicas simples e eficazes 
-para longevidade que você pode incorporar à sua vida diária. Essas dicas são frutos de baixo alcance, o que significa que 
-são simples e acessíveis para todos aplicarem. Uma das maneiras mais fáceis de melhorar sua saúde geral e longevidade 
-é abordar as deficiências de micronutrientes. Vamos explorar a importância dos micronutrientes essenciais, o papel da 
-suplementação e focaremos especificamente nos benefícios da vitamina D.
+Neste artigo quero dar algumas dicas simples e eficazes para longevidade que você pode incorporar à sua vida diária. 
+Essas dicas são frutos de baixo alcance, o que significa que são simples e acessíveis para todos aplicarem. 
+Uma das maneiras mais fáceis de melhorar sua saúde geral e longevidade é abordar as deficiências de micronutrientes. 
+Vamos explorar a importância dos micronutrientes essenciais, o papel da suplementação e focaremos especificamente 
+nos benefícios da vitamina D, dando continuidade ao artigo sobre esta vitamina tão importante: [**Vitamina D – Funções, 
+Fontes e Benefícios.**](https://brilhointerior.com/general/2024/01/09/Vitamina-D-funcoes-fontes-e-beneficios.html)
 
 ## Deficiências de Micronutrientes
 
