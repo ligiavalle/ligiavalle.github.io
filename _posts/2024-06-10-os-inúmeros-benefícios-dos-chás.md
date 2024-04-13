@@ -60,7 +60,8 @@ Integrar uma variedade de chás em sua rotina diária pode ser uma maneira delic
 
 ## Analisando a composição dos Chás LuciLuci
 
-**Chá Detoh Green** - composto por carqueja, hortelã e boldo, oferece uma combinação interessante de ingredientes que podem ter diversos
+## Chá Detoh Green 
+Composto por carqueja, hortelã e boldo, oferece uma combinação interessante de ingredientes que podem ter diversos
 benefícios para a saúde. 
 
 **1.	Carqueja**
@@ -79,7 +80,7 @@ benefícios para a saúde.
  de gorduras e auxiliando na desintoxicação do fígado.
 •	Assim como a carqueja, o boldo possui propriedades antioxidantes que podem ajudar a combater os danos causados pelos radicais livres.
 
-## Potenciais Benefícios do "Cha Detoh Green":
+## Potenciais Benefícios do Cha Detoh Green:
 •	Promoção da Saúde Digestiva: A combinação desses ingredientes, conhecidos por suas propriedades digestivas, pode ajudar a promover uma digestão 
   saudável e aliviar desconfortos estomacais.
 •	Desintoxicação do Fígado: O boldo e a carqueja são reconhecidos por seu potencial de apoiar a função hepática e ajudar na desintoxicação do 
@@ -87,44 +88,75 @@ benefícios para a saúde.
 •	Ação Antioxidante: Todos os ingredientes desta fórmula possuem propriedades antioxidantes, que podem ajudar a combater o estresse oxidativo 
   e proteger as células contra danos.
 
-Chá Life Control - Carqueja, Chá verde, Mate verde, Sálvia e Canela
-Esta é uma interessante combinação de ingredientes que podem proporcionar uma variedade de benefícios para a saúde. 
-1.	Carqueja:
-•	Como mencionado anteriormente, a carqueja é conhecida por suas propriedades digestivas e hepatoprotetoras. Ela pode auxiliar na digestão e na saúde do fígado, contribuindo para o bom funcionamento do sistema digestivo e para a desintoxicação do corpo.
-2.	Chá Verde:
-•	O chá verde é rico em antioxidantes, como catequinas, que têm sido associadas a uma série de benefícios para a saúde. Ele pode ajudar na perda de peso, no aumento do metabolismo e na melhora da função cerebral. Além disso, o chá verde também pode ter efeitos positivos sobre a saúde cardiovascular e ajudar a reduzir o risco de certos tipos de câncer.
-3.	Mate Verde:
-•	O mate verde, assim como o chá verde, é uma fonte de antioxidantes e cafeína. Ele pode proporcionar um impulso de energia, ajudar na perda de peso e melhorar a saúde mental. Além disso, o mate verde também pode ter efeitos positivos sobre a saúde cardiovascular e imunológica.
-4.	Sálvia:
-•	A sálvia é conhecida por suas propriedades anti-inflamatórias e antioxidantes. Ela pode ajudar a aliviar a inflamação, melhorar a digestão e promover a saúde bucal. Além disso, a sálvia também pode ter efeitos positivos sobre a memória e a função cerebral.
-5.	Canela:
-•	A canela é uma especiaria conhecida por seus potenciais benefícios à saúde, incluindo a redução do açúcar no sangue, a melhora da sensibilidade à insulina e a proteção contra doenças cardiovasculares. Além disso, a canela também pode ajudar a reduzir a inflamação e a combater infecções.
-Potenciais Benefícios do Chá Life Control:
-•	Controle do Peso: A combinação de chá verde, mate verde e carqueja pode ajudar a promover a perda de peso, aumentando o metabolismo e reduzindo o apetite.
-•	Saúde Digestiva e Hepática: A presença de carqueja e outros ingredientes como a sálvia pode promover a saúde digestiva e hepática, auxiliando na digestão e na desintoxicação do fígado.
-•	Antioxidantes e Anti-inflamatórios: Os antioxidantes presentes nos ingredientes, como chá verde, mate verde, sálvia e canela, podem ajudar a combater o estresse oxidativo e a inflamação no corpo, contribuindo para a saúde geral.
+## Chá Life Control  
+Carqueja, Chá verde, Mate verde, Sálvia e Canela. Esta é uma interessante combinação de ingredientes que podem proporcionar uma variedade de 
+benefícios para a saúde. 
 
-Chá Thermo Day - Laranja amarga, Mate tostado, Canela da China, Gengibre
-A fórmula do Chá Thermo Day, composta por laranja amarga, mate tostado, canela da China e gengibre, é combinação estimulante e termogênica que pode oferecer uma variedade de benefícios para a saúde. 
-1.	Laranja Amarga:
-•	A laranja amarga contém sinefrina, um composto que tem sido associado à promoção da perda de peso e ao aumento do metabolismo. Além disso, a laranja amarga também pode ter efeitos sobre o apetite e a energia, tornando-se um componente comum em produtos termogênicos.
-2.	Mate Tostado:
-•	O mate tostado é derivado das folhas da erva-mate, e embora seja tostado, ainda contém uma quantidade significativa de cafeína. A cafeína pode aumentar o metabolismo e a queima de gordura, além de proporcionar um aumento temporário de energia e alerta.
-3.	Canela da China:
-•	A canela é uma especiaria conhecida por seus potenciais benefícios à saúde, incluindo a redução do açúcar no sangue, a melhora da sensibilidade à insulina e a proteção contra doenças cardiovasculares. Além disso, a canela também pode ajudar a reduzir a inflamação e a combater infecções.
-4.	Gengibre:
-•	O gengibre é amplamente reconhecido por suas propriedades anti-inflamatórias e digestivas. Ele pode ajudar a aliviar náuseas, promover a digestão saudável e reduzir a inflamação no corpo. Além disso, o gengibre também pode ter efeitos termogênicos, aumentando o metabolismo e a queima de gordura.
-Potenciais Benefícios do Chá Thermo Day:
-•	Aumento do Metabolismo: A combinação de laranja amarga, mate tostado e gengibre pode ajudar a aumentar o metabolismo, o que pode levar a uma maior queima de calorias e à perda de peso.
-•	Aumento da Energia: A cafeína presente no mate tostado e na laranja amarga pode proporcionar um aumento temporário de energia e alerta, ajudando a combater a fadiga e melhorar o desempenho físico.
-•	Controle do Apetite: Alguns dos ingredientes, como laranja amarga e canela, podem ter efeitos sobre o apetite, ajudando a reduzir os desejos por comida e promovendo uma maior sensação de saciedade.
-.
+**1.	Carqueja**
+•	Como mencionado anteriormente, a carqueja é conhecida por suas propriedades digestivas e hepatoprotetoras. Ela pode auxiliar na 
+digestão e na saúde do fígado, contribuindo para o bom funcionamento do sistema digestivo e para a desintoxicação do corpo.
 
+**2.	Chá Verde**
+•	O chá verde é rico em antioxidantes, como catequinas, que têm sido associadas a uma série de benefícios para a saúde. Ele pode 
+ajudar na perda de peso, no aumento do metabolismo e na melhora da função cerebral. Além disso, o chá verde também pode ter efeitos
+positivos sobre a saúde cardiovascular e ajudar a reduzir o risco de certos tipos de câncer.
 
+**3.	Mate Verde**
+•	O mate verde, assim como o chá verde, é uma fonte de antioxidantes e cafeína. Ele pode proporcionar um impulso de energia, ajudar 
+na perda de peso e melhorar a saúde mental. Além disso, o mate verde também pode ter efeitos positivos sobre a saúde cardiovascular e 
+imunológica.
 
+**4.	Sálvia**
+•	A sálvia é conhecida por suas propriedades anti-inflamatórias e antioxidantes. Ela pode ajudar a aliviar a inflamação, melhorar a 
+digestão e promover a saúde bucal. Além disso, a sálvia também pode ter efeitos positivos sobre a memória e a função cerebral.
 
-Chá Power Lib - Chá verde, Gengibre, Pimenta
-A fórmula do Chá Power Lib, composta por chá verde, gengibre e pimenta, parece ser uma combinação estimulante e termogênica que pode oferecer uma série de benefícios para a saúde. Vamos analisar os potenciais benefícios de cada um desses ingredientes:
+**5.	Canela**
+•	A canela é uma especiaria conhecida por seus potenciais benefícios à saúde, incluindo a redução do açúcar no sangue, a melhora da 
+sensibilidade à insulina e a proteção contra doenças cardiovasculares. Além disso, a canela também pode ajudar a reduzir a inflamação 
+e a combater infecções.
+
+## Potenciais Benefícios do Chá Life Control:
+•	Controle do Peso: A combinação de chá verde, mate verde e carqueja pode ajudar a promover a perda de peso, aumentando o metabolismo 
+e reduzindo o apetite.
+•	Saúde Digestiva e Hepática: A presença de carqueja e outros ingredientes como a sálvia pode promover a saúde digestiva e hepática, 
+auxiliando na digestão e na desintoxicação do fígado.
+•	Antioxidantes e Anti-inflamatórios: Os antioxidantes presentes nos ingredientes, como chá verde, mate verde, sálvia e canela, podem 
+ajudar a combater o estresse oxidativo e a inflamação no corpo, contribuindo para a saúde geral.
+
+## Chá Thermo Day 
+Laranja amarga, Mate tostado, Canela da China, Gengibre. A fórmula do Chá Thermo Day, composta por laranja amarga, mate tostado, canela 
+da China e gengibre, é combinação estimulante e termogênica que pode oferecer uma variedade de benefícios para a saúde. 
+
+**1.	Laranja Amarga**
+•	A laranja amarga contém sinefrina, um composto que tem sido associado à promoção da perda de peso e ao aumento do metabolismo. 
+Além disso, a laranja amarga também pode ter efeitos sobre o apetite e a energia, tornando-se um componente comum em produtos termogênicos.
+
+**2.	Mate Tostado**
+•	O mate tostado é derivado das folhas da erva-mate, e embora seja tostado, ainda contém uma quantidade significativa de cafeína. 
+A cafeína pode aumentar o metabolismo e a queima de gordura, além de proporcionar um aumento temporário de energia e alerta.
+
+**3.	Canela da China**
+•	A canela é uma especiaria conhecida por seus potenciais benefícios à saúde, incluindo a redução do açúcar no sangue, a melhora da 
+sensibilidade à insulina e a proteção contra doenças cardiovasculares. Além disso, a canela também pode ajudar a reduzir a inflamação 
+e a combater infecções.
+
+**4.	Gengibre**
+•	O gengibre é amplamente reconhecido por suas propriedades anti-inflamatórias e digestivas. Ele pode ajudar a aliviar náuseas, 
+promover a digestão saudável e reduzir a inflamação no corpo. Além disso, o gengibre também pode ter efeitos termogênicos, aumentando 
+o metabolismo e a queima de gordura.
+
+## Potenciais Benefícios do Chá Thermo Day:
+•	Aumento do Metabolismo: A combinação de laranja amarga, mate tostado e gengibre pode ajudar a aumentar o metabolismo, o que pode 
+levar a uma maior queima de calorias e à perda de peso.
+•	Aumento da Energia: A cafeína presente no mate tostado e na laranja amarga pode proporcionar um aumento temporário de energia e 
+alerta, ajudando a combater a fadiga e melhorar o desempenho físico.
+•	Controle do Apetite: Alguns dos ingredientes, como laranja amarga e canela, podem ter efeitos sobre o apetite, ajudando a reduzir 
+os desejos por comida e promovendo uma maior sensação de saciedade.
+
+## Chá Power Lib  
+Chá verde, Gengibre, Pimenta. A fórmula do Chá Power Lib, composta por chá verde, gengibre e pimenta, parece ser uma combinação 
+estimulante e termogênica que pode oferecer uma série de benefícios para a saúde. Vamos analisar os potenciais benefícios de 
+cada um desses ingredientes:
 1.	Chá Verde:
 •	O chá verde é conhecido por ser rico em antioxidantes, especialmente catequinas, que têm sido associadas a uma série de benefícios para a saúde, incluindo a promoção da perda de peso, a melhoria da função cerebral e a redução do risco de doenças cardiovasculares.
 •	Além disso, o chá verde contém cafeína, que pode aumentar o metabolismo e promover a queima de gordura, tornando-o um ingrediente comum em produtos termogênicos.
