@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A Importância da Vitamina B12 para Sua Saúde"
-date:   2024-05-15 12:02:32 +0200
+date:   2024-04-16 12:02:32 +0200
 description: |
   A vitamina B12 é um nutriente essencial para o seu corpo, pois desempenha um papel vital na síntese do DNA. 
   A síntese do DNA é necessária para a produção de energia e o funcionamento adequado do sistema nervoso.
@@ -99,5 +99,3 @@ para indivíduos com risco de deficiência.
 Se você tem experiência com deficiência de vitamina B12 ou notou melhorias em seus sintomas desde que começou a suplementar com vitamina B12, 
 por favor, compartilhe sua história enviando comentários.
 
-Gostaria de expressar minha gratidão a todos os meus leitores que, se desejarem contribuir, comprem o produto que recomendo; se não puderem fazê-lo, 
-ainda assim agradeço seu apoio compartilhando este artigo em suas redes sociais.
