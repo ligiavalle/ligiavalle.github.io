@@ -9,7 +9,6 @@ categories: general
 recommended: None
 ---
 
-## A Importância da Vitamina B12 para Sua Saúde 
 
 ## O Papel da Vitamina B12 no Seu Corpo
 A vitamina B12 é um nutriente essencial para o seu corpo, pois desempenha um papel vital na síntese do DNA. A síntese do DNA 
