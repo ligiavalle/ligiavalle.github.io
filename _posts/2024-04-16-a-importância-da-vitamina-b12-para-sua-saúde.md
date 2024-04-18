@@ -9,9 +9,7 @@ categories: general
 recommended: None
 ---
 
-
-## O Papel da Vitamina B12 no Seu Corpo
-A vitamina B12 é um nutriente essencial para o seu corpo, pois desempenha um papel vital na síntese do DNA. A síntese do DNA 
+A vitamina B12 é um nutriente essencial para o nosso corpo, pois desempenha um papel vital na síntese do DNA. A síntese do DNA 
 é necessária para a produção de energia e o funcionamento adequado do sistema nervoso. Embora esta vitamina esteja presente em
 numerosos alimentos e armazenada no fígado, a ingestão dietética limitada, a má absorção, certas condições médicas e certos 
 medicamentos podem levar à sua deficiência. Estudos indicam que mais de 25% das pessoas com mais de 60 anos podem sofrer de deficiência 
