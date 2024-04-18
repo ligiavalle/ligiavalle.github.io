@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Os Inúmeros Benefícios dos Chás"
-date:   2024-04-02 12:02:32 +0200
+date:   2025-04-02 12:02:32 +0200
 description: |
   Os chás têm sido apreciados em todo o mundo por séculos não apenas pelo seu sabor reconfortante, mas também pelos 
   inúmeros benefícios que oferecem à saúde e à beleza. Essas infusões de ervas, folhas e raízes têm propriedades antioxidantes, 
