@@ -8,7 +8,6 @@ description: |
 categories: general
 recommended: None
 ---
-## Introdução
 
 Neste artigo quero dar algumas dicas simples e eficazes para longevidade que você pode incorporar à sua vida diária. 
 Essas dicas são frutos de baixo alcance, o que significa que são simples e acessíveis para todos aplicarem. 
