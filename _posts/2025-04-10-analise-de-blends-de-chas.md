@@ -10,6 +10,8 @@ categories: general
 recommended: None
 ---
 ## Analisando a composição dos Chás
+Os blends de chás são misturas ou combinações de diferentes tipos de chás, ervas ou ingredientes, criando assim um novo sabor ou aroma. 
+Portanto, ao analisar blends de chás, estamos examinando as misturas específicas criadas pela combinação de diferentes elementos.
 
 ## Chá Detoh Green 
 Composto por carqueja, hortelã e boldo, oferece uma combinação interessante de ingredientes que podem ter diversos
