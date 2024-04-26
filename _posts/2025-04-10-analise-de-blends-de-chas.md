@@ -78,7 +78,7 @@ ajudar a combater o estresse oxidativo e a inflamação no corpo, contribuindo p
 
 ## Chá Thermo Day 
 Laranja amarga, Mate tostado, Canela da China, Gengibre. A fórmula do Chá Thermo Day, composta por laranja amarga, mate tostado, canela 
-da China e gengibre, é combinação estimulante e termogênica que pode oferecer uma variedade de benefícios para a saúde. 
+da China e gengibre, é combinação estimulante e termogênica que pode oferecer uma variedade de benefícios para a saúde. [Compre aqui](https://loja.luciluci.com.br/produto/cha-vitae-tea-thermo-day-30-saches)
 
 **1.	Laranja Amarga**
 •	A laranja amarga contém sinefrina, um composto que tem sido associado à promoção da perda de peso e ao aumento do metabolismo. 
