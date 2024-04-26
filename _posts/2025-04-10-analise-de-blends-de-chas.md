@@ -137,7 +137,7 @@ promovendo uma maior sensação de saciedade.
 
 ## Chá Slim Day
 A fórmula do Chá Slim Day, composta por espinheira santa, sene e anis estrelado, parece ser uma combinação que visa principalmente promover 
-a perda de peso e auxiliar no processo digestivo. Vamos analisar os potenciais benefícios de cada um desses ingredientes:
+a perda de peso e auxiliar no processo digestivo. Vamos analisar os potenciais benefícios de cada um desses ingredientes. [Compre aqui](https://loja.luciluci.com.br/produto/cha-vitae-tea-slim-day-sb-30-saches)
 
 **1.	Espinheira Santa**
 •	A espinheira santa é uma planta tradicionalmente utilizada na medicina popular como um digestivo e tônico estomacal. Ela é conhecida 
