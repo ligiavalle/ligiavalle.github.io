@@ -200,3 +200,8 @@ mental e físico, aliviando o estresse e a ansiedade.
 sono e promover um descanso mais reparador.
 •	Alívio Digestivo: A presença de erva-doce e endro pode ajudar a aliviar desconfortos estomacais e promover a digestão saudável, contribuindo 
 para uma sensação geral de bem estar.
+
+## Conclusão
+Os chás oferecem uma abordagem holística para a promoção da saúde e beleza. Seus benefícios vão além do simples prazer de saborear uma xícara 
+quente; eles desempenham um papel significativo na manutenção da saúde celular, na redução do estresse e na promoção de uma pele radiante. 
+Integrar uma variedade de chás em sua rotina diária pode ser uma maneira deliciosa e eficaz de cuidar de si mesmo, de dentro para fora.
