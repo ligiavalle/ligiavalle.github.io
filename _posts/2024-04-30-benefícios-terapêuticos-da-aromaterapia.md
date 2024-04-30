@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Benefícios Terapêuticos da Aromaterapia"
-date:   2025-04-23 12:02:32 +0200
+date:   2024-04-30 12:02:32 +0200
 description: |
   A busca pelo bem-estar físico e mental é uma constante na vida de muitos indivíduos. Entre as diversas práticas que têm emergido 
   como aliadas nessa jornada, a aromaterapia se destaca como uma técnica milenar que utiliza óleos essenciais naturais para promover 
