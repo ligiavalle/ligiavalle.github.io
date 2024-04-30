@@ -113,4 +113,4 @@ No entanto, é importante lembrar que cada pessoa reage de forma diferente aos �
 a certos aromas. Portanto, é sempre recomendável fazer um teste de alergia antes de usar qualquer blend de óleos essenciais e consultar 
 um profissional de saúde qualificado, especialmente se você estiver grávida, amamentando ou tiver alguma condição médica pré-existente.
 
-**Num próximo artigo daremos continuidade à análise pormenorizada de outros blends.**
+**Num próximo artigo daremos continuidade à análise pormenorizada de outros blends. Experimente e sinta a diferença!**
