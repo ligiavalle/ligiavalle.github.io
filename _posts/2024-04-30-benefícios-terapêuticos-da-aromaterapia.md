@@ -96,7 +96,9 @@ Vamos analisar as características de cada óleo essencial presente no blend:
 •	Possui propriedades analgésicas e anti-inflamatórias que podem ajudar a aliviar dores de dente, dores musculares e dores de cabeça.
 •	Também é conhecido por suas propriedades antissépticas e estimulantes.
 
+
 ## Sinergia e Possíveis Benefícios:
+
 •	Estímulo Mental: A combinação de alecrim e laranja amarga pode promover uma sensação de alerta e concentração, ideal para momentos 
 de estudo ou trabalho.
 
