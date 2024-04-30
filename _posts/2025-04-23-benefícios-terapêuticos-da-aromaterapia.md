@@ -60,14 +60,12 @@ equilíbrio e bem-estar em todos os aspectos da sua vida.
 ## Explorando Blends Terapêuticos de Óleos Essenciais
 
 Além de entender os benefícios individuais dos óleos essenciais, é importante compreender como diferentes combinações de óleos podem criar 
-sinergias únicas para promover o bem-estar físico, mental e emocional. Vamos analisar alguns blends da empresa brasileira **LuciLuci** e suas 
-propriedades terapêuticas:
+sinergias únicas para promover o bem-estar físico, mental e emocional. Vamos analisar alguns blends que eu considero muito interessantes,
+utilizo em meu dia a dia e recomendo o uso. 
 
 
 ## Full Guard
-Blend de Laranja Amarga, Alecrim Espanha, Eucalipto Globulus, Canela Ceilão , Cravo Botão
-
-**  COLOCAR FOTO DO FRASCO 
+Blend de Laranja Amarga, Alecrim Espanha, Eucalipto Globulus, Canela Ceilão , Cravo Botão. [Clique aqui para saber mais](https://loja.luciluci.com.br/produto/essencial-oil-blend-full-guard-15ml)
 
 Este blend de óleos essenciais combina ingredientes diversos, cada um com suas próprias propriedades terapêuticas, criando uma sinergia única. 
 Vamos analisar as características de cada óleo essencial presente no blend:
