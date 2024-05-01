@@ -8,6 +8,8 @@ description: |
   a saúde e o equilíbrio emocional. Neste artigo, exploraremos os fundamentos e os benefícios terapêuticos dessa prática fascinante.
 categories: general
 recommended: Aromaterapia
+photo: /assets/img/aromaterapia.webp
+photo_alt: Benefícios Terapêuticos da Aromaterapia 
 ---
 
 A busca pelo bem-estar físico e mental é uma constante na vida de muitos indivíduos. Entre as diversas práticas que têm emergido como 
