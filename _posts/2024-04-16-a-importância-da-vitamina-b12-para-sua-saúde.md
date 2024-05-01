@@ -95,6 +95,7 @@ para indivíduos com risco de deficiência.
 
 Se você tem experiência com deficiência de vitamina B12 ou notou melhorias em seus sintomas desde que começou a suplementar com vitamina B12, 
 por favor, compartilhe sua história enviando comentários.
+
 Gostaria de expressar minha gratidão a todos os meus leitores. Se desejarem contribuir, adquiram o produto que recomendo; se não puderem fazê-lo, 
 ainda assim agradeço seu apoio compartilhando este artigo em suas redes sociais.
 
