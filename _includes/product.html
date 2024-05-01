@@ -96,7 +96,34 @@
             </div>
         </div>
     </div>
-
+    {% elsif page.recommended == "Aromaterapia" %}
+    <!--  carousel -->
+    <div id="aromaterapia" class="carousel slide" data-ride="carousel">
+        <!-- Wrapper for slides -->
+        <div class="carousel-inner" role="listbox">
+            <div class="item active">
+                {% include products/luciluci/breathe-well.html   %}
+            </div>
+            <div class="item">
+                {% include products/luciluci/full-guard.html   %}
+            </div>
+            <div class="item">
+                {% include products/luciluci/smart-and-smile.html   %}
+            </div>
+            <div class="item">
+                {% include products/luciluci/adapt-life.html   %}
+            </div>
+            <div class="item">
+                {% include products/luciluci/purity-home.html   %}
+            </div>
+            <div class="item">
+                {% include products/luciluci/serene-sleep-well.html   %}
+            </div>
+            <div class="item">
+                {% include products/luciluci/mind-in-peace.html   %}
+            </div>
+        </div>
+    </div>
     {% else %}
     <!--  carousel -->
     <div id="reskin" class="carousel slide" data-ride="carousel">

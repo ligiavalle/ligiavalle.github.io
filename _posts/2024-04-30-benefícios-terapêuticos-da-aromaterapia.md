@@ -7,7 +7,7 @@ description: |
   como aliadas nessa jornada, a aromaterapia se destaca como uma técnica milenar que utiliza óleos essenciais naturais para promover 
   a saúde e o equilíbrio emocional. Neste artigo, exploraremos os fundamentos e os benefícios terapêuticos dessa prática fascinante.
 categories: general
-recommended: None
+recommended: Aromaterapia
 ---
 
 A busca pelo bem-estar físico e mental é uma constante na vida de muitos indivíduos. Entre as diversas práticas que têm emergido como 
@@ -15,11 +15,11 @@ aliadas nessa jornada, a aromaterapia se destaca como uma técnica milenar que u
 o equilíbrio emocional. Neste artigo, exploraremos os fundamentos e os benefícios terapêuticos dessa prática fascinante.
 
 ## O que é Aromaterapia?
-A aromaterapia é uma forma de medicina complementar que se baseia no uso de óleos essenciais extraídos de plantas, flores, raízes, ervas 
+A **aromaterapia** é uma forma de medicina complementar que se baseia no uso de óleos essenciais extraídos de plantas, flores, raízes, ervas 
 e árvores. Esses óleos são altamente concentrados e capturam a essência das plantas de onde são extraídos. Cada óleo essencial possui 
 propriedades terapêuticas distintas, que podem variar desde o relaxamento muscular até o estímulo da concentração e da clareza mental.
 
-## Como Funciona?
+## Como Funciona a Aromaterapia?
 A aplicação dos óleos essenciais na aromaterapia pode ocorrer de diversas formas, incluindo:
 
 **1.	Inalação**   A maneira mais comum de utilizar os óleos essenciais é por meio da inalação. Isso pode ser feito através de um difusor 
@@ -39,19 +39,19 @@ e promover o relaxamento.
 
 Os benefícios da aromaterapia são vastos e abrangem tanto o aspecto físico quanto o emocional. Alguns dos benefícios mais comuns incluem:
 
-**•	Alívio do Estresse e Ansiedade**  Muitos óleos essenciais, como lavanda, camomila e bergamota, têm propriedades relaxantes que ajudam a 
+**1.Alívio do Estresse e Ansiedade**  Muitos óleos essenciais, como lavanda, camomila e bergamota, têm propriedades relaxantes que ajudam a 
 reduzir o estresse e a ansiedade, promovendo uma sensação de calma e bem-estar.
 
-**•	Melhoria do Sono**  A inalação de certos óleos essenciais, como lavanda e manjerona, antes de dormir, pode ajudar a induzir o sono e 
+**2.Melhoria do Sono**  A inalação de certos óleos essenciais, como lavanda e manjerona, antes de dormir, pode ajudar a induzir o sono e 
 melhorar a qualidade do sono, proporcionando um descanso mais profundo e restaurador.
 
-**•	Alívio da Dor**  Óleos essenciais como eucalipto, gengibre e hortelã-pimenta possuem propriedades analgésicas e anti-inflamatórias que 
+**3.Alívio da Dor**  Óleos essenciais como eucalipto, gengibre e hortelã-pimenta possuem propriedades analgésicas e anti-inflamatórias que 
 ajudam a aliviar dores musculares, dores de cabeça e outras condições dolorosas.
 
-**•	Melhoria do Humor e do Bem Estar Emocional**  Aromas cítricos, como laranja e limão, têm o poder de elevar o humor e aumentar a sensação de 
+**4.Melhoria do Humor e do Bem Estar Emocional**  Aromas cítricos, como laranja e limão, têm o poder de elevar o humor e aumentar a sensação de 
 felicidade e vitalidade.
 
-**•	Aumento da Concentração e do Foco**  Alguns óleos essenciais, como alecrim e hortelã-pimenta, têm propriedades estimulantes que ajudam a 
+**5.Aumento da Concentração e do Foco**  Alguns óleos essenciais, como alecrim e hortelã-pimenta, têm propriedades estimulantes que ajudam a 
 aumentar a concentração, a clareza mental e o foco.
 
 Em resumo, a aromaterapia é uma prática versátil e eficaz que pode ser facilmente incorporada à sua rotina diária para promover uma sensação de 
@@ -71,44 +71,44 @@ Este blend de óleos essenciais combina ingredientes diversos, cada um com suas 
 Vamos analisar as características de cada óleo essencial presente no blend:
 
 **1.	Laranja Amarga**
-•	Aroma cítrico e revigorante.
-•	Conhecido por suas propriedades antidepressivas e energizantes.
-•	Pode ajudar a aliviar o estresse e promover uma sensação de felicidade e vitalidade.
+-	Aroma cítrico e revigorante.
+-	Conhecido por suas propriedades antidepressivas e energizantes.
+-	Pode ajudar a aliviar o estresse e promover uma sensação de felicidade e vitalidade.
 
 **2.	Alecrim Espanha**
-•	Aroma fresco e herbal.
-•	Possui propriedades estimulantes que podem aumentar a concentração, o foco e a clareza mental.
-•	Também pode ajudar a aliviar dores musculares e a melhorar a circulação sanguínea.
+-	Aroma fresco e herbal.
+-	Possui propriedades estimulantes que podem aumentar a concentração, o foco e a clareza mental.
+-	Também pode ajudar a aliviar dores musculares e a melhorar a circulação sanguínea.
 
 **3.	Eucalipto Globulus**
-•	Aroma refrescante e mentolado.
-•	Conhecido por suas propriedades descongestionantes e expectorantes, sendo frequentemente utilizado para aliviar problemas respiratórios, 
+-	Aroma refrescante e mentolado.
+-	Conhecido por suas propriedades descongestionantes e expectorantes, sendo frequentemente utilizado para aliviar problemas respiratórios, 
   como resfriados e sinusite.
-•	Também possui propriedades antibacterianas e antissépticas.
+-	Também possui propriedades antibacterianas e antissépticas.
 
 **4.	Canela Ceilão**
-•	Aroma quente, doce e picante.
-•	Possui propriedades estimulantes que podem ajudar a aumentar a circulação sanguínea e a aliviar dores musculares e articulares.
-•	Também é conhecida por suas propriedades antifúngicas e antioxidantes.
+-	Aroma quente, doce e picante.
+-	Possui propriedades estimulantes que podem ajudar a aumentar a circulação sanguínea e a aliviar dores musculares e articulares.
+-	Também é conhecida por suas propriedades antifúngicas e antioxidantes.
 
 **5.	Cravo Botão**
-•	Aroma rico, quente e condimentado.
-•	Possui propriedades analgésicas e anti-inflamatórias que podem ajudar a aliviar dores de dente, dores musculares e dores de cabeça.
-•	Também é conhecido por suas propriedades antissépticas e estimulantes.
+-	Aroma rico, quente e condimentado.
+-	Possui propriedades analgésicas e anti-inflamatórias que podem ajudar a aliviar dores de dente, dores musculares e dores de cabeça.
+-	Também é conhecido por suas propriedades antissépticas e estimulantes.
 
 
 ## Sinergia e Possíveis Benefícios:
 
-•	Estímulo Mental: A combinação de alecrim e laranja amarga pode promover uma sensação de alerta e concentração, ideal para momentos 
+**1.	Estímulo Mental** A combinação de alecrim e laranja amarga pode promover uma sensação de alerta e concentração, ideal para momentos 
 de estudo ou trabalho.
 
-•	Alívio Respiratório: O eucalipto pode ajudar a desobstruir as vias respiratórias, enquanto a canela e o cravo podem proporcionar 
+**2.	Alívio Respiratório** O eucalipto pode ajudar a desobstruir as vias respiratórias, enquanto a canela e o cravo podem proporcionar 
 uma sensação de calor reconfortante.
 
-•	Ação Antisséptica: Os óleos de cravo e eucalipto possuem propriedades antissépticas que podem ajudar a purificar o ar e proteger 
+**2.	Ação Antisséptica** Os óleos de cravo e eucalipto possuem propriedades antissépticas que podem ajudar a purificar o ar e proteger 
 contra germes e bactérias.
 
-•	Efeito Revigorante: O aroma cítrico da laranja amarga pode ajudar a elevar o humor, enquanto a combinação de canela e cravo pode 
+**3.	Efeito Revigorante** O aroma cítrico da laranja amarga pode ajudar a elevar o humor, enquanto a combinação de canela e cravo pode 
 proporcionar uma sensação de vitalidade e energia.
 
 No entanto, é importante lembrar que cada pessoa reage de forma diferente aos óleos essenciais, e algumas pessoas podem ser sensíveis 
