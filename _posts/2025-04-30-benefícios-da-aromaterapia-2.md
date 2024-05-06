@@ -117,7 +117,8 @@ de cada óleo essencial presente neste blend:
 
   
 Este blend oferece uma sinergia harmoniosa de óleos essenciais, criando uma atmosfera revitalizante e purificadora no ambiente doméstico. 
-No entanto, é importante lembrar que cada pessoa reage de forma diferente aos óleos essenciais, e algumas pessoas podem ser sensíveis a 
+
+É importante lembrar que cada pessoa reage de forma diferente aos óleos essenciais, e algumas pessoas podem ser sensíveis a 
 certos aromas. Portanto, é sempre recomendável fazer um teste de alergia antes de usar qualquer blend de óleos essenciais e consultar 
 um profissional de saúde qualificado, especialmente se você estiver grávida, amamentando ou tiver alguma condição médica pré-existente.
 
