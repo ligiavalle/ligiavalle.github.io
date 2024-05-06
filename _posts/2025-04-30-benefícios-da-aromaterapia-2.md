@@ -12,17 +12,17 @@ recommended: None
 Dando continuidade ao nosso breve estudo sobre Aromaterapia, quero descrever neste artigo dois blends de óleos essenciais: 
 Mind in Peace e Pury Home.
 **Mind in Peace** é uma sinergia cuidadosamente elaborada de óleos essenciais, formulada para promover uma sensação de equilíbrio 
-emocional, paz interior e clareza mental. Com seus aromas suaves e reconfortantes, o "Mind in Peace" é ideal para momentos de 
+emocional, paz interior e clareza mental. Com seus aromas suaves e reconfortantes, o **Mind in Peace** é ideal para momentos de 
 meditação, relaxamento e introspecção, ajudando a aliviar o estresse e a promover um estado de serenidade e tranquilidade.
 O **Pury Home** é um blend refrescante e purificante oferece uma combinação única de óleos essenciais, projetada para limpar o ar, 
 eliminar odores indesejados e criar uma atmosfera revigorante e energizante no ambiente doméstico. Com seus aromas revitalizantes 
-e purificadores, o "Pury Home" é perfeito para uso diário em casa, promovendo uma sensação de frescor e limpeza.
+e purificadores, o **Pury Home** é perfeito para uso diário em casa, promovendo uma sensação de frescor e limpeza.
 
 Vamos analisar detalhadamente, cada um deles!
 
 ## Mind in Peace
 
-O blend "Mind in Peace", composto por Olibano Frankincense, Rosa Damascena, Ylang Ylang, Patchouli e Ládano, é uma combinação de 
+O blend **Mind in Peace**, composto por Olibano Frankincense, Rosa Damascena, Ylang Ylang, Patchouli e Ládano, é uma combinação de 
 óleos essenciais cuidadosamente selecionados, cada um trazendo suas próprias características terapêuticas. Vamos analisar as 
 propriedades de cada óleo essencial presente neste blend:
 
