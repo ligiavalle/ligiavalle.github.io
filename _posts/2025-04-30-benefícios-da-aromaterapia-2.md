@@ -122,3 +122,5 @@ Este blend oferece uma sinergia harmoniosa de óleos essenciais, criando uma atm
 certos aromas. Portanto, é sempre recomendável fazer um teste de alergia antes de usar qualquer blend de óleos essenciais e consultar 
 um profissional de saúde qualificado, especialmente se você estiver grávida, amamentando ou tiver alguma condição médica pré-existente.
 
+Se você gostou do artigo e quer iniciar a experiência com aromaterpia, considere usar os produtos que recomendo! E se não puder fazê-lo, ainda assim agradeço seu apoio compartilhando este artigo em suas redes sociais.
+
