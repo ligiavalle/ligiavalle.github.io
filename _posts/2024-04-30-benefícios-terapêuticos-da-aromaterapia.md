@@ -113,7 +113,18 @@ contra germes e bactérias.
 **3.	Efeito Revigorante** O aroma cítrico da laranja amarga pode ajudar a elevar o humor, enquanto a combinação de canela e cravo pode 
 proporcionar uma sensação de vitalidade e energia.
 
-No entanto, é importante lembrar que cada pessoa reage de forma diferente aos óleos essenciais, e algumas pessoas podem ser sensíveis 
+A seguir, alguns estdos interessantes sobre o assunto, se você quiser aprofundar seus conhecimentos.
+
+Ballard,C. G. et al.<a href="https://pubmed.ncbi.nlm.nih.gov/12143909/" target="_blank"><strong>Aromatherapy as a safe and effective treatment for the management of agitation in severe dementia: the results of a double-blind, placebo-controlled trial with Melissa</strong></a>
+
+Tang,S.K. et al.<a href="https://is.gd/mu5cRV" target="_blank"><strong>Aromatherapy: Does It Help to Relieve Pain, Depression, Anxiety, and Stress in Community-Dwelling Older Persons?</strong></a>
+
+Ali,B. et al.<a href="https://www.sciencedirect.com/science/article/pii/S2221169115001033" target="_blank"><strong>Essential oils used in aromatherapy: A systemic review</strong></a>
+
+
+
+
+É importante lembrar que cada pessoa reage de forma diferente aos óleos essenciais, e algumas pessoas podem ser sensíveis 
 a certos aromas. Portanto, é sempre recomendável fazer um teste de alergia antes de usar qualquer blend de óleos essenciais e consultar 
 um profissional de saúde qualificado, especialmente se você estiver grávida, amamentando ou tiver alguma condição médica pré-existente.
 
