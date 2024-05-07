@@ -27,30 +27,30 @@ O blend **Mind in Peace**, composto por Olibano Frankincense, Rosa Damascena, Yl
 propriedades de cada óleo essencial presente neste blend:
 
 **1.	Olibano Frankincense**
-•	Conhecido por suas propriedades de equilíbrio emocional e espiritual.
-•	Ajuda a reduzir o estresse e a ansiedade, promovendo uma sensação de calma e tranquilidade.
-•	Pode estimular a concentração e a clareza mental, sendo útil durante a meditação e práticas de mindfulness.
+- 	Conhecido por suas propriedades de equilíbrio emocional e espiritual.
+- 	Ajuda a reduzir o estresse e a ansiedade, promovendo uma sensação de calma e tranquilidade.
+- 	Pode estimular a concentração e a clareza mental, sendo útil durante a meditação e práticas de mindfulness.
 
 **2.	Rosa Damascena**
-•	Possui um aroma floral suave e reconfortante.
-•	Conhecido por suas propriedades calmantes e antidepressivas, ajudando a aliviar a tensão emocional e promover 
-sentimentos de amor e autoaceitação.
-•	Pode ajudar a equilibrar os hormônios e aliviar os sintomas associados ao estresse menstrual e à menopausa.
+- 	Possui um aroma floral suave e reconfortante.
+- 	Conhecido por suas propriedades calmantes e antidepressivas, ajudando a aliviar a tensão emocional e promover 
+    sentimentos de amor e autoaceitação.
+- 	Pode ajudar a equilibrar os hormônios e aliviar os sintomas associados ao estresse menstrual e à menopausa.
 
 **3.	Ylang Ylang**
-•	Possui um aroma doce e exótico, frequentemente associado à sensualidade e ao relaxamento.
-•	Conhecido por suas propriedades relaxantes e afrodisíacas, ajudando a reduzir o estresse, a ansiedade e a tensão muscular.
-•	Pode promover uma sensação de felicidade e bem-estar emocional.
+-  	Possui um aroma doce e exótico, frequentemente associado à sensualidade e ao relaxamento.
+-  	Conhecido por suas propriedades relaxantes e afrodisíacas, ajudando a reduzir o estresse, a ansiedade e a tensão muscular.
+-  	Pode promover uma sensação de felicidade e bem-estar emocional.
 
 **4.	Patchouli**
-•	Possui um aroma terroso e rico.
-•	Conhecido por suas propriedades antidepressivas e sedativas, ajudando a acalmar a mente e a promover um sono tranquilo.
-•	Também possui propriedades anti-inflamatórias e cicatrizantes, sendo benéfico para a pele e o sistema respiratório.
+-   Possui um aroma terroso e rico.
+-  	Conhecido por suas propriedades antidepressivas e sedativas, ajudando a acalmar a mente e a promover um sono tranquilo.
+-  	Também possui propriedades anti-inflamatórias e cicatrizantes, sendo benéfico para a pele e o sistema respiratório.
 
 **5.	Ládano**
-•	Possui um aroma amadeirado e balsâmico.
-•	Conhecido por suas propriedades de ancoragem e fortalecimento espiritual, ajudando a promover um senso de estabilidade e segurança.
-•	Pode ajudar a acalmar a mente e a reduzir a ansiedade, facilitando a introspecção e a meditação.
+-  	Possui um aroma amadeirado e balsâmico.
+-  	Conhecido por suas propriedades de ancoragem e fortalecimento espiritual, ajudando a promover um senso de estabilidade e segurança.
+-  	Pode ajudar a acalmar a mente e a reduzir a ansiedade, facilitando a introspecção e a meditação.
 
 ## Sinergia e Possíveis Benefícios:
 
@@ -79,29 +79,29 @@ elaborada de óleos essenciais que visam promover uma atmosfera de frescor e pur
 de cada óleo essencial presente neste blend:
 
 **1.	Pinho Siberiano**
-•	Possui um aroma fresco e revigorante, reminiscente das florestas de pinheiros.
-•	Conhecido por suas propriedades purificadoras e desinfetantes, ajudando a limpar o ar e a eliminar odores indesejados no ambiente.
-•	Pode ajudar a promover uma sensação de conexão com a natureza e revitalização do ambiente.
+-  	Possui um aroma fresco e revigorante, reminiscente das florestas de pinheiros.
+-  	Conhecido por suas propriedades purificadoras e desinfetantes, ajudando a limpar o ar e a eliminar odores indesejados no ambiente.
+-  	Pode ajudar a promover uma sensação de conexão com a natureza e revitalização do ambiente.
 
 **2.	Limão Siciliano**
-•	Possui um aroma cítrico e revigorante, conhecido por suas propriedades de limpeza e purificação.
-•	Tem propriedades antibacterianas e antissépticas que ajudam a purificar o ar e a promover uma sensação de frescor e vitalidade.
-•	Seu aroma estimulante pode ajudar a melhorar o humor e a aumentar a concentração.
+-  	Possui um aroma cítrico e revigorante, conhecido por suas propriedades de limpeza e purificação.
+-  	Tem propriedades antibacterianas e antissépticas que ajudam a purificar o ar e a promover uma sensação de frescor e vitalidade.
+-  	Seu aroma estimulante pode ajudar a melhorar o humor e a aumentar a concentração.
 
 **3.	Lemongrass**
-•	Possui um aroma cítrico e herbáceo, refrescante e revigorante.
-•	Conhecido por suas propriedades repelentes de insetos, ajudando a manter o ambiente livre de mosquitos e outros insetos indesejados.
-•	Também tem propriedades antissépticas e desodorizantes que ajudam a limpar o ar e a promover uma sensação de limpeza e frescor.
+-  	Possui um aroma cítrico e herbáceo, refrescante e revigorante.
+-  	Conhecido por suas propriedades repelentes de insetos, ajudando a manter o ambiente livre de mosquitos e outros insetos indesejados.
+-  	Também tem propriedades antissépticas e desodorizantes que ajudam a limpar o ar e a promover uma sensação de limpeza e frescor.
 
 **4.	Citronela**
-•	Possui um aroma cítrico e amadeirado, conhecido por suas propriedades repelentes de insetos.
-•	Ajuda a manter o ambiente livre de mosquitos e outros insetos indesejados, criando uma atmosfera mais confortável e agradável.
-•	Também possui propriedades purificadoras e desodorizantes que ajudam a limpar o ar e a neutralizar odores.
+-  	Possui um aroma cítrico e amadeirado, conhecido por suas propriedades repelentes de insetos.
+-  	Ajuda a manter o ambiente livre de mosquitos e outros insetos indesejados, criando uma atmosfera mais confortável e agradável.
+-  	Também possui propriedades purificadoras e desodorizantes que ajudam a limpar o ar e a neutralizar odores.
 
 **5.	Coentro**
-•	Possui um aroma herbáceo e picante, com notas cítricas sutis.
-•	Conhecido por suas propriedades antibacterianas e antifúngicas, ajudando a purificar o ar e a eliminar germes e bactérias.
-•	Seu aroma refrescante e revigorante pode ajudar a promover uma sensação de limpeza e frescor no ambiente.
+-  	Possui um aroma herbáceo e picante, com notas cítricas sutis.
+-  	Conhecido por suas propriedades antibacterianas e antifúngicas, ajudando a purificar o ar e a eliminar germes e bactérias.
+  	Seu aroma refrescante e revigorante pode ajudar a promover uma sensação de limpeza e frescor no ambiente.
 
 ## Sinergia e Possíveis Benefícios:
 
