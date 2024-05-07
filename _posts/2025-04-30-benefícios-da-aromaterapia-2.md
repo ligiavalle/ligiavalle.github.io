@@ -6,7 +6,7 @@ description: |
   Dando continuidade ao nosso breve estudo sobre Aromaterapia, quero descrever neste artigo dois blends de óleos essenciais: 
   Mind in Peace e Pury Home.
 categories: general
-recommended: None
+recommended: Aromaterapia
 ---
 
 Dando continuidade ao nosso breve estudo sobre Aromaterapia, quero descrever neste artigo dois blends de óleos essenciais: 
