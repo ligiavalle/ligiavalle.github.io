@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Benefícios Terapêuticos da Aromaterapia 2"
-date:   2025-04-23 12:02:32 +0200
+date:   2024-05-07 12:02:32 +0200
 description: |
   Dando continuidade ao nosso breve estudo sobre Aromaterapia, quero descrever neste artigo dois blends de óleos essenciais: 
   Mind in Peace e Pury Home.
