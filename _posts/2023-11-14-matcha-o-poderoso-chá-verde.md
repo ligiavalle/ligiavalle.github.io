@@ -49,7 +49,7 @@ Além de ser consumido como chá, o Matcha é um ingrediente versátil na culin�
 4. **Sobremesas Japonesas**: É um ingrediente chave em muitas sobremesas tradicionais japonesas, como o mochi e o dorayaki.
 
 ## O que e por que eu recomendo ?
-O produto que recomendo com Matcha na composição, é o **[Hive SlimTea](https://behive.global/produtos/looseit/slim-tea-150g?loja=/ligiavalle&)** 
+Um dos produtos que recomendo com Matcha na composição, é o **[Hive SlimTea](https://behive.global/produtos/looseit/slim-tea-150g?loja=/ligiavalle&)** 
 (LooseIt), que eu pessoalmente testei e avaliei sob uma visão **[farmacêutica](https://brilhointerior.com/about.html)**.
 O Hive SlimTea combina os benefícios do chá verde mencionados acima com outros ingredientes naturais como Hibisco,
 (chá de hibisco é famoso por seus benefícios), Laranja Moro, Erva Mate, Gengibre, Canela, Hortelã e Cúrcuma.
@@ -66,6 +66,12 @@ gerais à saúde, diferentes substâncias atuam de maneiras distintas, e uma com
 O Hive SlimTea é livre de glúten e lactose e não contém aditivos artificiais. O preparo é rápido, bastando adicionar 
 uma medida (5g) à 200ml de água fria ou gelada e mexer bem, ou usar uma coqueteleira. 
 Os links para os estudos científicos (em inglês) estão disponíveis no final do artigo.
+
+Outro produto que indico é o **Matchá LuciLuci**, que é um pó a base de extrato de Matchá com sabor natural de limão, 
+sem glúten e sem adição de açúcar.O sabor herbal é delicioso, principalmente se tomado gelado. O preparo também é 
+simples e rápido: duas medidas de pó em 250ml de água gelada. Saiba mais [aqui](https://loja.luciluci.com.br/produto/cha-matcha-limao/ligiavalle)
+
+
 
 ## Conclusão: O Matcha é mais do que um chá, é uma experiência!
 O Matcha é um tesouro da cultura japonesa que se espalhou pelo mundo devido aos seus benefícios à saúde e versatilidade culinária. 
