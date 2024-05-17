@@ -7,7 +7,7 @@ categories:  general
 #image: /assets/img/fb/hive-looseit-slim-tea.webp
 photo: /assets/img/agua-info.webp
 photo_alt: Benefícios de beber Água 
-recommended: Agua
+recommended: None
 ---
 A água é um componente essencial para a vida, desempenhando um papel fundamental em inúmeras funções do corpo humano. 
 Seja para manter a temperatura corporal adequada, facilitar reações químicas ou promover a eliminação de resíduos, 
