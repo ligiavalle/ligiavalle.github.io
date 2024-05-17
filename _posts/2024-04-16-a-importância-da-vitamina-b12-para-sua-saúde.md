@@ -6,7 +6,7 @@ description: |
   A vitamina B12 é um nutriente essencial para o seu corpo, pois desempenha um papel vital na síntese do DNA. 
   A síntese do DNA é necessária para a produção de energia e o funcionamento adequado do sistema nervoso.
 categories: general
-recommended: B12
+recommended: None
 ---
 
 A vitamina B12 é um nutriente essencial para o nosso corpo, pois desempenha um papel vital na síntese do DNA. A síntese do DNA 
@@ -96,6 +96,4 @@ para indivíduos com risco de deficiência.
 Se você tem experiência com deficiência de vitamina B12 ou notou melhorias em seus sintomas desde que começou a suplementar com vitamina B12, 
 por favor, compartilhe sua história enviando comentários.
 
-Gostaria de expressar minha gratidão a todos os meus leitores. Se desejarem contribuir, adquiram o produto que recomendo; se não puderem fazê-lo, 
-ainda assim agradeço seu apoio compartilhando este artigo em suas redes sociais.
 
