@@ -5,7 +5,7 @@ date:   2024-04-02 12:02:32 +0200
 description: |
   Explore a importância do magnésio para a saúde e aprenda como suplementar corretamente para manter uma boa saúde.
 categories: general
-recommended: Magnesio
+recommended: None
 ---
 
 O magnésio é um mineral essencial para o nosso corpo, mas muitas pessoas não consomem a quantidade necessária para uma saúde ideal. 
