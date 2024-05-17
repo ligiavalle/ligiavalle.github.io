@@ -10,7 +10,7 @@ description: |
 photo: /assets/img/magnesio-info.webp
 photo_alt: Magnésio, o Mineral da Saúde e Beleza,  Funções, Fontes e Benefícios
 categories: general 
-recommended: Magnesio
+recommended: None
 ---
 
 Você sabia que a deficiência de magnésio está associada a uma série de sintomas, incluindo fadiga, fraqueza muscular, cãibras, 
@@ -110,12 +110,7 @@ com a orientação de um profissional de saúde, pode trazer benefícios signifi
 Ao reconhecer a importância do magnésio, podemos potencializar nosso bem-estar e realçar 
 nossa beleza natural de dentro para fora.
 
-## IMPORTANTE
-Se você decidir pela suplementação de Magnésio, o produto que indico na imagem **Recomendado**, no início do artigo, 
-é uma excelente opção, pois contém Magnésio na forma Glicina + Dimalato + Citrato + Taurato.
-Clicando em **Compre agora em Amazon**, abaixo da imagem, você será direcionado para o site, que todos conhecem. A entrega 
-é rápida e garantida. E se vc tiver dúvidas durante a compra, ou durante o uso do produto, pode entrar em contato comigo! 
-Ficarei feliz em ajudar!
+
 
 
 
