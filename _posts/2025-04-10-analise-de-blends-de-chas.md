@@ -36,10 +36,13 @@ benefícios para a saúde.
 ## Potenciais Benefícios do Cha Detoh Green:
 •	Promoção da Saúde Digestiva: A combinação desses ingredientes, conhecidos por suas propriedades digestivas, pode ajudar a promover uma digestão 
   saudável e aliviar desconfortos estomacais.
+  
 •	Desintoxicação do Fígado: O boldo e a carqueja são reconhecidos por seu potencial de apoiar a função hepática e ajudar na desintoxicação do 
   fígado, o que pode ser benéfico para a saúde geral do corpo.
+  
 •	Ação Antioxidante: Todos os ingredientes desta fórmula possuem propriedades antioxidantes, que podem ajudar a combater o estresse oxidativo 
   e proteger as células contra danos.
+  [Compre aqui](https://loja.luciluci.com.br/produto/cha-vitae-tea-detoh-green-30-saches/ligiavalle)
 
 ## Chá Life Control  
 Carqueja, Chá verde, Mate verde, Sálvia e Canela. Esta é uma interessante combinação de ingredientes que podem proporcionar uma variedade de 
@@ -71,14 +74,16 @@ e a combater infecções.
 ## Potenciais Benefícios do Chá Life Control:
 •	Controle do Peso: A combinação de chá verde, mate verde e carqueja pode ajudar a promover a perda de peso, aumentando o metabolismo 
 e reduzindo o apetite.
+
 •	Saúde Digestiva e Hepática: A presença de carqueja e outros ingredientes como a sálvia pode promover a saúde digestiva e hepática, 
 auxiliando na digestão e na desintoxicação do fígado.
+
 •	Antioxidantes e Anti-inflamatórios: Os antioxidantes presentes nos ingredientes, como chá verde, mate verde, sálvia e canela, podem 
-ajudar a combater o estresse oxidativo e a inflamação no corpo, contribuindo para a saúde geral.
+ajudar a combater o estresse oxidativo e a inflamação no corpo, contribuindo para a saúde geral. [Compre aqui](https://loja.luciluci.com.br/produto/cha-vitae-tea-life-control-30-saches/ligiavalle)
 
 ## Chá Thermo Day 
 Laranja amarga, Mate tostado, Canela da China, Gengibre. A fórmula do Chá Thermo Day, composta por laranja amarga, mate tostado, canela 
-da China e gengibre, é combinação estimulante e termogênica que pode oferecer uma variedade de benefícios para a saúde. [Compre aqui](https://loja.luciluci.com.br/produto/cha-vitae-tea-thermo-day-30-saches)
+da China e gengibre, é combinação estimulante e termogênica que pode oferecer uma variedade de benefícios para a saúde. 
 
 **1.	Laranja Amarga**
 •	A laranja amarga contém sinefrina, um composto que tem sido associado à promoção da perda de peso e ao aumento do metabolismo. 
@@ -101,10 +106,12 @@ o metabolismo e a queima de gordura.
 ## Potenciais Benefícios do Chá Thermo Day:
 •	Aumento do Metabolismo: A combinação de laranja amarga, mate tostado e gengibre pode ajudar a aumentar o metabolismo, o que pode 
 levar a uma maior queima de calorias e à perda de peso.
+
 •	Aumento da Energia: A cafeína presente no mate tostado e na laranja amarga pode proporcionar um aumento temporário de energia e 
 alerta, ajudando a combater a fadiga e melhorar o desempenho físico.
+
 •	Controle do Apetite: Alguns dos ingredientes, como laranja amarga e canela, podem ter efeitos sobre o apetite, ajudando a reduzir 
-os desejos por comida e promovendo uma maior sensação de saciedade.
+os desejos por comida e promovendo uma maior sensação de saciedade. [Compre aqui](https://loja.luciluci.com.br/produto/cha-vitae-tea-thermo-day-30-saches/ligiavalle)
 
 ## Chá Power Lib  
 Chá verde, Gengibre, Pimenta. A fórmula do Chá Power Lib, composta por chá verde, gengibre e pimenta, parece ser uma combinação 
@@ -126,18 +133,22 @@ promover uma digestão saudável, reduzir a inflamação no corpo e até mesmo p
 •	A pimenta contém capsaicina, um composto que tem sido associado à promoção da perda de peso, ao aumento do metabolismo e à redução 
 do apetite. A capsaicina pode também ter efeitos anti-inflamatórios e antioxidantes, contribuindo para a saúde geral do corpo.
 •	Além disso, a pimenta pode aumentar a termogênese, ou seja, a produção de calor no corpo, o que pode ajudar na queima de gordura.
-Potenciais Benefícios do Chá Power Lib:
+
+## Potenciais Benefícios do Chá Power Lib:
+
 •	Aumento do Metabolismo: A combinação de chá verde, gengibre e pimenta pode ajudar a aumentar o metabolismo, o que pode levar a uma 
 maior queima de calorias e à perda de peso.
+
 •	Aumento da Energia: A cafeína presente no chá verde e os efeitos estimulantes do gengibre e da pimenta podem proporcionar um aumento 
 temporário de energia e alerta, ajudando a combater a fadiga e melhorar o desempenho físico.
+
 •	Controle do Apetite: A capsaicina presente na pimenta pode ter efeitos sobre o apetite, ajudando a reduzir os desejos por comida e 
-promovendo uma maior sensação de saciedade.
+promovendo uma maior sensação de saciedade. [Compre aqui](https://loja.luciluci.com.br/produto/cha-vitae-tea-power-lib-30-saches/ligiavalle)
 
 
 ## Chá Slim Day
 A fórmula do Chá Slim Day, composta por espinheira santa, sene e anis estrelado, parece ser uma combinação que visa principalmente promover 
-a perda de peso e auxiliar no processo digestivo. Vamos analisar os potenciais benefícios de cada um desses ingredientes. [Compre aqui](https://loja.luciluci.com.br/produto/cha-vitae-tea-slim-day-sb-30-saches)
+a perda de peso e auxiliar no processo digestivo. Vamos analisar os potenciais benefícios de cada um desses ingredientes. 
 
 **1.	Espinheira Santa**
 •	A espinheira santa é uma planta tradicionalmente utilizada na medicina popular como um digestivo e tônico estomacal. Ela é conhecida 
@@ -161,10 +172,12 @@ absorção adequada de nutrientes.
 ## Potenciais Benefícios do Chá Slim Day:
 •	Promoção da Digestão: A combinação de espinheira santa, sene e anis estrelado pode ajudar a promover uma digestão saudável, 
 aliviando desconfortos gastrointestinais como inchaço, cólicas e constipação.
+
 •	Possível Ação Laxativa: O sene presente na formulação pode ajudar a aliviar a constipação e promover movimentos intestinais regulares,
 o que pode ser benéfico para aqueles que buscam perda de peso.
+
 •	Saúde Gastrointestinal: Os ingredientes presentes no chá podem ajudar a proteger o estômago e promover a saúde geral do sistema 
-gastrointestinal, o que é importante para o bem-estar e a absorção adequada de nutrientes.
+gastrointestinal, o que é importante para o bem-estar e a absorção adequada de nutrientes. [Compre aqui](https://loja.luciluci.com.br/produto/cha-vitae-tea-slim-day-sb-30-saches)
 
 
 ## Chá Relax
@@ -198,8 +211,10 @@ ajudar a aliviar a ansiedade, promover a digestão saudável e aliviar cólicas 
 ## Potenciais Benefícios do Chá Relax:
 •	Promoção do Relaxamento: A combinação de capim cidreira, erva-doce, melissa, maracujá e endro pode ajudar a promover um estado de relaxamento 
 mental e físico, aliviando o estresse e a ansiedade.
+
 •	Melhoria do Sono: Alguns dos ingredientes, como melissa e maracujá, têm propriedades sedativas que podem ajudar a melhorar a qualidade do 
 sono e promover um descanso mais reparador.
+
 •	Alívio Digestivo: A presença de erva-doce e endro pode ajudar a aliviar desconfortos estomacais e promover a digestão saudável, contribuindo 
 para uma sensação geral de bem estar.
 
