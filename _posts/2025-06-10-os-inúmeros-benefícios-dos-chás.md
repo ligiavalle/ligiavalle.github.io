@@ -61,7 +61,8 @@ apresentando a você uma análise cuidadosa de alguns blends especiais que selec
 Como parte de uma busca incessante por qualidade e autenticidade, encontrei produtos que realmente me encantaram, e é por isso que 
 compartilho com você uma análise detalhada desses blends.
 Convido-o a explorar essa seleção e descobrir o que torna cada um deles tão especial. E o melhor de tudo? Você pode adquiri-los 
-diretamente em minha loja virtual, (link) onde qualidade e conveniência se encontram.
+diretamente em minha loja virtual, onde qualidade e conveniência se encontram [clicando aqui](https://loja.luciluci.com.br/?u=ligiavalle)
+
 Dê um passo em direção a uma vida mais saudável e equilibrada. Cada gole é uma oportunidade de cuidar de si mesmo e se conectar com 
 o poder transformador da natureza.
 
