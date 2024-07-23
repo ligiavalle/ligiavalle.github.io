@@ -2,7 +2,7 @@
 layout: post
 title:  "Beber Água: Hidratação como Pilar Fundamental da Saúde"
 date:   2024-02-19 08:37:32 +0200
-description: 
+description: Descubra a importância da hidratação para a saúde! Saiba como a água regula a temperatura corporal, apoia funções metabólicas, digestão, saúde da pele, detoxificação e prevenção de doenças.
 categories:  general
 #image: /assets/img/fb/hive-looseit-slim-tea.webp
 photo: /assets/img/agua-info.webp

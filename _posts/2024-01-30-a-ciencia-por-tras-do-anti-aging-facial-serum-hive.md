@@ -2,7 +2,7 @@
 layout: post
 title:  "A Ciência por trás do Anti Aging Facial Sérum HIVE"
 date:   2024-01-30 08:37:32 +0200
-description: 
+description: Descubra o poder do Anti Aging Facial Sérum Hive, com tecnologia avançada de regeneração celular e ingredientes como Peptídeo de Cobre e Colágeno Vegano. Resultados comprovados para uma pele rejuvenescida 
 categories:  general
 #image: /assets/img/fb/hive-looseit-slim-tea.webp
 #photo: /assets/img/cuidados-pele-info.webp

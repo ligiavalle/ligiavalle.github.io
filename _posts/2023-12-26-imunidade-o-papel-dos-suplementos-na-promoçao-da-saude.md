@@ -2,7 +2,7 @@
 layout: post
 title:  "Imunidade: O Papel dos Suplementos na Promoção da Saúde"
 date:   2023-12-26 11:37:32 +0200
-description:
+description: Fortaleça sua imunidade com vitaminas e minerais essenciais. Descubra o papel das vitaminas C, D e A, e dos minerais zinco, selênio e ferro para um sistema imunológico saudável e eficaz.
 
 categories: general
 recommended: Antiox

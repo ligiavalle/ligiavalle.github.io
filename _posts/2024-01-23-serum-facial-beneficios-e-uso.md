@@ -2,7 +2,7 @@
 layout: post
 title:  "Serum facial: benefícios e uso"
 date:   2024-01-23 08:37:32 +0200
-description: 
+description: Descubra o poder dos séruns faciais para cuidados intensivos e direcionados da pele. Saiba como usar e aproveitar seus benefícios, desde a hidratação profunda até o combate ao envelhecimento.
 categories:  general
 #image: /assets/img/fb/hive-looseit-slim-tea.webp
 #photo: /assets/img/cuidados-pele-info.webp
