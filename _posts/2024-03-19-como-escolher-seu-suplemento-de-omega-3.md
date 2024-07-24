@@ -2,10 +2,7 @@
 layout: post
 title:  "Como escolher seu suplemento de ômega-3"
 date:   2024-03-19 18:30:32 +0200
-description: |
-  Como escolher o melhor suplemento de ômega-3 para sua saúde. Aprenda sobre as diferenças entre as 
-  formas de triglicerídeos e ésteres etílicos, dicas para evitar oxidação e contaminação, e a importância 
-  dos ácidos graxos EPA e DHA. Entenda como integrar ômega-3 em sua dieta de forma segura e eficaz
+description: Aprenda a escolher o melhor suplemento de ômega-3. Entenda as diferenças entre triglicerídeos e ésteres etílicos, evite oxidação e contaminação, e integre EPA e DHA na sua dieta.
 categories: general
 recommended: None
 ---

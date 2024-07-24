@@ -2,9 +2,7 @@
 layout: post
 title:  "A Importância da Felicidade na Saúde e Bem-Estar"
 date:   2023-12-12 08:27:32 +0200
-description: A sensação de alegria, satisfação e bem-estar é algo que todos almejam, e não é por acaso. Além de melhorar a qualidade de vida,
-  a felicidade tem um impacto significativo na saúde física e mental das pessoas. Neste artigo, exploraremos como a felicidade
-  está intrinsecamente ligada à saúde e ao bem-estar e por que investir em nossa própria felicidade é uma escolha inteligente. 
+description: A sensação de alegria e bem-estar melhora a qualidade de vida e a saúde física e mental. Este artigo explora a relação entre felicidade e saúde e a importância de investir na própria felicidade.
 
 categories: general
 recommended: None
