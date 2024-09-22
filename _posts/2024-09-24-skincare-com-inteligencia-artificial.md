@@ -78,8 +78,6 @@ A tecnologia pode ser uma aliada, mas a saúde da pele merece atenção especial
 O app **Beleza na Web** é uma plataforma robusta de e-commerce de produtos de beleza que também oferece recomendações personalizadas com 
 base nas necessidades dos usuários. Embora seja amplamente reconhecido como um marketplace, o aplicativo conta com um time de especialistas 
 que ajudam na escolha dos melhores produtos para cada tipo de pele, levando em consideração o perfil e as preferências do cliente.
-- Links: [Google Play](https://play.google.com/store/apps/details?id=br.com.belezanaweb) |
-        [App Store](https://apps.apple.com/br/app/beleza-na-web/id963838926)
 
 ### 2. **Bálla Beauty**
 O **Bálla Beauty** é um aplicativo voltado para agendamentos de serviços de beleza, mas também oferece uma função de análise de pele. 
