@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Skincare com Inteligência Artificial"
-date:   2024-09-24 12:02:32 +0200
+date:   2024-09-26 12:02:32 +0200
 description: |
   No mundo moderno, a tecnologia tem se infiltrado em praticamente todos os aspectos da nossa vida, desde a forma como nos 
   comunicamos até a maneira como cuidamos da nossa saúde e bem-estar. Um dos avanços mais notáveis é o uso da inteligência 
