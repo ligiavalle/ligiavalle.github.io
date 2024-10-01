@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Beleza Sustentável: O Futuro dos Cosméticos Naturais e Embalagens Ecológicas"
-date:   2024-10-01 12:02:32 +0200
+date:   2024-09-30 12:02:32 +0200
 description: |
   Nos últimos anos, a demanda por práticas mais conscientes e responsáveis vem transformando o mercado de saúde e beleza. 
   A beleza sustentável surge como uma tendência que está deixando de ser apenas uma moda para se tornar um estilo de vida.  
