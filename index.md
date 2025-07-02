@@ -14,6 +14,11 @@ Com uma sólida formação em farmácia hospitalar e uma carreira que abrange de
 até aconselhamento de cuidados pessoais, estou aqui para oferecer informações confiáveis e insights
 sobre os produtos que fazem parte do seu dia a dia.
 
+**Além de indicar, também revendo os produtos que confio e uso.**  
+Se você tiver interesse em adquirí-los, pode me chamar diretamente, terei o maior prazer em orientar na escolha certa, com carinho e responsabilidade.
+
+[💬 Fale comigo pelo WhatsApp](https://wa.me/5541999740546?text=Olá%2C+Ligia%21+Vi+seu+site+Brilho+Interior+e+gostaria+de+saber+mais+sobre+os+produtos+que+você+recomenda.)
+
 
 > <h2 style="font-size:20px"><span style="color:#3498db" class="ion-information-circled"></span> Importante</h2>
 > Prezo pela transparência e qualidade em minhas recomendações, que são baseadas em experiências pessoais, pesquisa científica e comprovada eficácia. Meu objetivo é fornecer orientações confiáveis para melhorar sua saúde e beleza com produtos que fazem a diferença em sua vida, pois acredito que todos merecem o melhor para o bem-estar e a autoestima.
