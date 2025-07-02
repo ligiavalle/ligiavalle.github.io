@@ -24,6 +24,6 @@ Se você tiver interesse em adquirí-los, pode me chamar diretamente, terei o ma
 > Prezo pela transparência e qualidade em minhas recomendações, que são baseadas em experiências pessoais, pesquisa científica e comprovada eficácia. Meu objetivo é fornecer orientações confiáveis para melhorar sua saúde e beleza com produtos que fazem a diferença em sua vida, pois acredito que todos merecem o melhor para o bem-estar e a autoestima.
 
 
-👉 Veja todos os artigos já publicados: [Acesse o Índice Completo](01-indice)
+👉 Veja todos os artigos já publicados: [Acesse o Índice Completo](/indice/)
 >
  
