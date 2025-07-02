@@ -7,7 +7,6 @@ categories: general
 recommended: None
 ---
 
-## A Importância dos Ácidos Graxos Ômega-3 para a Saúde
 Os ácidos graxos ômega-3 são um dos nutrientes mais importantes, frequentemente negligenciados por muitos. Esses ácidos 
 graxos essenciais desempenham um papel de grande importância em nossa saúde e bem-estar geral. 
 Ultimamente os suplementos de ômega-3 têm sido tema de debate, especialmente em relação à sua potencial contaminação 
